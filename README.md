@@ -11,7 +11,7 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 ## VORBEREITUNG
 
 * auf [GitHub](https://github.com) registrieren
-* Text-Editor wie [Notepad++](https://notepad-plus-plus.org/) oder [Atom Editor](https://atom.io/).
+* Text-Editor wie [Notepad++](https://notepad-plus-plus.org/) oder [Atom Editor](https://atom.io/) installiert.
 
 ## INHALT
 
