@@ -90,6 +90,5 @@ Fundamentale Verteilungen, Metriken und Methoden um Daten und deren Zusammenhang
 * Genügend: 61- 70%
 * Nicht genügend: 0-60%
 
-## RESOURCEN
 
 
