@@ -73,13 +73,13 @@ Verwendete Daten:
 **1. Daten finden und Metadaten**
 
 
-[Dokumentation](uebung/UE_1-daten.md)
+[Aufgabe](uebung/UE_1-daten.md)
 
 
 **2. Review**
 
 
-[Dokumentation](uebung/UE_2-review.md)
+[Aufgabe](uebung/UE_2-review.md)
 
 
 ## BEURTEILUNG
