@@ -48,7 +48,7 @@ Zeigt die ersten Datenverarbeitenden Schritte in einer Datenanalyse - vom ausrbe
 
 Fundamentale Verteilungen, Metriken und Methoden um Daten und deren Zusammenhang besser zu verstehen. 
 
-[Folien](vorlesung/slides_4-daten-auwerten.pdf)
+[Folien](vorlesung/slides_4-daten-auswerten.pdf)
 
 ## BEURTEILUNG
 
