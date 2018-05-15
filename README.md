@@ -12,6 +12,7 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 
 * auf [GitHub](https://github.com) registrieren
 * Text-Editor wie [Notepad++](https://notepad-plus-plus.org/) oder [Atom Editor](https://atom.io/) installiert.
+* [Libre Office](https://de.libreoffice.org/)
 
 ## INHALT
 
@@ -39,7 +40,15 @@ Inhalt: Definitionen, Bias, Datentypen mit Skalierung und Dimension, Metadaten, 
 
 **3. Daten nutzen**
 
+Zeigt die ersten Datenverarbeitenden Schritte in einer Datenanalyse - vom ausrbeiten des Designs, über Daten inspizieren bis hin zum Prozessieren. 
+
+[Folien](vorlesung/slides_3-daten-nutzen.pdf)
+
 **4. Daten verstehen**
+
+Fundamentale Verteilungen, Metriken und Methoden um Daten und deren Zusammenhang besser zu verstehen. 
+
+[Folien](vorlesung/slides_4-daten-auwerten.pdf)
 
 ## BEURTEILUNG
 
@@ -50,7 +59,13 @@ Inhalt: Definitionen, Bias, Datentypen mit Skalierung und Dimension, Metadaten, 
 ### Test
 
 * Gewichtung: 20%
-* Inhalt: Ersten 4 Vorlesungs-Einheiten. Fokus: Datenskalierung, Workflow Datenanalyse, Dateiformate, Datentypen, Bias, Metadaten, 
+* Inhalt: 
+  * Bias
+  * Skalierungsniveaus
+  * Metadaten
+  * Workflow Datenanalyse
+  * Metriken: Mean, Median, Modus mit Boxplot
+  * Korrelation mit Scatterplot
 * Wann: 17. Mai 2018, 13:00-15:15
 * Dauer: 30min
 
