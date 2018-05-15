@@ -1,0 +1,15 @@
+{
+    "title": "Temperature measurements of a weather station in Vöcklamarkt in 2017.",
+    "time_intervall": "20170101 - 20171231",
+    "sensor_type": "temperature",
+    "sensor_accuracy": "+-0.14°",
+    "measurement-frequency_temperature": "3600",
+    "location": "48° 0′ 11″ N, 13° 29′ 7″ O",
+    "altitude": "488",
+    "weather-station_above-ground": "200",
+    "weather-station-type": "TM312x-s",
+    "owner": "Stefan Kasberger",
+    "owner_email": "edu@stefankasberger.at",
+    "date_created": "20180101",
+    "metadata_created": "20180101"
+}

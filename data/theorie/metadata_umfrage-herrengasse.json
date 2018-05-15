@@ -1,0 +1,21 @@
+{
+    "title": "Newspaper reading behaviour in Graz, 2018",
+    "description": "Survey at the Herrengasse about austrian newspaper reading behaviour.",
+    "date_created": "20180516",
+    "survey_date": "20180516",
+    "observer": "Stefan Kasberger",
+    "observer-email": "edu@stefankasberger.at",
+    "survey-location": "Herrengasse, Graz, Austria",
+    "observed-person-sex": "all",
+    "survey-language": "german",
+    "survey-topic": "news reading habits",
+    "observing-time": "20180516-10:00 - 20180516-12:00",
+    "filetype": "csv",
+    "organisation": "FH Joanneum Graz",
+    "license": "Creative Commons BY",
+    "survey-method": "paper survey with checkmarks",
+    "research-project": "educational course",
+    "version": "1.0",
+    "last-metadata-update": "20180516",
+    "metadata-version-number": "1.0"
+}
