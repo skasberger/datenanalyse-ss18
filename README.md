@@ -12,7 +12,8 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 
 * auf [GitHub](https://github.com) registrieren
 * Text-Editor wie [Notepad++](https://notepad-plus-plus.org/) oder [Atom Editor](https://atom.io/) installiert.
-* [Libre Office](https://de.libreoffice.org/)
+* [Libre Office](https://de.libreoffice.org/) installiert.
+* Markdown einarbeiten [Mastering Markdown](https://guides.github.com/features/mastering-markdown/), [Writing on GiHub](https://help.github.com/categories/writing-on-github/)
 
 ## INHALT
 
@@ -30,25 +31,44 @@ Inhalt: Ziele, Beurteilung, Kultur, Inhalt, Dokumentation.
 
 **2. Was sind Daten?**
 
-Theoretische Grundlagen für das Arbeiten mit Daten. 
+Theoretische Grundlagen für das Arbeiten mit Daten.
 
 
-Inhalt: Definitionen, Bias, Datentypen mit Skalierung und Dimension, Metadaten, UrheberInnenrecht, Datenschutz, Daten und Realität, Datenanalyse Workflow, Datenquellen, Datasets, Dateiformate, 
+Inhalt: Definitionen, Bias, Datentypen mit Skalierung und Dimension, Metadaten, UrheberInnenrecht, Datenschutz, Daten und Realität, Datenanalyse Workflow, Datenquellen, Datasets, Dateiformate,
 
 
 [Folien](vorlesung/slides_2-daten.pdf)
 
+
+Verwendete Daten:
+* [Parteien AT](data/theorie/parties.json)
+
+
 **3. Daten nutzen**
 
-Zeigt die ersten Datenverarbeitenden Schritte in einer Datenanalyse - vom ausrbeiten des Designs, über Daten inspizieren bis hin zum Prozessieren. 
+Zeigt die ersten Datenverarbeitenden Schritte in einer Datenanalyse - vom ausrbeiten des Designs, über Daten inspizieren bis hin zum Prozessieren.
+
 
 [Folien](vorlesung/slides_3-daten-nutzen.pdf)
 
+
+Verwendete Daten:
+* [Metadaten Umfrage Herrengasse](data/theorie/metadata_umfrage-herrengasse.json)
+* [Metadaten Wetterstation](data/theorie/metdata_wetterstation.json)
+* [Parteien AT](data/theorie/parties.json)
+
 **4. Daten verstehen**
 
-Fundamentale Verteilungen, Metriken und Methoden um Daten und deren Zusammenhang besser zu verstehen. 
+Fundamentale Verteilungen, Metriken und Methoden um Daten und deren Zusammenhang besser zu verstehen.
+
 
 [Folien](vorlesung/slides_4-daten-auswerten.pdf)
+
+
+Verwendete Daten:
+* [Beispiele Verteilungen](data/theorie/statistik_beispiele.ods)
+* [Beispiele Verteilungen für BoxplotR](data/theorie/distributions.csv)
+* [Beispiele Korrelationen](data/theorie/korellation_beispiele.ods)
 
 ## BEURTEILUNG
 
@@ -59,7 +79,7 @@ Fundamentale Verteilungen, Metriken und Methoden um Daten und deren Zusammenhang
 ### Test
 
 * Gewichtung: 20%
-* Inhalt: 
+* Inhalt:
   * Bias
   * Skalierungsniveaus
   * Metadaten
@@ -72,14 +92,14 @@ Fundamentale Verteilungen, Metriken und Methoden um Daten und deren Zusammenhang
 ### Projektpräsentation
 
 * Gewichtung: 20%
-* Inhalt: 
+* Inhalt:
 * Wann: 13. Juni 2018
 * Dauer: je 10min
 
 ### Projektabgabe
 
 * Gewichtung: 40%
-* Anforderungen: 
+* Anforderungen:
 * Deadline: 17. Juni 2018, 24 Uhr
 
 ### Notenschlüssel
@@ -89,6 +109,3 @@ Fundamentale Verteilungen, Metriken und Methoden um Daten und deren Zusammenhang
 * Befriedigend: 71-84%
 * Genügend: 61- 70%
 * Nicht genügend: 0-60%
-
-
-

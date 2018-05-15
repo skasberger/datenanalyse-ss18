@@ -3,3 +3,13 @@ notes.md
 *.odp#
 *.ods
 *.odt
+vorlesung/*.md
+docs/
+img/
+data/heinz-wassermann/
+data/raw/
+__pycache__
+beurteilung.md
+timeline.md
+praesentation.md
+
