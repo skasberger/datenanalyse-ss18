@@ -17,7 +17,7 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 
 ## INHALT
 
-### Vorlesung
+### Vorlesungen
 
 **1. Einleitung LV**
 
@@ -69,6 +69,20 @@ Verwendete Daten:
 * [Beispiele Verteilungen](data/theorie/statistik_beispiele.ods)
 * [Beispiele Verteilungen für BoxplotR](data/theorie/distributions.csv)
 * [Beispiele Korrelationen](data/theorie/korellation_beispiele.ods)
+
+### Übungen
+
+**1. Daten finden und Metadaten**
+
+
+[Dokumentation](uebung/UE_1-daten.md)
+
+
+**2. Review**
+
+
+[Dokumentation](uebung/UE_2-review.md)
+
 
 ## BEURTEILUNG
 
