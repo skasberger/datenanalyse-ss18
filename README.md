@@ -15,9 +15,7 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 * [Libre Office](https://de.libreoffice.org/) installiert.
 * Markdown einarbeiten [Mastering Markdown](https://guides.github.com/features/mastering-markdown/), [Writing on GiHub](https://help.github.com/categories/writing-on-github/)
 
-## INHALT
-
-### Vorlesungen
+## VORLESUNGEN
 
 **1. Einleitung LV**
 
@@ -70,7 +68,7 @@ Verwendete Daten:
 * [Beispiele Verteilungen für BoxplotR](data/theorie/distributions.csv)
 * [Beispiele Korrelationen](data/theorie/korellation_beispiele.ods)
 
-### Übungen
+## ÜBUNGEN
 
 **1. Daten finden und Metadaten**
 
