@@ -82,17 +82,17 @@ Die Aufgabenstellung anführen.
 Kurzer Text, in dem folgende Fragen knapp und bündig zu beantworten sind (~200 Wörter). Gib bei der Antwort den Listenpunkt der Frage an.
 1. Hast du ein Datenset gefunden?
 2. Wenn ein Datensetz gefunden wurde:
-  1. Wie wurdest du fündig? Beschreibung des Recherche Weges hin zum Ziel: welche Strategie hast du angewendet, welche Tools bzw. Internet-Seiten haben dir dabei geholfen, etc.
-  2. Link zum Datenset.
-  3. Unter welcher Urheberrechts-Lizenz steht der Datensatz? Wenn diese nicht auffindbar ist oder eine nicht bekannte Lizenz verwendet wird, dies bitte mitsamt deiner Interpretation, was du mit den Daten tun darfst, anführen.
-  4. Darfst du laut Lizenz die Daten für Bildungszwecke weiterverwenden?
-  5. Gibt es Metadaten zu dem Datensatz?
-  6. Wenn Metadaten vorhanden: Waren die Metadaten ausreichend, um das Datenset zu verstehen? (Weshalb, Weshalb nicht?)
+  * a) Wie wurdest du fündig? Beschreibung des Recherche Weges hin zum Ziel: welche Strategie hast du angewendet, welche Tools bzw. Internet-Seiten haben dir dabei geholfen, etc.
+  * b) Link zum Datenset.
+  * c) Unter welcher Urheberrechts-Lizenz steht der Datensatz? Wenn diese nicht auffindbar ist oder eine nicht bekannte Lizenz verwendet wird, dies bitte mitsamt deiner Interpretation, was du mit den Daten tun darfst, anführen.
+  * d) Darfst du laut Lizenz die Daten für Bildungszwecke weiterverwenden?
+  * e) Gibt es Metadaten zu dem Datensatz?
+  * f) Wenn Metadaten vorhanden: Waren die Metadaten ausreichend, um das Datenset zu verstehen? (Weshalb, Weshalb nicht?)
 3. Wenn kein Datenset gefunden wurde:
-  1. Wo wurde überall gesucht?
-  2. Wie war deine Such-Strategie?
-  3. Warum glaubst du, konntest du das Datenset nicht finden?
-  4. Welche öffentliche oder private Organisation sollte sein bzw. ist Eigentümer der Daten, und warum?
+  * a) Wo wurde überall gesucht?
+  * b) Wie war deine Such-Strategie?
+  * c) Warum glaubst du, konntest du das Datenset nicht finden?
+  * d) Welche öffentliche oder private Organisation sollte sein bzw. ist Eigentümer der Daten, und warum?
 
 Die Datei ist mit dem passenden Nachnamen im Dateinamen (`bericht-1_NACHNAME.md`) auf GitHub in den passenden Gruppen-Ordner hochzuladen.
 
