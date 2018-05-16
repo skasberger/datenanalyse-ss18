@@ -97,7 +97,6 @@ Verwendete Daten:
   * Metadaten
   * Workflow Datenanalyse
   * Metriken: Mean, Median, Modus mit Boxplot
-  * Korrelation mit Scatterplot
 * Wann: 17. Mai 2018, 13:00-15:15
 * Dauer: 30min
 

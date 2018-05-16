@@ -74,10 +74,10 @@ Deadline: 22. Mai 2018, 24h
 **metadata.json**
 
 
+Valdierte JSON File mit den Metadaten.
+
+
 **bericht-1_NACHNAME.md**
-
-
-Die Aufgabenstellung anführen.
 
 Kurzer Text, in dem folgende Fragen knapp und bündig zu beantworten sind (~200 Wörter). Gib bei der Antwort den Listenpunkt der Frage an.
 1. Hast du ein Datenset gefunden?
