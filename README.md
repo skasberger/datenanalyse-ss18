@@ -29,13 +29,13 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 
 ### Projekt: Gruppe A ###
 
-| Termine | Inhalt | Aufgabe |
-|--------|--------|---------|
-| 22.5.  <br> DJ: 13:00 - 15:15 <br> OK: 15:30 - 17:45 | Datenrecherche + Metadaten | [Aufgabe](uebung/UE_1-daten.md) | 
-| 23.5.<br>OK: 9:45-12:00<br>DJ: 13:00 - 15:15 | Peer Review | [Aufgabe](uebung/UE_2-review.md) | 
-| OK: 29.5. 15:30 - 17:45<br>DJ: 30.5. 8:45 - 12:00 | Daten nutzen |  | 
-| : 4.6. 13:00 - 16:15<br>: 5.6. 8:30 - 10:45 | Daten auswerten |  | 
-| 13.6.<br>OK: 13:00 - 14:30<br>DJ: 14:45 - 16:15 | Präsentation |  | 
+| Termine | Inhalt | Aufgabe | Folien |
+|---------|--------|---------|--------|
+| 22.5.  <br> DJ: 13:00 - 15:15 <br> OK: 15:30 - 17:45 | Datenrecherche + Metadaten | [Aufgabe](uebung/UE_1-daten.md) | [Folien](uebung/slides_aufgabe-1.pdf) |
+| 23.5.<br>OK: 9:45-12:00<br>DJ: 13:00 - 15:15 | Peer Review | [Aufgabe](uebung/UE_2-review.md) | [Folien](uebung/slides_aufgabe-2.pdf) |
+| OK: 29.5. 15:30 - 17:45<br>DJ: 30.5. 8:45 - 12:00 | Daten nutzen |  |  |
+| : 4.6. 13:00 - 16:15<br>: 5.6. 8:30 - 10:45 | Daten auswerten |  |  |
+| 13.6.<br>OK: 13:00 - 14:30<br>DJ: 14:45 - 16:15 | Präsentation |  |  |
 
 ## BEURTEILUNG
 
