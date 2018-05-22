@@ -1,3 +1,5 @@
+**[Folien](uebung/slides_aufgabe-2.pdf)**
+
 ## Todo
 
 **1. Datenrecherchen reviewen**

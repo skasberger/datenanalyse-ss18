@@ -58,14 +58,12 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 ### Projektpräsentation
 
 * Gewichtung: 20%
-* Inhalt:
 * Wann: 13. Juni 2018
 * Dauer: je 10min
 
 ### Projektabgabe
 
 * Gewichtung: 40%
-* Anforderungen:
 * Deadline: 17. Juni 2018, 24 Uhr
 
 ### Notenschlüssel
