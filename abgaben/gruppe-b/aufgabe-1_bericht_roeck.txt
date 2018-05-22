@@ -1,0 +1,34 @@
+#Markdown-Bericht
+
+##Hast du den Datensatz gefunden?
+Ja, jedoch nur in PDF-Form
+
+##Beschreibe deinen Rechercheweg
+Am Anfang stand die Google-Suche. Diese hat mich auf die Website des Innenministeriums geführt, wo relativ schnell die Daten zu winden waren.
+
+##Link zum Datenset
+[Bundespräsidentenwahl 2004](https://www.bmi.gv.at/412/Bundespraesidentenwahlen/Bundespraesidentenwahl_2004/files/bpwahl04_ErgE.pdf)
+
+##Unter welcher Urheberrechts-Lizenz steht der Datensatz?
+Die Lizenz ist nicht angegeben.
+
+##Darfst du die Daten für Bildungszwecke weiterverwenden?
+Laut Impressum ist die Übernahme "außer für kommerzielle Zwecke" gestattet, also ja.
+
+##Gibt es die Metadaten zu dem Datensatz?
+Nein, es sind keine Metadaten vorhanden. Durch die auf der Website vorhandenen Beschreibungstexte ist der Inhalt jedoch klar verständlich. Hilfreiche Metadaten wären: Datum der Wahl, Anzahl der Kandidaten, Land, eine Beschreibung der GKZ.
+
+
+
+##Wo wurde überall gesucht?
+Neben der Suche auf der Seite des Innenministeriums habe ich auch auf Statistik-Austria.at, Data.gv.at sowie auf der Website des Standards gesucht, wo ein Bericht auf eine offizielle Veröffentlichung der Ergebnisse in Zusammenarbeit mit Siemens [verlinkt.](https://derstandard.at/1633846/Ergebnisse-der-Bundespraesidentenwahl-2004)
+Daneben habe ich weitere Daten, jedoch nur von einzelnen Gemeinden (z.B. BP-Wahl der Stadt Graz) gefunden.
+
+##Wie war deine Such-Strategie?
+Meine Such-Strategie beschränkte sich auf die bekanntesten Herkunftsorte von Daten in Österreich. Nachdem ich dort nicht zu meiner Zufriedenheit fündig wurde, habe ich auch weitere Ergebnisse via Google durchsucht.
+
+##Beschreibe, warum du glaubst, dass du das Datenset nicht gefunden hast?
+Ich bin der Meinung, dass ich das Datenset sehr wohl gefunden habe, dies jedoch nicht in einem verarbeitbaren Format ist. Als weiteren Schritt würde ich diese Daten über ein Online-Tool (z.B. Tabula) scrapen und als xlsx- oder CSV-Datei abspeichern.
+
+##Welche öffentlichen oder privaten Organisationen sind Eigentümer der Daten bzw. sollten diese haben? Warum?
+Eigentümer der Daten ist das Bundesministerium für Inneres. Sie besitzen diese Daten auch, haben sie 
