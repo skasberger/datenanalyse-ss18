@@ -80,9 +80,11 @@ Ergebnis der Gruppeneinteilung mitsamt dem eigenen User-Account in Spreadsheet e
 
 **metadata.json**
 
-
-Valdierte JSON File mit den Metadaten. Keys auf Englisch, ohne Leerzeichen, alles klein, mit Underscore als Trennzeichen (z. B. `date_created`). Metadaten sollen für Computer genauso wie für Menschen verständlich bzw. nützlich sein.
-
+Valdierte JSON File mit den Metadaten. 
+* Keys auf Englisch, ohne Leerzeichen, alles klein, mit Underscore als Trennzeichen (z. B. `"date_created"`). 
+* Metadaten sollen für Computer genauso wie für Menschen verständlich bzw. nützlich sein.
+* jedes Key-Value Pair wird mit einem Beistrich abgeschlossen, ausser das letzte.
+* JSON Dictionaries (Key-Value Pairs) werden mit einer geschwungenden Klammer gestartet und beendet.
 
 **aufgabe-1_bericht_NACHNAME.md**
 
