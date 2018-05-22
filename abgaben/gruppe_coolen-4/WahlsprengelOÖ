@@ -1,0 +1,29 @@
+#Aufgabe 2: Wahlsprengel Landtagswahlen Oberösterreich 2015 (Geo-Daten)
+
+##1. Strategie:
+
+###Google Suche mit Stichworten: „Landtagswahlen in Oberösterreich 2015 Wahlsprengel“
+
+*stichprobenartiges Anklicken von Links, um mir einen Überblick zu verschaffen: z.B. Wikipedia, ORF News, Land Oberösterreich, ...
+*bei Land Oberösterreich: LTM15-Wahlbericht gefunden (LTM15-Wahlbericht.pdf), am Ende des Dokuments wurden die Ergebnisse der Wahl in Wahlsprengel eingeteilt und visualisiert. Geodaten sind hier nicht zu finden.
+
+###Google Suche mit Stichworten: „Wahlsprengel Oberösterreich“ bzw. „Wahlsprengel Oberösterreich Geodaten“
+
+* Auch bei drawing data habe ich nur Ergebnisse und keine Geodaten gefunden.
+* https://www.data.gv.at/katalog/dataset/79c1030d-5cf6-4d58-ade6-02f66fb4dffb hier scheinen sich Informationen zu den Wahlsprengel in Wien zu befinden, kann aber manche Daten nicht öffnen
+* Man findet hauptsächlich bereits visualisierte Ergebnisse, keine Geodaten.
+* Ausnahme: https://open.wien.gv.at/site/wahlen-wien-wahlsprengel/ Hier habe ich detaillierte Karten gefunden, die die Wiener Wahlsprengel zeigen. Daraufhin habe ich versucht, mit den Stichworten „open gv“ usw. eine ähnliche Seite für Oberösterreich zu finden. 
+* Mein letzter Versuch: Auf www.data.gv.at verschiedene Stichworte eingeben (z.B. wahl sprengel oö geo), habe aber leider auch hier nichts gefunden.
+
+## 2.Wo wurde gesucht?
+*Google
+*Wikipedia
+*ORF
+*Land OÖ
+*Data GV
+
+## 3.Warum nicht gefunden?
+Vermutlich gibt es diese Datensets nicht online. Meine Vermutung: Fehlendes Interesse der Allgemeinbevölkerung an Geodaten der Wahlsprengel. Diese Thema ist zu spezifisch.
+
+## 4.Eigentümer
+Land OÖ sollte die Daten beispielsweise haben, denn sie brauchen die Geodaten, um die Wahlsprengel für Wahlen einzuteilen.
