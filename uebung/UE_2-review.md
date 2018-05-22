@@ -16,20 +16,19 @@ Ungefährer Aufwand:
 
 
 Schritte:
-* Unter den Gruppenmitgliedern sämtliche Berichte aus der letzten Einheit (`bericht-1_NACHNAME.md`) zum Reviewen aufteilen. Verwendet dazu am besten das Spreadsheet unter [bit.ly/2IomohF](http://bit.ly/2IomohF).
-* Jeder liest für sich selbst die zugewiesenen Berichte durch.
-* Danach gemeinsam in der Gruppe über die Datenrecherchen diskutieren. Folgende Fragen sind dabei zu stellen:
+* Jedes Gruppenmitglied sucht sich die drei zugewiesenen Studierenden im Spreadsheet raus und sucht dann deren Bericht aus der letzten Einheit (`aufgabe-1_bericht_NACHNAME.md`).
+* Jeder liest für sich selbst die zugewiesenen Berichte kurz durch.
+* Danach gemeinsam in der Gruppe über die Erfahrung der Anderen bei der Datenrecherchen diskutieren. Folgende Fragen sind dabei zu stellen:
   * Welche Recherche-Strategien gab es?
-  * Wie war die Ratio zwischen gefunden Daten und nicht gefundenen Daten?
+  * Wie war das Verhältnis zwischen gefundenen Daten und nicht gefundenen Daten?
   * zu gefundenen Datensets:
     * Reichten die Metadaten aus, um das Datenset zu verstehen?
     * Gab es neue, noch unbekannte Datenquellen?
     * Wie verlief die Suche nach der UrheberInnenrechts-Lizenz?
-    * Wie wurde die Metadaten-Qualität eingeordnet?
   * zu nicht-gefundenen Datensets:
     * Was waren wiederkehrende Probleme, wenn Daten nicht gefunden wurden?
 * Die einzelnen Diskussions-Punkte sind danach im Bericht schriftlich zusammen zu fassen.
-* Upload der Datei (`bericht-2.md`) in das GitHub Repository.
+* Upload der Datei (`aufgabe-1_bericht.md`) in das GitHub Repository.
 
 
 **2. Peer Review Metadaten**
@@ -48,31 +47,25 @@ Ungefährer Aufwand:
 
 
 Schritte:
-* Die `metadata.json` Datei von den drei alphabetisch auf die eigene Gruppe folgenden Gruppen durchlesen (Reihenfolge fängt von vorne wieder an, wenn man aphabetisch am Ende ankommt).
-* Issue zu jedem Review verfassen und dabei Feedback zu den Metadaten geben. Freundlliche und konstruktive Sprache beachten.
-* Eine Beurteilung für die Aufgabe überlegen und via Email an edu@stefankasberger.at senden. Als Kriterien gelten die Qualität der Bezeichnungen (sind diese verständlich gewählt) und wie umfangreich die Metadaten sind (sind möglichst viele Informationen enthalten). Tipp: Zuerst die Dateien ansehen, und dannach erst die Beurteilung durchführen (damit alle gleich beurteilt werden und man ein Gefühl für die Lösungen bekommt).
+* Jede Gruppe sucht sich die drei zugewiesenen Gruppenarbeiten zu Metadaten (`aufgabe-1_metadata.json`) aus dem Spreadsheet.
+* Issue zu jedem Review verfassen und dabei Feedback zu den Metadaten geben. Freundliche und konstruktive Sprache beachten!
+* Eine Beurteilung für die Aufgabe überlegen und via Email an edu@stefankasberger.at senden. Als Kriterien gelten:
+  * Qualität der Key-Value Paare (sind diese verständlich gewählt)
+  * Umfang der Metadaten (sind möglichst viele Informationen enthalten). Tipp: Zuerst die Dateien ansehen, und dannach erst die Beurteilung durchführen (damit alle gleich beurteilt werden und man ein Gefühl für die Lösungen bekommt).
+  * Validität der Daten
 * Bericht mit Erfahrungen zum Peer Review verfassen.
-* Upload des Berichtes (`bericht-2_NACHNAME.md`) in das GitHub Repository.
+* Upload des Berichtes (`aufgabe-2_bericht_NACHNAME.md`) in das GitHub Repository.
 
 ## Abgaben
 
 Deadline: 23. Mai 2018, 24h
 
 
-**bericht-2.md**
+**aufgabe-2_bericht.md**
 
 
 Zusammenfassung der Diskussion zu den Datenrecherchen (~200 Wörter):
-* Fasst die Diskussionen in der Gruppe zu den einzelnen Fragen zusammen. Zu jeder Frage ein kurzer Absatz.
-
-
-**bericht-2_NACHNAME.md**
-
-
-Verfasse einen kurzen, persönlichen Text (~200 Wörter) mit den Erfahrungen zum Peer Review:
-* Wie war die Erfahrung des Peer Reviews für dich? Hast du von den anderen etwas gelernt? Gab es Schwierigkeiten?
-* Wie ist es dir bei der Beurteilung gegangen?
-* Links zu den Issues
+* Fasst die Diskussionen in der Gruppe zu den einzelnen Fragen zusammen. Zu jeder Frage ein kurzer Absatz mit Überschrift (Header 2).
 
 
 **Drei GitHub Issues zu metadata.json**
@@ -92,13 +85,26 @@ Inhalt eines Issues:
 **Benotung je metadata.json**
 
 
-Email an edu@stefankasberger.at senden.
+Email an edu@stefankasberger.at senden. 
 
-* Betreff: Benotung LV Datenanalyse
+* Betreff: Benotung LV Datenanalyse, Aufgabe #2
 * Inhalt Email
   * Name StudentIn
-  * Benotung zu jeder einzelnen Gruppe anführen
+  * Benotung zu jeder einzelnen Gruppe anführen. Die Qualität der Benotung ist die Grundlage für die eigene Benotung.
     * Name der Gruppe
     * Link zu GitHub Issue
     * Beurteilung (Sehr Gut bis Nicht Genügend)
+
+
+**aufgabe-2_bericht_NACHNAME.md**
+
+
+Verfasse einen kurzen, persönlichen Text (~200 Wörter) mit den Erfahrungen zum Peer Review und Peer Grading. Gliedere in für dich logische Abschnitte mitsamt Überschrift (Header 2):
+* Wie war die Erfahrung des Peer Reviews für dich? 
+* Hast du von den anderen etwas gelernt? 
+* Gab es Schwierigkeiten?
+* Wie ist es dir bei der Beurteilung gegangen?
+* Links zu den Issues
+
+
 

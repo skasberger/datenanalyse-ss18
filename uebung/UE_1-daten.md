@@ -18,11 +18,11 @@ PROJEKTNAME/
   data/: hier kommen erzeugte Datensets rein, die man für die Analyse bzw. Aufgaben benötigt.
     raw/: hier kommen die Rohdaten in ihrer Orginalform rein. Daten sollen nicht verändert werden.
   docs/: hier wird alles mögliche an Dokumenten gespeichert, die man für die Analyse braucht. Papers, eigens erstelle Notizen etc.
-  aufgabe-1/: Dateien zu Aufgabe 1
-  aufgabe-2/: Dateien zu Aufgabe 2
-  aufgabe-3/: Dateien zu Aufgabe 3
-  aufgabe-4/: Dateien zu Aufgabe 4
-  praesentation/: Dateien zur Präsentation
+  aufgabe-1/: hier kommen sämtliche Dateien zur Aufgabe 1
+  aufgabe-2/: hier kommen sämtliche  Dateien zur Aufgabe 2
+  aufgabe-3/: hier kommen sämtliche  Dateien zur Aufgabe 3
+  aufgabe-4/: hier kommen sämtliche  Dateien zur Aufgabe 4
+  praesentation/: hier kommen sämtliche Daten zur Präsentation
   notes.md: Dokumentation für einen selbst. Interne Notizzen. (optional)
 ```
 
@@ -71,31 +71,37 @@ Schritte:
 Deadline: 22. Mai 2018, 24h
 
 
+**Gruppeneinteilung und GitHub account**
+
+Ergebnis der Gruppeneinteilung mitsamt dem eigenen User-Account in Spreadsheet eingeben.
+
+
 **metadata.json**
 
 
-Valdierte JSON File mit den Metadaten.
+Valdierte JSON File mit den Metadaten. Key-Value Paare auf Englisch, ohne Leerzeichen, alles klein, mit Underscore als Trennzeichen (z. B. `date_created`). Metadaten sollen für Computer genauso wie für Menschen verständlich bzw. nützlich sein.
 
 
-**bericht-1_NACHNAME.md**
+**aufgabe-1_bericht_NACHNAME.md**
 
-Kurzer Text, in dem folgende Fragen knapp und bündig zu beantworten sind (~200 Wörter). Gib bei der Antwort den Listenpunkt der Frage an.
-1. Hast du ein Datenset gefunden?
-2. Wenn ein Datensetz gefunden wurde:
-  * a) Wie wurdest du fündig? Beschreibung des Recherche Weges hin zum Ziel: welche Strategie hast du angewendet, welche Tools bzw. Internet-Seiten haben dir dabei geholfen, etc.
+Kurzer Text, in dem folgende Fragen knapp und bündig zu beantworten sind (~200 Wörter). Gib bei der Antwort den Listenpunkt der Frage an und erstelle einen eigenen Absatz mit Überschrift (Header 2) zu jeder Frage.
+1. Hast du den Datensatz gefunden?
+2. Wenn ja:
+  * a) Beschreibe deinen Recherche Weg: Wie wurdest du fündig? Welche Strategie hast du angewendet? Welche Tools bzw. Internet-Seiten haben dir dabei geholfen, etc.
   * b) Link zum Datenset.
-  * c) Unter welcher Urheberrechts-Lizenz steht der Datensatz? Wenn diese nicht auffindbar ist oder eine nicht bekannte Lizenz verwendet wird, dies bitte mitsamt deiner Interpretation, was du mit den Daten tun darfst, anführen.
+  * c) Unter welcher Urheberrechts-Lizenz steht der Datensatz? Falls nicht auffindbar oder schwer zu interpretieren (keine standardisierte Lizenz ala Creative Commons), kurz anführen.
   * d) Darfst du laut Lizenz die Daten für Bildungszwecke weiterverwenden?
   * e) Gibt es Metadaten zu dem Datensatz?
-  * f) Wenn Metadaten vorhanden: Waren die Metadaten ausreichend, um das Datenset zu verstehen? (Weshalb, Weshalb nicht?)
-3. Wenn kein Datenset gefunden wurde:
+    * ja: Waren die Metadaten ausreichend, um das Datenset zu verstehen? (Weshalb, Weshalb nicht?)
+    * nein: Welche Metadaten bräuchtest du?
+3. Wenn nein:
   * a) Wo wurde überall gesucht?
-  * b) Wie war deine Such-Strategie?
-  * c) Warum glaubst du, konntest du das Datenset nicht finden?
-  * d) Welche öffentliche oder private Organisation sollte sein bzw. ist Eigentümer der Daten, und warum?
+  * b) Wie war deine Such-Strategie? Beschreibe die verschiedenen Recherchewege, die du eingeschlagen hast (Repository, Community, Suchmaschine, etc.)
+  * c) Beschreibe, warum du glaubst, dass du das Datenset nicht gefunden hast?
+  * d) Welche öffentlichen oder privaten Organisationen sind Eigentümer der Daten bzw. sollten diese haben? Warum?
 
-Die Datei ist mit dem passenden Nachnamen im Dateinamen (`bericht-1_NACHNAME.md`) auf GitHub in den passenden Gruppen-Ordner hochzuladen.
+Die Datei ist mit dem passenden Nachnamen im Dateinamen (`aufgabe-1_bericht_NACHNAME.md`) auf GitHub in den passenden Gruppen-Ordner hochzuladen.
 
-z. B. `bericht-1_neumann.md`
+z. B. `aufgabe-1_bericht_neumann.md`
 
 
