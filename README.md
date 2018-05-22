@@ -7,80 +7,35 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 * Studium: Journalismus und Public Relations
 * Semester: 4., Sommersemester 2018
 * Short URL: [bit.ly/datenanalyse-ss18](http://bit.ly/datenanalyse-ss18)
+* Lizenz: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) (sofern nicht explizit anders erwähnt)
 
 ## VORBEREITUNG
 
 * auf [GitHub](https://github.com) registrieren
 * Text-Editor wie [Notepad++](https://notepad-plus-plus.org/) oder [Atom Editor](https://atom.io/) installiert.
 * [Libre Office](https://de.libreoffice.org/) installiert.
-* Markdown einarbeiten [Mastering Markdown](https://guides.github.com/features/mastering-markdown/), [Writing on GiHub](https://help.github.com/categories/writing-on-github/)
+* Markdown einarbeiten: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/), [Writing on GiHub](https://help.github.com/categories/writing-on-github/)
 
 ## VORLESUNGEN
 
-**1. Einleitung LV**
-
-Einleitung in die Lehrveranstaltung.
-
-
-Inhalt: Ziele, Beurteilung, Kultur, Inhalt, Dokumentation.
-
-
-[Folien](vorlesung/slides_1-einleitung.pdf)
-
-**2. Was sind Daten?**
-
-Theoretische Grundlagen für das Arbeiten mit Daten.
-
-
-Inhalt: Definitionen, Bias, Datentypen mit Skalierung und Dimension, Metadaten, UrheberInnenrecht, Datenschutz, Daten und Realität, Datenanalyse Workflow, Datenquellen, Datasets, Dateiformate,
-
-
-[Folien](vorlesung/slides_2-daten.pdf)
-
-
-Verwendete Daten:
-* [Parteien AT](data/theorie/parties.json)
-
-
-**3. Daten nutzen**
-
-Zeigt die ersten Datenverarbeitenden Schritte in einer Datenanalyse - vom ausrbeiten des Designs, über Daten inspizieren bis hin zum Prozessieren.
-
-
-[Folien](vorlesung/slides_3-daten-nutzen.pdf)
-
-
-Verwendete Daten:
-* [Metadaten Umfrage Herrengasse](data/theorie/metadata_umfrage-herrengasse.json)
-* [Metadaten Wetterstation](data/theorie/metdata_wetterstation.json)
-* [Parteien AT](data/theorie/parties.json)
-
-**4. Daten verstehen**
-
-Fundamentale Verteilungen, Metriken und Methoden um Daten und deren Zusammenhang besser zu verstehen.
-
-
-[Folien](vorlesung/slides_4-daten-auswerten.pdf)
-
-
-Verwendete Daten:
-* [Beispiele Verteilungen](data/theorie/statistik_beispiele.ods)
-* [Beispiele Verteilungen für BoxplotR](data/theorie/distributions.csv)
-* [Beispiele Korrelationen](data/theorie/korellation_beispiele.ods)
+| Inhalt        | Folien | Daten |
+|---------------|--------|--------|
+| Einleitung LV | [Einleitung](vorlesung/slides_1-einleitung.pdf) |  |
+| Theoretische Grundlagen für das Arbeiten mit Daten | [Daten](vorlesung/slides_2-daten.pdf) |  |
+| Die vorbereitenden Datenverarbeitungs-Schritte in einer Datenanalyse. | [Daten nutzen](vorlesung/slides_3-daten-nutzen.pdf) | [Metadaten Umfrage Herrengasse](data/theorie/metadata_umfrage-herrengasse.json), [Metadaten Wetterstation](data/theorie/metdata_wetterstation.json) |
+| Analyse: Verteilungen, Metriken und Korrelation. | [Daten auswerten](vorlesung/slides_4-daten-auswerten.pdf) | [Beispiele Verteilungen](data/theorie/statistik_beispiele.ods), [Beispiele Verteilungen für BoxplotR](data/theorie/distributions.csv), [Beispiele Korrelationen](data/theorie/korellation_beispiele.ods)|
 
 ## ÜBUNGEN
 
-**1. Daten finden und Metadaten**
+### Projekt: Gruppe A ###
 
-
-[Aufgabe](uebung/UE_1-daten.md)
-
-
-**2. Review**
-
-
-[Aufgabe](uebung/UE_2-review.md)
-
+| Termine | Inhalt | Aufgabe |
+|--------|--------|---------|
+| 22.5.  <br> DJ: 13:00 - 15:15 <br> OK: 15:30 - 17:45 | Datenrecherche + Metadaten | [Aufgabe](uebung/UE_1-daten.md) | 
+| 23.5.<br>OK: 9:45-12:00<br>DJ: 13:00 - 15:15 | Peer Review | [Aufgabe](uebung/UE_2-review.md) | 
+| OK: 29.5. 15:30 - 17:45<br>DJ: 30.5. 8:45 - 12:00 | Daten nutzen |  | 
+| : 4.6. 13:00 - 16:15<br>: 5.6. 8:30 - 10:45 | Daten auswerten |  | 
+| 13.6.<br>OK: 13:00 - 14:30<br>DJ: 14:45 - 16:15 | Präsentation |  | 
 
 ## BEURTEILUNG
 
@@ -92,11 +47,11 @@ Verwendete Daten:
 
 * Gewichtung: 20%
 * Inhalt:
-  * Bias
-  * Skalierungsniveaus
-  * Metadaten
-  * Workflow Datenanalyse
-  * Metriken: Mean, Median, Modus mit Boxplot
+    * Bias
+    * Skalierungsniveaus
+    * Metadaten
+    * Workflow Datenanalyse
+    * Metriken: Mean, Median, Modus mit Boxplot
 * Wann: 17. Mai 2018, 13:00-15:15
 * Dauer: 30min
 
