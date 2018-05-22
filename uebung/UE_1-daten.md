@@ -90,11 +90,11 @@ Kurzer Text, in dem folgende Fragen knapp und bündig zu beantworten sind (~200 
 1. Hast du den Datensatz gefunden?
 2. Wenn ja:
   * a) Beschreibe deinen Recherche Weg: Wie wurdest du fündig? Welche Strategie hast du angewendet? Welche Tools bzw. Internet-Seiten haben dir dabei geholfen, etc.
-  * b) Link zum Datenset.
+  * b) Link zum Datenset
   * c) Unter welcher Urheberrechts-Lizenz steht der Datensatz? Falls nicht auffindbar oder schwer zu interpretieren (keine standardisierte Lizenz ala Creative Commons), kurz anführen.
   * d) Darfst du laut Lizenz die Daten für Bildungszwecke weiterverwenden?
   * e) Gibt es Metadaten zu dem Datensatz?
-    * ja: Waren die Metadaten ausreichend, um das Datenset zu verstehen? (Weshalb, Weshalb nicht?)
+    * ja: Waren die Metadaten ausreichend, um das Datenset zu verstehen? (Weshalb, Weshalb nicht?) Link zu den Metadaten angeben.
     * nein: Welche Metadaten bräuchtest du?
 3. Wenn nein:
   * a) Wo wurde überall gesucht?
