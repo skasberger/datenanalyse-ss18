@@ -1,0 +1,33 @@
+{
+	"National Elections Austria 2017": "Nationalratswahlen 2017",
+	"Party_1": "SPÖ",
+	"Party_2": "ÖVP",
+	"Party_3": "FPÖ",
+	"Party_4": "NEOS",
+	"Party_5 ": "Liste Pilz",
+	"Party_6": "Grüne",
+
+	"Top_Candidate_SPÖ": "Christian_Kern",
+	"Top_Candidate_ÖVP": "Sebastian_Kurz",
+	"Top_Candidate_FPÖ": "Heinz_Christian_Strache",
+	"Top_Candidate_NEOS": "Matthias_Strolz",
+	"Top_Candidate_Pilz": "Peter_Pilz",
+	"Top_Candidate_Grüne": "Ulrike_Lunacek",
+
+
+	"Location_1": "Wien_Wien",
+	"Location_2": "Steiermark_Graz",
+	"Location_3": "Salzburg_Salzburg",
+	"Location_4": "Tirol_Innsbruck",
+	"Location_5": "Oberösterreich_Linz",
+	"Location_6": "Vorarlberg_Bregenz",
+	"Location_7": "Kärnten_Klagenfurt",
+	"Location_8": "Niederösterreich_St.Pölten",
+	"Location_9": "Burgenland_Eisenstadt",
+
+	"Voters_total": "Gesamtwahlbeteiligung 80 %",
+	"Valid_votes": "4.692.907 gültige Stimmen",
+	"Non_valid_votes": "89.656 ungültige Stimmen",
+	"Eligible_to_vote": "6.384.331 wahlberechtigte Stimmen"
+
+}
