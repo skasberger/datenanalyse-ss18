@@ -30,7 +30,7 @@ Schritte:
   * zu nicht-gefundenen Datensets:
     * Was waren wiederkehrende Probleme, wenn Daten nicht gefunden wurden?
 * Die einzelnen Diskussions-Punkte sind danach im Bericht schriftlich zusammen zu fassen.
-* Upload der Datei (`aufgabe-1_bericht.md`) in das GitHub Repository.
+* Upload der Datei (`aufgabe-2_bericht.md`) in das GitHub Repository.
 
 
 **2. Peer Review Metadaten**
@@ -49,8 +49,11 @@ Ungefährer Aufwand:
 
 
 Schritte:
-* Jede Gruppe sucht sich die drei zugewiesenen Gruppenarbeiten zu Metadaten (`aufgabe-1_metadata.json`) aus dem Spreadsheet.
-* Issue zu jedem Review verfassen und dabei Feedback zu den Metadaten geben. Freundliche und konstruktive Sprache beachten!
+* Jede Studentin sucht sich die drei zugewiesenen Gruppenarbeiten zu Metadaten (`aufgabe-1_metadata.json`) aus dem Spreadsheet.
+* Issue zu jedem Review verfassen und dabei Feedback zu den Metadaten geben. 
+  * Freundliche und konstruktive Sprache beachten.
+  * als project die korrekte Gruppe zuweisen.
+  * als Label peer review zuweisen
 * Eine Beurteilung für die Aufgabe überlegen und via Email an edu@stefankasberger.at senden. Als Kriterien gelten:
   * Qualität der Key-Value Paare (sind diese verständlich gewählt)
   * Umfang der Metadaten (sind möglichst viele Informationen enthalten). Tipp: Zuerst die Dateien ansehen, und dannach erst die Beurteilung durchführen (damit alle gleich beurteilt werden und man ein Gefühl für die Lösungen bekommt).
