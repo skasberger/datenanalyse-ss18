@@ -1,0 +1,123 @@
+3. Daten finden - Samira Frauwallner 
+
+Selbständige Recherche nach einem Datensatz.
+
+Typ: Individualarbeit
+
+Datensatz aus Liste raussuchen.
+Selbstständig nach dem Datensatz recherchieren.
+Dokumentieren der Recherche als Markdown im Bericht.
+Upload der Datei in das GitHub Repository.
+
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
+
+
+#**Hast du den Datensatz gefunden?
+Wenn ja:
+
+**Unter welcher Urheberrechts-Lizenz steht der Datensatz? Falls nicht auffindbar oder schwer zu interpretieren (keine standardisierte Lizenz ala Creative Commons), kurz anführen.
+**Darfst du laut Lizenz die Daten für Bildungszwecke weiterverwenden?
+**Gibt es Metadaten zu dem Datensatz?
+ja: Waren die Metadaten ausreichend, um das Datenset zu verstehen? (Weshalb, Weshalb nicht?) Link zu den Metadaten angeben.
+nein: Welche Metadaten bräuchtest du?
+
+**Wenn nein:
+**Wo wurde überall gesucht?
+**Wie war deine Such-Strategie? Beschreibe die verschiedenen Recherchewege, die du eingeschlagen hast (Repository, Community, Suchmaschine, etc.)
+**Beschreibe, warum du glaubst, dass du das Datenset nicht gefunden hast?
+**Welche öffentlichen oder privaten Organisationen sind Eigentümer der Daten bzw. sollten diese haben? Warum? 
+Die Datei ist mit dem passenden Nachnamen im Dateinamen (aufgabe-1_bericht_NACHNAME.md) auf GitHub in den passenden Gruppen-Ordner hochzuladen.
+
+z. B. aufgabe-1_bericht_neumann.md
+
+
+#Wahlumfragen Nationalratswahl 2017
+#Quelle: https://neuwal.com/wahlumfragen/index.php > 
+
+**a) Beschreibe deinen Recherche Weg: Wie wurdest du fündig? Welche Strategie hast du angewendet? Welche Tools bzw. Internet-Seiten haben dir dabei geholfen, etc.**
+Der erste Schritt war, mir die Fragen aus der Github-Projektseite zu kopieren und hier einzufügen. Ich habe mich als erstes mit dem Thema auseinandergesetzt und versucht zu verstehen, was genau von mir gefordert wird, da ich mich zuvor nie mit diesem Thema wirklich auseinandergesetzt habe. Zum Thema Wahlumfrage habe ich mich bei meiner Recherchearbeit für die Internet-Seite neuwal.com entschieden - eine ehrenamtliche und weitläufig vertrauenswürdige Homepage. Weiters hätte es sonst noch Alternativen wie nationalratswahl.com gegeben bzw. diverse Zeitungsartikel. 
+
+Ich habe mir die Frage gestellt, von woher Neuwal ihre (Roh-)Daten bekommt, von welchen Forschungsinstituten, bzw. wer die Auftraggeber sind. 
+
+Dabei bin ich auf das Thema gestoßen, welche und wie viele Suchbegriffe sinnvoll sind - 
+worauf die Antwort ist, dass prinzipiell beliebig viele Suchbegriffe für die Recherche angegeben werden können, allerdings sucht das System bei der einfachen Suche lediglich bei bis zu vier Begriffen die Titel, in denen wirklich alle diese Wörter vorkommen. Aus diesem Grund soll es besonders wichtig sein, nur sinntragende Begriffe auszuwählen und bei der Suche nach einem Titel z.B. Artikel, Präpositionen u.Ä. wegzulassen.
+
+**In der Übersicht:** Bei bis zu 4 Suchbegriffen müssen alle 4 im Datensatz enthalten sein, damit er als Treffer angezeigt wird. 
+Bei 5 - 7 eingegebenen Suchbegriffen werden auch noch Datensätze angezeigt, in denen einer der Suchbegriffe fehlt. 
+Ab 8 Suchbegriffen müssen mindestens 80% der eingegebenen Wörter im Datensatz enthalten sein.
+
+**In der Phrasensuche:** Wörter, die in einer ganz bestimmten Reihenfolge vorkommen sollen, z.B. feststehende Begriffe wie "Französische Revolution" oder auch vollständige Buchtitel, können bei der Suche in Anführungszeichen setzen. Es werden dann nur Treffer angezeigt, in denen diese sogenannte "Phrase" genau so vorkommt.
+
+
+**b) Links zum Datenset**
+https://neuwal.com/wahlumfragen/
+http://www.researchaffairs.at/Aktuelle-Studien/
+neuwal podwal 6 - Wahlumfragen- und Analyse-Podcast (20.08.2017)
+Mit Sabine Beinschab (Research Affairs) und Dieter Zirnig (neuwal.com)
+neuwal.com https://soundcloud.com/neuwal/neuwal-podwal-6-wahlumfragen-und-analyse-podcast-20082017
+
+Neuwal hat von Research Affairs seine Daten genommen, das von der ZEITUNG ÖSTERREICH in Auftrag gegeben wurde. 
+
+###Hier ein Beispiel: 
+
+**Angaben zur Umfrage – Welle 8/2018’’
+
+Auftraggeber:                                               Tageszeitung Österreich
+
+Institut/Feldarbeit:                                       Research Affairs/Talk
+
+Methode:                                                       Onlinebefragung
+
+Zielgruppe:                                                    ÖsterreicherInnen, rep. für die Bevölkerung   zwischen 16-69 Jahren
+
+Stichprobengröße:                                        n=1004
+
+Max. Schwankungsbreite:                           n=1004 +/- 3,2%
+
+Deklarierte:                                                     n=773
+
+Wähleranteil:                                                  77%
+
+Max. Schwankungsbreite                                 n=822:               +/- 3,4%
+
+Untersuchungszeitraum:                              12.-18. April 2018
+
+Stichproben-Methode:                                  Quotenauswahl (nach Geschlecht, Alter, Bildung, Bundesland) lt. Statistik Austria
+
+Stichprobengrundlage:                                 Institutseigene Datenbanken (Talk Onlinepanel)
+
+Wortlaut Sonntagsfrage:                              
+„Angenommen am kommenden Sonntag wäre Neuwahl: Welcher Partei würden Sie da Ihre Stimme geben?“ (Parteien mit Spitzenkandidaten rotierend vorgelesen inkl. der Antwortkategorien einer                                                                                  anderen Partei/unentschlossen/weiß noch nicht/werde weiß/ungültig wählen/keine Angabe)
+
+Am Beispiel Nationalratswahl 2017 habe ich hier gesucht: 
+https://www.data.gv.at/katalog/dataset/nationalratswahl-2017
+
+Datenverantwortliche Stelle - E-Mailkontakt E-Mail Kontaktadresse der für den Datensatz, den Dienst oder das Dokument zuständigen Organisation bzw. Person	open.commons@linz.at 
+
+https://www.linz.at/politik_verwaltung/bas.asp 
+
+https://www.data.gv.at/katalog/dataset/2eb011e4-e899-4eee-885d-4b9da665033c
+
+**URL:**
+https://www.data.gv.at/katalog/dataset/2eb011e4-e899-4eee-885d-4b9da665033c/resource/dc484a2b-ccd3-4a99-98cc-845003cb5505/do 
+
+###Fazit: Ich konnte hier weiterhin nichts finden und das theoretisch Erlernte an diesem Punkt leider nicht weiter anwenden, glaube ich. Ich habe zwar theoretisch Stellen und Links gefunden, an denen etwas zu finden wäre, aber im Grunde war ich mir an keinem Punkt sicher, das Richtige gesucht bzw. gefunden zu haben. 
+
+###Im Endeffekt bin ich draufgekommen, dass das, was ich suche, zum Beispiel über Research Affairs nicht zu finden ist. 
+http://www.researchaffairs.at/Aktuelle-Studien/ 
+
+###Eigentümer von Daten sollten öffentliche Einrichtungen wie zb. die Research-Institute sein bzw. öffentlich zugängliche Ämter 
+
+
+
