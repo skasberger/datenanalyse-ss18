@@ -1,0 +1,29 @@
+# Wie war die Erfahrung des Peer Reviews für dich?
+Ob es so sinnvoll ist, die Aufgaben der anderen durchzulesen, bin ich mir nicht 
+sicher. Vielleicht ist es besser, wir hätten mehr Daten finden müssen. 
+Es war interessant (auf einer persönlichen Ebene), wie meine Kollegen die 
+gleiche Aufgabe gelöst haben. Jeder hat doch irgendwie seinen eigenen Stil 
+wie er an Texte herangeht. 
+
+
+# Hast du von den anderen etwas gelernt?
+Mein Datenset war sehr einfach. Aus dem Peer Review habe ich gelernt, dass
+andere ihre Schwierigkeiten hatten. Aber ehrlich gesagt, weiß ich nicht ob
+das so sinnvoll war, zu wissen. Also ich bin mir nicht sicher inwieweit mir 
+selbst das geholfen hat. Ich hätte wahrscheinlich selbst die gleichen Daten 
+suchen müssen, um aus den Strategien der anderen etwas zu lernen. 
+Recherche zu lernen ist meiner Meinung nach "learning by doing". 
+
+# Gab es Schwierigkeiten?
+Manchmal bin ich nicht schlau aus den Zeilen meiner Kollegen geworden. Es war nicht 
+ganz einfach zu verstehen, was sie gemeint haben. V.a. wenn ich das ganze anders
+gemacht hätte. Aber wie gesagt, meine Daten zu finden war sehr, sehr einfach. 
+
+# Wie ist es dir bei der Beurteilung gegangen?
+Ehrlich gesagt, macht es mir Spaß Beurteilungen abzugeben. 
+Wahrscheinlich bin ich generell ein kritischer Mensch und ich kritisire eher 
+zu viel, als zu wenig.
+
+# Links zu den Issues
+Team Fuchs: https://github.com/skasberger/datenanalyse-ss18/issues/89
+Legiteam: https://github.com/skasberger/datenanalyse-ss18/issues/70 
