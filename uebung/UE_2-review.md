@@ -80,10 +80,16 @@ Inhalt eines Issues:
 * Titel: Peer Review zu Gruppe GRUPPENNAME metadata.json
 * Beschreibung
   * kurzes Feedback zur Aufgabe.
-  * Gehe auf folgende Frage ein: Waren die Metadaten für dich ausreichend, um das Datenset zu verstehen? Erkläre, warum bzw. warum nicht.
+    * War die Datei korrekt benannt?
+    * Waren die Keys korrekt gewählt?
+    * Handelte es sich um valides JSON?
+  * Gehe auf folgende Frage ein: 
+    * Waren die Metadaten für dich ausreichend, um das Datenset zu verstehen?  Erkläre, warum bzw. warum nicht.
   * Mindestens eine Sache die gut gemacht wurde angeben.
   * Mindestens eine Verbesserungsmöglichkeit angeben.
   * Link zu `metadata.json` File.
+  * Mention des Accounts, welcher die `metadata.json` hochgeladen hat.
+* Als Projekt die passende Gruppe auswählen
 * Label: Peer Review als Label auswählen
 
 
