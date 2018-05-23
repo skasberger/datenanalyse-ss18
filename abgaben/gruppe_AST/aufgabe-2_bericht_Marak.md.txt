@@ -1,0 +1,12 @@
+# Review zur Peer Review ©alineos
+## Wie war die Erfahrung des Peer Reviews für dich?
+Das Peer Reviewing war für mich eine positive Erfahrung. Es war interessant zu lesen, was andere über unsere Übung gedacht haben, aber auch zu sehen welche Metadaten die anderen Gruppen verwendet haben. Außerdem finde ich es immer gut, wenn man sich anschauen kann, wie andere Menschen die gleiche Aufgabe bewältigt haben. Allein dabei lernt man schon eine Menge.
+## Hast du von den anderen etwas gelernt?
+Ja. Es gibt so viele Metadaten, die man angeben könnte, da ist es einfach einmal welche zu vergessen. Durch die Abgaben der anderen Gruppen und auch dem Feedback, das wir von den anderen bekommen haben, ist mir jedoch bewusstgeworden, dass es niemals zu viele Metadaten geben kann und es in Ordnung ist auch einmal etwas zu vergessen.
+## Gab es Schwierigkeiten?
+Für mich gab es keine Schwierigkeiten, aber ich kann mir durch aus vorstellen, dass andere zu kritisieren durch aus eine Schwierigkeit für andere Menschen darstellen könnte.
+## Wie ist es dir bei der Beurteilung gegangen?
+Ich habe mir bei der Beurteilung recht schwergetan, da es mir schwer fällt andere zu beurteilen, besonders, wenn ich Noten vergeben muss. Allerdings finde ich, dass es sich hierbei um eine gute Übung handelt, da es wichtig ist Kritik gut ausdrücken zu können und es sicher auch nicht schaden kann, wenn man ab und zu andere Leute benoten muss.
+## Links zu den Issues
+[Peer Review zu Gruppe 3 Fragezeichen metadata.json](https://github.com/skasberger/datenanalyse-ss18/issues/73)
+[Peer Review zu Gruppe PowerPuffGirls metadata.json](https://github.com/skasberger/datenanalyse-ss18/issues/69)
