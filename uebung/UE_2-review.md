@@ -43,7 +43,7 @@ Typ: Individualarbeit
 
 
 Ungefährer Aufwand: 
-* 3 Reviews mitsamt Issue: 30min
+* 2 Reviews mitsamt Issue: 30min
 * Email mit Beurteilung: 10min
 * Bericht: 15min
 
@@ -73,7 +73,7 @@ Zusammenfassung der Diskussion zu den Datenrecherchen (~200 Wörter):
 * Fasst die Diskussionen in der Gruppe zu den einzelnen Fragen zusammen. Zu jeder Frage ein kurzer Absatz mit Überschrift (Header 2).
 
 
-**Drei GitHub Issues zu metadata.json**
+**Zwei GitHub Issues zu metadata.json**
 
 
 Inhalt eines Issues:
