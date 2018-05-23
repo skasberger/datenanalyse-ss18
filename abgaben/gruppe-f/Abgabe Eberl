@@ -1,0 +1,20 @@
+Nationalratswahl_2002
+
+"Winner_Vorarlberg": "ÖVP"
+"Winner_Tyrol": "ÖVP"
+"Winner_Salzburg": "ÖVP"
+"Winner_Styria": "ÖVP"
+"Winner_Upper Austria": "ÖVP"
+"Winner_Lower Austria": "ÖVP"
+"Winner_Vienna": "SPÖ"
+"Winner_Burgenland": "SPÖ"
+"Winner_Carinthia": "SPÖ"
+
+"Result_ÖVP": "42,30%"
+"Result_SPÖ": "36,51%"
+"Result_FPÖ": "10,01%"
+"Result_Grüne": "9,47%"
+"Result_LIF": "0,98%"
+
+Dokumentation: Ich habe auf der Wikipedia-Page die Resultate herausgesucht und sie mit anderen Datensätzen verglichen. 
+Danach habe ich den "datenanalyse-ss18" Ordner geforked und meine Datensätze übertragen. 
