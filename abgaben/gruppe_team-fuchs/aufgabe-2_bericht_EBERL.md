@@ -1,5 +1,4 @@
 
-<h2> Diskussion </h2>
 
 <h2> Wie war die Erfahrung des Peer Reviews für dich? </h2>
 Auf alle Fälle neu und daher vor allem am Anfang schwierig. Gelernt hab ich dennoch vieles, da ich absolut kein Grundwissen hatte. 
