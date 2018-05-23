@@ -1,6 +1,6 @@
 **[Folien](uebung/slides_aufgabe-1.pdf)**
 
-## Todollllllllllllllllllllll
+## Todo
 
 **1. Setup**
 
