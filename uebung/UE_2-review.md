@@ -63,7 +63,7 @@ Schritte:
 
 ## Abgaben
 
-Deadline: 23. Mai 2018, 24h
+Deadline: 25. Mai 2018, 24h
 
 
 **aufgabe-2_bericht.md**
