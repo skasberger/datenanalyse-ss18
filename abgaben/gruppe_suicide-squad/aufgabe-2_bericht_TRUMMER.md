@@ -2,7 +2,7 @@
 
 **Wie war die Erfahrung des Peer Reviews für dich?**
 
-Nachdem dies nicht die erste Peer Rewiew in meinem Leben war und dies als JOurnalisten, die ihre Artikel regelmäßig gegenseitig redigieren auch auf meine Kollegen zutrifft, habe ich keine Sorgen, dass meine oder die Beurteilungen der Anderen vollständig unbegründet sind.
+Nachdem dies nicht die erste Peer Rewiew in meinem Leben war und dies als Journalisten, die ihre Artikel regelmäßig gegenseitig redigieren auch auf meine Kollegen zutrifft, habe ich keine Sorgen, dass meine oder die Beurteilungen der Anderen vollständig unbegründet sind.
 
 **Hast du von den Anderen etwas gelernt?**
 
