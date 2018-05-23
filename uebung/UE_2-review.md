@@ -30,7 +30,7 @@ Schritte:
   * zu nicht-gefundenen Datensets:
     * Was waren wiederkehrende Probleme, wenn Daten nicht gefunden wurden?
 * Die einzelnen Diskussions-Punkte sind danach im Bericht schriftlich zusammen zu fassen.
-* Upload der Datei (`aufgabe-1_bericht.md`) in das GitHub Repository.
+* Upload der Datei (`aufgabe-2_bericht.md`) in das GitHub Repository.
 
 
 **2. Peer Review Metadaten**
@@ -43,14 +43,17 @@ Typ: Individualarbeit
 
 
 Ungefährer Aufwand: 
-* 3 Reviews mitsamt Issue: 30min
+* 2 Reviews mitsamt Issue: 30min
 * Email mit Beurteilung: 10min
 * Bericht: 15min
 
 
 Schritte:
-* Jede Gruppe sucht sich die drei zugewiesenen Gruppenarbeiten zu Metadaten (`aufgabe-1_metadata.json`) aus dem Spreadsheet.
-* Issue zu jedem Review verfassen und dabei Feedback zu den Metadaten geben. Freundliche und konstruktive Sprache beachten!
+* Jede Studentin sucht sich die drei zugewiesenen Gruppenarbeiten zu Metadaten (`aufgabe-1_metadata.json`) aus dem Spreadsheet.
+* Issue zu jedem Review verfassen und dabei Feedback zu den Metadaten geben. 
+  * Freundliche und konstruktive Sprache beachten.
+  * als project die korrekte Gruppe zuweisen.
+  * als Label peer review zuweisen
 * Eine Beurteilung für die Aufgabe überlegen und via Email an edu@stefankasberger.at senden. Als Kriterien gelten:
   * Qualität der Key-Value Paare (sind diese verständlich gewählt)
   * Umfang der Metadaten (sind möglichst viele Informationen enthalten). Tipp: Zuerst die Dateien ansehen, und dannach erst die Beurteilung durchführen (damit alle gleich beurteilt werden und man ein Gefühl für die Lösungen bekommt).
@@ -70,17 +73,23 @@ Zusammenfassung der Diskussion zu den Datenrecherchen (~200 Wörter):
 * Fasst die Diskussionen in der Gruppe zu den einzelnen Fragen zusammen. Zu jeder Frage ein kurzer Absatz mit Überschrift (Header 2).
 
 
-**Drei GitHub Issues zu metadata.json**
+**Zwei GitHub Issues zu metadata.json**
 
 
 Inhalt eines Issues:
 * Titel: Peer Review zu Gruppe GRUPPENNAME metadata.json
 * Beschreibung
   * kurzes Feedback zur Aufgabe.
-  * Gehe auf folgende Frage ein: Waren die Metadaten für dich ausreichend, um das Datenset zu verstehen? Erkläre, warum bzw. warum nicht.
+    * War die Datei korrekt benannt?
+    * Waren die Keys korrekt gewählt?
+    * Handelte es sich um valides JSON?
+  * Gehe auf folgende Frage ein: 
+    * Waren die Metadaten für dich ausreichend, um das Datenset zu verstehen?  Erkläre, warum bzw. warum nicht.
   * Mindestens eine Sache die gut gemacht wurde angeben.
   * Mindestens eine Verbesserungsmöglichkeit angeben.
   * Link zu `metadata.json` File.
+  * Mention des Accounts, welcher die `metadata.json` hochgeladen hat.
+* Als Projekt die passende Gruppe auswählen
 * Label: Peer Review als Label auswählen
 
 

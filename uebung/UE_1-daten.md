@@ -41,9 +41,9 @@ Aufwand: 45min
 
 
 Schritte:
-* Aufgabe aus Liste raus suchen.
-* Überlegen in der Gruppe, welche Metadaten nötig sind um das Datenset zu verstehen.
-* Metadaten als Key-Value Paare in Metadaten-Datei schreiben. Nehmt euch Zeit, dies wirklich gut und ausführlich zu machen. Selbsterklärende Attributnamen beachten.
+* Beispiel-Datensatz aus Liste raus suchen.
+* Überlegt euch in der Gruppe, welche (fiktiven) Metadaten nötig sind um das Datenset zu beschreiben.
+* Metadaten als Key-Value Paare in Metadaten-Datei schreiben. Nehmt euch Zeit, dies wirklich gut und ausführlich zu machen. Selbsterklärende Key-Namen beachten.
 * Validieren der JSON Datei auf [jsonlint](https://jsonlint.com/)
 * Upload der Datei in das GitHub Repository
 

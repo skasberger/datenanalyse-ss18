@@ -1,0 +1,24 @@
+{
+
+
+
+    "title": "Parteiregister Österreich",
+    "author": "Nicht bekannt",
+    "description": "Liste aller registrierten Parteien in Österreich",
+    "licence": "CC0",
+    "data_type": "PDF",
+    "data_version": "2.0",
+    "language": "Deutsch",
+    "country": "Österreich",
+    "number_of_parties": "1108",
+		"date_of_deposit": "Datum der erstmaligen Satzungshinterlegung beim Bundesministerium für Inneres",
+    "publisher": "Bundesministerium für Inneres",
+		"homepage_of_publisher": "https://www.bmi.gv.at/",
+		"mail_of_publisher": "post@bmi.gv.at",
+    "date_of_publishing": "2. Mai 2018",
+		"category": "Politik",
+    "download_link": "https://www.bmi.gv.at/405/files/Parteienverzeichnisgemaess_1_Abs_4_PartG_20180502.pdf"
+
+
+
+		}
