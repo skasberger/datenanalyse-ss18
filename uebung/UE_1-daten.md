@@ -78,7 +78,7 @@ Deadline: 22. Mai 2018, 24h
 Ergebnis der Gruppeneinteilung mitsamt dem eigenen User-Account in Spreadsheet eingeben.
 
 
-**metadata.json**
+**aufgabe-1_metadata.json**
 
 Valdierte JSON File mit den Metadaten. 
 * Keys auf Englisch, ohne Leerzeichen, alles klein, mit Underscore als Trennzeichen (z. B. `"date_created"`). 

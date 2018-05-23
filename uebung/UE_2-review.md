@@ -18,7 +18,7 @@ Ungefährer Aufwand:
 
 
 Schritte:
-* Jedes Gruppenmitglied sucht sich die drei zugewiesenen Studierenden im Spreadsheet raus und sucht dann deren Bericht aus der letzten Einheit (`aufgabe-1_bericht_NACHNAME.md`).
+* Jedes Gruppenmitglied sucht sich die zugewiesenen Studierenden im Spreadsheet raus und sucht dann deren Bericht aus der letzten Einheit (`aufgabe-1_bericht_NACHNAME.md`).
 * Jeder liest für sich selbst die zugewiesenen Berichte kurz durch.
 * Danach gemeinsam in der Gruppe über die Erfahrung der Anderen bei der Datenrecherchen diskutieren. Folgende Fragen sind dabei zu stellen:
   * Welche Recherche-Strategien gab es?
