@@ -1,0 +1,28 @@
+{
+
+"title": "Kandidatenliste Landstagswahl-OÖ 2015",
+    "description": "Kandidatenliste Landstagswahl-OÖ 2015",
+    "keywords": "Kandidatenliste, Wahl, Bundesland, Oberösterreich",
+    "author": "Seiser",
+    "release_date": "23.5.2018",
+    "date_created": "23.5.2018",
+    "time_intervall": "20180530 bis 20180532",
+    "location": "Oberösterreich",
+    "organization": "Seiser",
+    "observed_person_sex": "All",
+    "election": "Landtagswahl",
+    "licence": "Open",
+    "publisher": "Seiser",
+    "owner_email": "phillip.seiser@edu.fh-joanneum.at",
+    "owner": "Seiser",
+    "language": "German",
+    "meta_data_version_number": "1",
+    "research_project": "Aufgabe 1",
+    "file_type": ".xlsx",
+    "version": "1",
+    "Voters_total": "Gesamtwahlbeteiligung 80 %",
+	"Valid_votes": "856.227 gültige Stimmen",
+	"Non_valid_votes": "16.569 ungültige Stimmen",
+	"Eligible_to_vote": "1.086.310 wahlberechtigte Stimmen"
+
+}
