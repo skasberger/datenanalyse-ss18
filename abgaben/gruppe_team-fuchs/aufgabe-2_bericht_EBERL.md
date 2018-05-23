@@ -1,3 +1,4 @@
+
 <h2> Diskussion </h2>
 
 <h2> Wie war die Erfahrung des Peer Reviews für dich? </h2>
@@ -15,4 +16,5 @@ Eigentlich gut. Ich habe noch andere Arbeiten angesehen, um zu vergleichen und f
 
 <h2> Link zu den Issues </h2>
 https://github.com/skasberger/datenanalyse-ss18/issues/85
+
 https://github.com/skasberger/datenanalyse-ss18/issues/77
