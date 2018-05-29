@@ -1,4 +1,3 @@
-
 ## Abgabe EH 4
 
 Deadline: 
