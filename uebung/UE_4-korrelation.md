@@ -64,7 +64,7 @@ Typ: Gruppenarbeit
 Ungefährer Aufwand: 30min
 
 
-Näheres siehe [Aufgabe](uebung/UE_5-praesentation.md).
+Näheres siehe [Aufgabe](UE_5-praesentation.md).
 
 ### Abgaben
 
@@ -84,6 +84,6 @@ Näheres siehe [Aufgabe](uebung/UE_5-praesentation.md).
 
 **praesentation.pdf**
 
-Näheres siehe [Aufgabe](uebung/UE_5-praesentation.md).
+Näheres siehe [Aufgabe](UE_5-praesentation.md).
 
 
