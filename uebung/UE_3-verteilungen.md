@@ -35,7 +35,7 @@ Die offenen Datensets, die für das Erstellen der Datei verwendet wurden mitsamt
 * [Privathaushalte](https://www.data.gv.at/katalog/dataset/7dbf4579-f7f1-41e6-a881-aef68cc5d58b)
 * [Nationalität](https://www.data.gv.at/katalog/dataset/6de28110-396f-11e2-81c1-0800200c9a66)
 
-**Ergebnis Steiermark**
+**NRW17 Steiermark**
 
 
 Typ: Individualarbeit
@@ -48,7 +48,7 @@ Schritte:
 * Sieh dir die Metriken aller Merkmale zur *Nationalratswahl 2017 in der Steiermark* in der Datei [data/nrw17.ods](data/nrw17.ods) an: Min, Max, Range, Quartil 1, Mean, Quartil 3 und Median
 * Überleg dir, was die Daten aussagen und dokumentiere dies im Bericht.
 
-**Ergebnis Bezirk**
+**NRW17 Bezirk: Ergebnis**
 
 
 Typ: Individualarbeit
@@ -65,7 +65,7 @@ Schritte:
 
 Tipp: Zum Verstehen der Gemeindekennzahl am besten auf [Wikipedia](https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel#%C3%96sterreich) nachlesen.
 
-**Sozio-ökonomische Daten**
+**NRW17 Bezirk: Sozio-ökonomische Daten**
 
 
 Typ: Individualarbeit
