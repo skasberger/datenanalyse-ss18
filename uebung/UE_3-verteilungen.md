@@ -45,7 +45,7 @@ Ungefährer Aufwand: 25min
 
 
 Schritte:
-* Sieh dir die Metriken aller Merkmale zur *Nationalratswahl 2017 in der Steiermark* in der Datei [data/nrw17.ods](data/nrw17.ods) an: Min, Max, Range, Quartil 1, Mean, Quartil 3 und Median
+* Sieh dir die Metriken aller Merkmale zur *Nationalratswahl 2017 in der Steiermark* in der Datei [data/nrw17.ods](../data/nrw17.ods) an: Min, Max, Range, Quartil 1, Mean, Quartil 3 und Median
 * Überleg dir, was die Daten aussagen und dokumentiere dies im Bericht.
 
 **NRW17 Bezirk: Ergebnis**
