@@ -2,7 +2,7 @@
 ## Abgabe EH 4
 
 Deadline: 
-* DJ: 7. Juni 2018, 24h
+* DJ: 9. Juni 2018, 24h
 * OK: 2. Juni 2018, 24h
 
 ### Todo
