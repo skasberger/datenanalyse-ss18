@@ -31,9 +31,9 @@ Schritte:
 
 Die offenen Datensets, die für das Erstellen der Datei verwendet wurden mitsamt Metadaten:
 * [Ergebnis Nationalratswahl 2017](https://www.data.gv.at/katalog/dataset/3179c5b2-9bb5-4a7f-a573-5491ccb0110b)
-* [Altersgruppen](https://www.data.gv.at/katalog/dataset/36f64070-396e-11e2-81c1-0800200c9a66)
-* [Privathaushalte](https://www.data.gv.at/katalog/dataset/7dbf4579-f7f1-41e6-a881-aef68cc5d58b)
-* [Nationalität](https://www.data.gv.at/katalog/dataset/6de28110-396f-11e2-81c1-0800200c9a66)
+* [Altersgruppen 1. 1. 2017](https://www.data.gv.at/katalog/dataset/36f64070-396e-11e2-81c1-0800200c9a66)
+* [Privathaushalte 31. 12. 2014](https://www.data.gv.at/katalog/dataset/7dbf4579-f7f1-41e6-a881-aef68cc5d58b)
+* [Nationalität 1. 1. 2017](https://www.data.gv.at/katalog/dataset/6de28110-396f-11e2-81c1-0800200c9a66)
 
 **NRW17 Steiermark**
 
@@ -48,7 +48,7 @@ Schritte:
 * Sieh dir die Metriken aller Merkmale zur *Nationalratswahl 2017 in der Steiermark* in der Datei [data/nrw17.ods](../data/nrw17.ods) an: Min, Max, Range, Quartil 1, Mean, Quartil 3 und Median
 * Überleg dir, was die Daten aussagen und dokumentiere dies im Bericht.
 
-**NRW17 Bezirk: Ergebnis**
+**NRW17 Bezirk: Wahl-Daten**
 
 
 Typ: Individualarbeit
@@ -59,8 +59,8 @@ Ungefährer Aufwand: 20min
 
 Schritte: 
 * Wählt in der Gruppe einen Bezirk aus der Liste (Google Spreadsheet) aus. 
-* Wähle eine Partei aus (jedeR in der Gruppe hat eine andere Partei).
-* Berechne die Metriken der selbst-gewählten Partei zum *Ergebnis der Nationalratswahl 2017 im Bezirk der eigenen Gruppe*: Min, Max, Range, Quartil 1, Mean, Quartil 3 und Median. Erstelle die Berechnung in einem eigenen Worksheet (`BEZIRK_PARTEI`). 
+* Wähle ein Merkmal der Wahl (Partei, Wahlberechtigt, Abgegebene Stimmen, Gültig, Ungültig) aus (jedeR in der Gruppe hat eine andere Partei).
+* Berechne die Metriken des selbst-gewählten Merkmals zum *Ergebnis der Nationalratswahl 2017 im Bezirk der eigenen Gruppe*: Min, Max, Range, Quartil 1, Mean, Quartil 3 und Median. Erstelle die Berechnung in einem eigenen Worksheet (`BEZIRK_PARTEI`). 
 * Versuche die Ergebnisse zu verstehen, und was sie über das Datenset aussagen.
 
 Tipp: Zum Verstehen der Gemeindekennzahl am besten auf [Wikipedia](https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel#%C3%96sterreich) nachlesen.
@@ -75,7 +75,7 @@ Ungefährer Aufwand: 20min
 
 
 Schritte:
-* Wähle zwei sozio-ökonomische Merkmale aus dem Datenset aus (auch hier keine doppelten Auswahlen in der Gruppe).
+* Wähle zwei sozio-ökonomische Merkmale aus dem Datenset aus (auch hier keine doppelten Auswahlen in einer Gruppe).
 * Berechne die Metriken zu den beiden Merkmalen für das Ergebnis im gewählten Bezirk: Min, Max, Range, Quartil 1, Mean, Quartil 3 und Median. Erstelle die Berechnung in je einem eigenen Worksheet. (`BEZIRK_MERKMAL`)
 * Versuche die Ergebnisse zu verstehen, und was sie über das Datenset aussagen.
 
@@ -113,4 +113,5 @@ Schritte:
 * Liste die Skalierungsniveaus der einzelnen Merkmale auf (z. B. gkz = nominal).
 * Beantworte folgende Fragen: Welche Aussage bezüglich der Wahl kann mit der zugrundeliegenden Datenbasis getroffen werden? Sind alle Daten vorhanden, um das Wahlverhalten in der Steiermark bei der NRW17 zu beschreiben? Sind dir irgendwelche Besonderheiten bzgl. des Datensets aufgefallen bzw. gab es etwas für dich Unerwartetes?
 * Gib an, warum welche Einstellungen du warum beim Boxplot gewählt/nicht gewählt hast.
+* Gib die Ergebnisse der Metriken an.
 
