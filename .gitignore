@@ -11,4 +11,4 @@ data/raw/
 __pycache__
 timeline.md
 beurteilung/
-
+venv/
