@@ -32,8 +32,8 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 | 22.5.  <br> DJ: 13:00 - 15:15 <br> OK: 15:30 - 17:45 | Datenrecherche + Metadaten | [Aufgabe](uebung/UE_1-daten.md) | [Folien](uebung/slides_aufgabe-1.pdf) |
 | 23.5.<br>OK: 9:45-12:00<br>DJ: 13:00 - 15:15 | Peer Review | [Aufgabe](uebung/UE_2-review.md) | [Folien](uebung/slides_aufgabe-2.pdf) |
 | OK: 29.5. 15:30 - 17:45<br>DJ: 30.5. 8:45 - 12:00 | Verteilungen | [Aufgabe](uebung/UE_3-verteilungen.md) | [Folien](uebung/slides_aufgabe-3.pdf) |
-| : 4.6. 13:00 - 16:15<br>: 5.6. 8:30 - 10:45 | Daten auswerten |  |  |
-| 13.6.<br>OK: 13:00 - 14:30<br>DJ: 14:45 - 16:15 | Präsentation |  |  |
+| : 4.6. 13:00 - 16:15<br>: 5.6. 8:30 - 10:45 | Korrelation | [Aufgabe](uebung/UE_4-korrelation.md) |  |
+| 13.6.<br>OK: 13:00 - 14:30<br>DJ: 14:45 - 16:15 | Präsentation | [Aufgabe](uebung/UE_5-praesentation.md) |  |
 
 ## BEURTEILUNG
 
@@ -58,6 +58,8 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 * Gewichtung: 20%
 * Wann: 13. Juni 2018
 * Dauer: je 10min
+
+Näheres siehe [Aufgabe](uebung/UE_5-praesentation.md).
 
 ### Projektabgabe
 

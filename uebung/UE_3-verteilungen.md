@@ -24,6 +24,7 @@ Schritte:
 * Lade das Spreadsheet runter
 * Benenne das Spreadsheet um in `aufgabe-3_NACHNAME.ods`.
 * Inspiziere die Daten bezüglich folgender Eigenschaften:
+  * Überlegen: Was wird in den Zellen gespeichert: Was stellt eine Zeile dar, was eine Spalte?
   * Skalierungen
   * Komplettheit 
   * Korrektheit
@@ -46,7 +47,7 @@ Ungefährer Aufwand: 25min
 
 Schritte:
 * Sieh dir die Metriken aller Merkmale zur *Nationalratswahl 2017 in der Steiermark* in der Datei [data/nrw17.ods](../data/nrw17.ods) an: Min, Max, Range, Quartil 1, Mean, Quartil 3 und Median
-* Überleg dir, was die Daten aussagen und dokumentiere dies im Bericht.
+* Überleg dir, was die Ergebnisse der Metriken über die Daten aussagen und dokumentiere dies im Bericht.
 
 **NRW17 Bezirk: Wahl-Daten**
 
@@ -90,7 +91,7 @@ Ungefährer Aufwand: 30min
 
 Schritte:
 * Exportiere die Daten zur gewählten Partei und den beiden sozio-ökonomischen Merkmalen für den eigenen Bezirk als CSV-File.
-* Gehe auf [boxplotr](http://bit.ly/boxplotr) und lade die Daten der drei Merkmale einzeln hoch.
+* Gehe auf [boxplotr](http://bit.ly/boxplotr) und lade die Daten der drei Merkmale einzeln hoch. Findet selbstständig einen Weg, wie ihr die Daten aus eurem Spreadsheet in den Web-Service bekommt, so dass ein Boxplot dargestellt wird.
 * Wähle die passenden Einstellungen um die Daten bestmöglich als Boxplot darzustellen.
 * Speichere die drei Boxplots als SVG-Datei und lade sie hoch.
 
