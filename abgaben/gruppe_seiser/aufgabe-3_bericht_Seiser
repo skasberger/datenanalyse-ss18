@@ -1,0 +1,54 @@
+
+Ausgewählte Partei: SPÖ
+Ausgewählter Bezirk: Liezen
+
+Skalierungsniveaus
+GKZ: Nominalskala
+Gemeinden: Nominalskala
+Altersverteilung: Verhältnisskala
+Haushalte: Ordinalskala
+Geografische Verteilung: Intervallskala
+
+
+Aussagen, welche mit den vorhandenen Daten getroffen werden können:
+Im Bezirk Liezen ist die Abgabe der gültigen Stimmen sehr hoch. Es fehlen im Datensatz die Gesamtzahl der Stimmen aus dem In-
+bzw. Ausland, sowie der einzelnen Haushalte und der jeweiligen Altersstufen. Man kann sich die Zahlen aber selbst ausrechnen.
+Die Ein- bzw. Zweipersonen-Haushalte sind am Häufigsten. Die meisten Stimmen wurden in der Altersstufe der 45-59 jährigen
+Wählern abgegeben. Die Anzahl der Stimmen aus dem Inland ist wesentlich höher als die der Stimmen aus dem Ausland.
+Die meisten Wahlberechtigten kamen aus der Stadt Liezen, die wenigsten kamen aus Wildalpen. Genau gleich verhält es sich mit
+abgegebenen, gültigen, ungültigen Stimmen.
+
+Sind alle Daten vorhanden, um das Wahlverhalten zu beschreiben?
+Nein, meiner Meinung nach fehlen hier Daten wie zum Beispiel Berufe oder Bildungshintergrund.
+
+Besonderheiten:
+Es sind Wählerstimmen in der Altersgruppe 0-14 vorhanden. Allerdings darf diese Altersgruppe nicht zur Wahl gehen.
+
+NRW17 Bezirk Liezen: Ergebnis Datenmetriken:
+
+Abgebene Stimmen:
+
+Min: 299
+Max: 3718
+Range:3419
+Quartil 3:1732
+Median: 1055
+Mean: 1392,76
+
+Altersgruppe 45-59
+
+Min: 110
+Max: 1903
+Range: 1793
+Quartil 3:768
+Median: 452
+Mean: 650,9
+
+Zwei-Personenhaushalte:
+
+Min: 65
+Max: 1237
+Range: 1172
+Quartil 3: 515
+Median: 248
+Mean: 767,6
