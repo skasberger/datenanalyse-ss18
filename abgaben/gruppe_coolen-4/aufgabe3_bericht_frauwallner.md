@@ -43,31 +43,6 @@ und im Boxplotr hochgeladen. Darstellung: SEMICOLON
 und die Farben, für eine bessere Übersicht. 
 
 
-Meiner Meinung nach fehlt ein ordentliches Ordinalniveau (größer/kleiner - Messwerte lassen sich der Größe nach ordnen, 
-wie zB Noten, Schicht, Bildung, Berufe); wichtig ist auch die Herkunft der Wähler, weil es beschreibt, wie sie 
-politisch geprägt wurden, das ist vorhanden. 
-
-
-
-### Sind dir irgendwelche Besonderheiten bzgl. des Datensets aufgefallen bzw. gab es etwas für dich Unerwartetes?
-
-Eine Besonderheit war in meinen Augen, dass man 0-14-Jährige berücksichtigt hat, die logischerweise nicht 
-wahlberechtigt sind - und dass diese Zahlen so hoch waren. 
-
-
-### Gib an, warum welche Einstellungen du beim Boxplot gewählt/nicht gewählt hast.
-
-Vorsicht: Nicht den BEZIRK mit hineinnehmen, nur die GEMEINDEN. 
-Lernerfolg >
-Weitere Vorsicht: Es braucht im Excel-svg keine Gemeindenamen, einfach nur die drei Merkmale einzeln abgespeichert 
-und im Boxplotr hochgeladen. Darstellung: SEMICOLON
-
-Im Großen und Ganzen habe ich keine Einstellungen verwendet, außer, die Ansicht von Vertikal auf Horizontal zu verändern 
-und die Farben, für eine bessere Übersicht. 
-
-
-
-
 ### NRW17 Bezirk: Ergebnis
 Metriken
 
