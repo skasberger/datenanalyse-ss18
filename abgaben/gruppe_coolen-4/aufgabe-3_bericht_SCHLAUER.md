@@ -12,7 +12,7 @@
 ## Fehler des Datensatzes im Bericht
 Meiner Meinung nach fehlen Daten zu Beruf, Einkommen, Familienstand, Bildungsniveau, Religion. Die Bezirks-Gesamtergebnisse sollten klarer ersichtlich am Beginn der Gemeindeaufzählung erscheinen.
 
-##Allgemeine Fragen zum Datenset
+## Allgemeine Fragen zum Datenset
 
 ### Welche Aussage bezüglich der Wahl kann mit der zugrundeliegenden Datenbasis getroffen werden?
 Die Wahlbeteiligung kann gesamt und für die einzelnen Alterskategorien berechnet werden. Außerdem kann man ablesen, wie sich die Anzahl der im Haushalt lebenden Personen auf das Wahlverhalten auswirkt.
@@ -25,5 +25,9 @@ Man kann das Wahlverhalten grob analysieren, allerdings wären Deteils wie Bildu
 Unerwartet war für mich, dass die Alterskategorie 0 bis 14 überhaupt angegeben war, da Menschen in dieser Altersgruppe nicht wahlberechtigt sind. Es ist für mich unverständlich, dass die zweite Alterskategorie 15- bis 29-Jährige umfasst, besser wäre es, mit 16 zu beginnen (da man ab 16 wählen darf).
 
 ## Metriken
+
+ Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
+| --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
+| 108 | 1572 | 1464 | 289,5           | 537,3225806 |      147 |      69 |
 
 
