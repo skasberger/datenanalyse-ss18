@@ -63,8 +63,8 @@ Schritte:
 
 ## Abgaben
 
-Deadline: 25. Mai 2018, 24h
-
+* Abgabetermin Erste Version (für Feedback): 9. Juni 2018, 24h
+* Abgabetermin Finale Version (wird beurteilt): 17. Juni 2018, 24h
 
 **aufgabe-2_bericht.md**
 

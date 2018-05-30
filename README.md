@@ -35,6 +35,14 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 | OK: 30.5. 8:45 - 12:00<br>DJ: 5.6. 8:30 - 10:45 | Korrelation | [Aufgabe](uebung/UE_4-korrelation.md) | [Folien](uebung/slides_aufgabe-4.pdf) |
 | 13.6.<br>OK: 13:00 - 14:30<br>DJ: 14:45 - 16:15 | Präsentation | [Aufgabe](uebung/UE_5-praesentation.md) |  |
 
+## TIMELINE
+
+* 8. - 17. 5.: Theorie
+* 22. 5. - 5. 6.: Übungen
+* 9. 6.: Abgabetermin Aufgaben Erste Version (für Feedback)
+* 13. 6.: Präsentation
+* 17. 6.: Abgabetermin Finale Version (wird beurteilt)
+
 ## BEURTEILUNG
 
 ### Mitarbeit

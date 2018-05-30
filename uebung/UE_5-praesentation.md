@@ -1,6 +1,6 @@
 ## Abgabe EH 5
 
-Deadline: 13. Juni 2018, 24h
+Abgabetermin: vor Präsentation (13. Juni 2018)
 
 
 Dateiname: `praesentation.pdf`

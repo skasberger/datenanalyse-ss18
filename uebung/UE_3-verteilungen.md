@@ -1,10 +1,8 @@
+**[Folien](uebung/slides_aufgabe-2.pdf)**
+
 ## Abgabe EH 3
 
 ### Todo
-
-Deadline: 
-* DJ: 6. Juni 2018, 24h
-* OK: 1. Juni 2018, 24h
 
 **Aufgabenstellung durchlesen**
 
@@ -96,6 +94,9 @@ Schritte:
 * Speichere die drei Boxplots als SVG-Datei und lade sie hoch.
 
 ### Abgaben
+
+* Abgabetermin Erste Version (für Feedback): 9. Juni 2018, 24h
+* Abgabetermin Finale Version (wird beurteilt): 17. Juni 2018, 24h
 
 **aufgabe-3_boxplot_NACHNAME.csv**
 

@@ -1,9 +1,5 @@
 ## Abgabe EH 4
 
-Deadline: 
-* DJ: 9. Juni 2018, 24h
-* OK: 2. Juni 2018, 24h
-
 ### Todo
 
 **Korrelation**
@@ -48,7 +44,7 @@ Ungefährer Aufwand: 60min
 
 Schritte:
 * Beantworte folgende Fragen im Bericht:
-  * Wie unterscheiden sich die drei Merkmale auf Bezirksebene im Vergleich zu den Ergebnissen auf Ebene der gesamten Steiermark?
+  * Wie unterscheiden sich die drei Merkmale auf Bezirksebene im Vergleich zu den Ergebnissen auf Ebene der gesamten Steiermark? (Tipp: sieh dir die [Boxplots der Merkmale für die Steiermark](img/) an)
   * Welche Aussagen kannst du anhand der Metriken und des Boxplots über die Verteilungen der drei Merkmale treffen?
   * Gibt es Outlier?
   * Wie ist der statistische Zusammenhang der gewählten Merkmale?
@@ -66,6 +62,9 @@ Ungefährer Aufwand: 30min
 Näheres siehe [Aufgabe](UE_5-praesentation.md).
 
 ### Abgaben
+
+* Abgabetermin Erste Version (für Feedback): 9. Juni 2018, 24h
+* Abgabetermin Finale Version (wird beurteilt): 17. Juni 2018, 24h
 
 **aufgabe-4_scatterplot-NUMMER_NACHNAME.png**
 
