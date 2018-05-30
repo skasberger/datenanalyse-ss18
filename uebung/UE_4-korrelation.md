@@ -43,13 +43,16 @@ Ungefährer Aufwand: 60min
 
 
 Schritte:
-* Beantworte folgende Fragen im Bericht:
-  * Wie unterscheiden sich die drei Merkmale auf Bezirksebene im Vergleich zu den Ergebnissen auf Ebene der gesamten Steiermark? (Tipp: sieh dir die [Boxplots der Merkmale für die Steiermark](img/) an)
-  * Welche Aussagen kannst du anhand der Metriken und des Boxplots über die Verteilungen der drei Merkmale treffen?
-  * Gibt es Outlier?
-  * Wie ist der statistische Zusammenhang der gewählten Merkmale?
-  * Wie aussagekräftig sind die Ergebnisse aufgrund der Datenlage?
-* Denke die gesamte Arbeit zusammen. Von Daten inspizieren, bis zu den Metriken mit dem Boxplots bis zu den Korrelationen: Was könnt ihr über das Wahlverhalten in eurem Bezirk jetzt sagen? Dies als lesbaren Satz wie in einem journalistischen Artikel nieder schreiben. Also einen kleinen Absatz verfassen, welcher die Datenanalyse textlich interessant aufbereitet zusammen fasst (~200 Wörter).
+* Hier ein paar Tipps, wie ihr zu interessanten Phänomenen bzw. Zusammenhängen kommt
+  * Seht euch die Gemeinden mit den größten bzw. kleinsten Werten zu einem Merkmal an (vor allem Outlier!).
+  * Seht euch Gemeinden an, die nahe am Mittelwert sind.
+  * Versucht represäntative Gemeinden für eure Geschichte zu finden.
+  * Vergleicht die Ergebnisse eures Bezirkes mit denen der Steiermark (Tipp: sieh dir die [Boxplots der Merkmale für die Steiermark](img/) an).
+  * Sieh dir die Verteilung der Daten an.
+  * Ist der Zusammenhang stark bzw. scheint er plausibel?
+  * Wie aussagekräftig sind die gesammelten Ergebnisse aufgrund der Ausgangsdatenlage?
+  * Denke die gesamte Arbeit zusammen. Von Daten inspizieren, bis zu den Metriken mit dem Boxplots bis zu den Korrelationen: Was habt ihr durch eure Datenanalyse über das Wahlverhalten in eurem Bezirk raus gefunden? 
+* Dies als journalistischen Artikel (~200 Wörter) knackig nieder schreiben und die nötigen Grafiken dazu verlinken. Verwende dabei Formulierungen wie "Der Bezirk XYZ hat überdurchschnittlich viele 2 Personen Haushalte" oder "es könnte einen negativen/indirekten Zusammenhang zwischen der Anzahl an ausländischen Staatsbürgern und den Stimmen für die FPÖ geben", "Ein gutes Beispiel für eine Gemeinde mit sehr wenig Stimmen für die Grünen ist die ländliche Gemeinde XYZ", "Dies könnte an XYZ liegen". Verwendet das Konjunktiv bzw. unbestimmte Formulierungen. Ihr habt keine statistischen Tests gemacht, welche den Zusammenhang sicherstellt oder tiefergehende journalistische Recherchen zu den genannten Gemeinden bzw. Bezirken getätigt. Bei den Aufgaben geht es darum, das ihr die Daten die gegeben sind korrekt lest und interpretiert, nicht ob die Aussagen wissenschaftlich oder journalistisch gesehen korrekt sind.
 
 **Präsentation vorbereiten**
 
@@ -68,7 +71,7 @@ Näheres siehe [Aufgabe](UE_5-praesentation.md).
 
 **aufgabe-4_scatterplot-NUMMER_NACHNAME.png**
 
-* Je ein Scatterplot zu jeder der drei Kombinationen der Merkmale als PNG exportieren.
+* Je ein Scatterplot zu jeder der drei Kombinationen der Merkmale als PNG hochladen.
 
 
 **aufgabe-4_bericht_NACHNAME.md**
