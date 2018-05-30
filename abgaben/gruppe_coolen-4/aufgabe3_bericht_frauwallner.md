@@ -86,6 +86,13 @@ Metriken
 | 164 | 2726  | 2.562 | 350,5       | 687,3 |    885,5 |      509  |
 
 * Ausgewählter Bezirk: Weiz
+* Zweites ausgewähltes Merkmal: 1-Personen-Haushalt
+
+| Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
+| --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
+| 32  | 2123  | 2091  | 108,5       | 294,1 |    321   |      156  |
+
+* Ausgewählter Bezirk: Weiz
 * Zweites ausgewähltes Merkmal: Gültig
 
 | Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
