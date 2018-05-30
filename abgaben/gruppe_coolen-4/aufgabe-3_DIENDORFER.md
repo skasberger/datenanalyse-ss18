@@ -1,7 +1,7 @@
 # Bericht Aufgabe 3
 
 * Bezirk: Weiz
-* Partei: 
+* Partei: Grüne
 
 
 ## Skalierungen:
