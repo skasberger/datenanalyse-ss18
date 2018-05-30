@@ -24,11 +24,13 @@ Grundlegend sind alle wichtigen Daten vorhanden, genauere Informationen wären f
 * Sind dir irgendwelche Besonderheiten bzgl. des Datensets aufgefallen bzw. gab es etwas für dich Unerwartetes?
 Es wurden im Datensaatz 0-14 Jährige berücksichtig, die natürlich nicht wählen dürfen und darum in diesem Zusammenhang keinen Sinn ergeben.
 
+
 ### Metriken ÖVP in Weiz
 
 | Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
 | --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
 | 172 | 1852 | 1680 | 335     | 387 |      733,5 |      460 |
+
 
 ### Metriken Sozio-ökonomische Daten
 4-Personen-Haushalt
