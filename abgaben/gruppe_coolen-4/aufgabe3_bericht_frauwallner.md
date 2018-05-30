@@ -101,5 +101,30 @@ und im Boxplotr hochgeladen. Darstellung: SEMICOLON
 Im Großen und Ganzen habe ich keine Einstellungen verwendet, außer, die Ansicht von Vertikal auf Horizontal zu verändern 
 und die Farben, für eine bessere Übersicht. 
 
+### NRW17 Bezirk: Ergebnis
+Metriken
+
+*für die Merkmale Wahlberechtigt: 
+
+| Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
+| --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
+| 532 | 72553 | 72021 | 1287        | 6176,8|    3324  |   1718    |
+
+### NRW17 Bezirk: Sozio-ökonomische Daten
+Ausgewählter Bezirk: Weiz
+Ausgewähltes Merkmal: 45 - 59-Jährige 
+
+| Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
+| --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
+| 164 | 2726  | 2.562 | 350,5       | 687,3 |    885,5 |      509  |
+
+Ausgewählter Bezirk: Weiz
+Zweites ausgewähltes Merkmal: Gültig
+
+| Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
+| --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
+| 422 | 58615 | 58.193| 952         | 4731,4|     2365 |      1269 |
+
+
 
 ### Metriken: siehe angehängtes Dokument "MERKMALE METRIKEN Aufgabe 3 Frauwallner" 
