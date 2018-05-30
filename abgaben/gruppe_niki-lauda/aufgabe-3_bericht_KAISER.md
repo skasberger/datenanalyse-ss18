@@ -2,14 +2,16 @@
 
 ## FPÖ im Bezirk Graz-Umgebung
 ### Inspizieren
-Wahlberechtigte Personen = Nominal
-Abgegebene Stimmen = Nominal
-Gültige Stimmen = Nominal
-Parteien = Nominal
-Alter = Verhältnis
-Im Haushalt lebende Personen = Intervall
+* Wahlberechtigte Personen = Nominal
+* Abgegebene Stimmen = Nominal
+* Gültige Stimmen = Nominal
+* Parteien = Nominal
+* Alter = Verhältnis
+* Im Haushalt lebende Personen = Intervall
 Staatsbürgerschaft = Nominal
-Bei den einzelnen Gesamtergebnissen der Bezirke fehlen jeweils die Werte der Altersgruppen, die im Haushalt lebenden Personen sowie der Anteil der österreichischen und ausländischen Staatsbürger. Somit ist die Datei nicht vollständig, man kann jedoch, da die Werte der einzelnen Gemeinden jedes Bezirks vorliegen, sich die Werte selbst zusammenrechnen. Somit kann auch das Wahlverhalten beschrieben werden. Die einzige Besonderheit war, wie eben beschrieben, dass einige Gesamtwerte der Bezirke fehlen. 
+ 
+Bei den einzelnen Gesamtergebnissen der Bezirke fehlen jeweils die Werte der Altersgruppen, die im Haushalt lebenden Personen sowie der Anteil der österreichischen und ausländischen Staatsbürger. Somit ist die Datei nicht vollständig, man kann jedoch, da die Werte der einzelnen Gemeinden jedes Bezirks vorliegen, sich die Werte selbst zusammenrechnen. Somit kann auch das Wahlverhalten beschrieben werden. Die einzige Besonderheit war, wie eben beschrieben, dass einige Gesamtwerte der Bezirke fehlen. Um eine detaillierte Wähleranalyse zu machen, fehlen meiner Meinung nach noch einige Angaben (Beruf, Bildungsniveau, ...).
+
 ### NRW17 Steiermark
 Der Minmalwert gibt jeweils den kleinsten vorhandenen Wert aller Gemeinden in der Steiermark an. Der Maximalwert gibt demnach den jeweils größten vorhandenen Wert an. Range ist die Differenz dieser beiden Werte, also zum Beispiel bei den Grünen: Der niedrigste auftretende Wert ist null Stimmen, der größte auftretende Wert ist 6932. Demnach ist die Differenz 6932. Mean ist der Durchschnittswert in der jeweiligen Spalte, bei den wahlberechtigten Personen waren demnach 5027 Personen im Durchschnitt pro Gemeinde wahlberechtigt. Würde man alle Daten auf- bzw. absteigend ordnen, würde der Wert nach den ersten 25 Prozent der Werte das Quartil 1 ergeben, genau bei derh Hälfte werde der Median (auch Quartil 2) und nach 75 Prozent das Quartil 3.
 
