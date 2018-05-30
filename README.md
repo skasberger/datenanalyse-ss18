@@ -37,11 +37,12 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 
 ## TIMELINE
 
-* 8. - 17. 5.: Theorie
-* 22. 5. - 5. 6.: Übungen
-* 9. 6.: Abgabetermin Aufgaben Erste Version (für Feedback)
-* 13. 6.: Präsentation
-* 17. 6.: Abgabetermin Finale Version (wird beurteilt)
+* **8. - 17. Mai.**: Theorie
+* **17. Mai.**: Test
+*  **22. Mai - 5. Juni**: Übungen
+* **9. Juni**: Abgabetermin der Aufgaben - Erster Draft (für Feedback)
+* **13. Juni**: Präsentation, Abgabetermin Präsentation
+* **17. Juni**: Abgabetermin der Aufgaben - Finale Version (wird beurteilt)
 
 ## BEURTEILUNG
 
