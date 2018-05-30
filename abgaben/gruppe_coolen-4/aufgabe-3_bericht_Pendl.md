@@ -45,4 +45,5 @@ Es wurden im Datensaatz 0-14 Jährige berücksichtig, die natürlich nicht wähl
 | --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
 | 25 | 260 | 235 | 73        | 65 |      136,5 |      94 |
 
-
+### Boxplot
+Ich habe bei der Erstellung meiner drei Boxplots auf eine Veränderung der Einstellungen verzichtet. Durch meine Daten sind die Boxplots realtiv groß und übersichtlich. Man kann dadurch Rückschlüsse auf das grundlegende Datenset ziehen, weshalb ich die standardmäßigen Einstellungen als durchwegs ausreichend erachte.
