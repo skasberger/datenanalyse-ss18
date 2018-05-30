@@ -1,6 +1,6 @@
 # NRW17 in der Steiermark
 
-* Ausgewählte Partei: SPÖ
+* Ausgewählte Partei: FPÖ
 * Bezirk: Weiz
 
 ## Skalierungen
@@ -26,8 +26,10 @@ Unerwartet war für mich, dass die Alterskategorie 0 bis 14 überhaupt angegeben
 
 ## Metriken
 
+###FPÖ:
  Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
 | --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
 | 108 | 1572 | 1464 | 289,5           | 537,3225806 |      147 |      69 |
+
 
 
