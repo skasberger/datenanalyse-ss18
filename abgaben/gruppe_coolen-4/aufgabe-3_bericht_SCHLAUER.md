@@ -26,10 +26,20 @@ Unerwartet war für mich, dass die Alterskategorie 0 bis 14 überhaupt angegeben
 
 ## Metriken
 
-###FPÖ:
+### Partei: FPÖ:
  Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
 | --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
 | 108 | 1572 | 1464 | 289,5           | 537,3225806 |      147 |      69 |
+
+### Sozio-ökonomische Daten: abgegebene Stimmen
+| Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
+| --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
+| 423 | 5914 | 5491 | 909,5           | 1667 |      2255 |      1257 |
+
+### Sozio-ökonomische Daten: ausland
+| Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
+| --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
+| 5 | 1235 | 1230 | 35,5          | 155,4193548 |      147 |      69 |
 
 
 
