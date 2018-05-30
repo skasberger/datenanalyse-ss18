@@ -62,3 +62,4 @@ Warum wurde nicht die Altersgruppe 0-15 Jahre angeführt und 16-29, da man ja ab
 
 
 ## Gib an, warum welche Einstellungen du warum beim Boxplot gewählt/nicht gewählt hast.
+Ich habe bewusst keine Veränderungen vorgenommen, da ich die Boxplots in den Originaleinstellungen am übersichtlichsten und angenehmsten empfunden habe. 
