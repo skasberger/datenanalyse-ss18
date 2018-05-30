@@ -42,4 +42,9 @@ Unerwartet war für mich, dass die Alterskategorie 0 bis 14 überhaupt angegeben
 | 5 | 1235 | 1230 | 35,5          | 155,4193548 |      147 |      69 |
 
 
+## Boxplot
+Ich habe bei der Erstellung meines Boxplots die Standardeinstellungen verwendet, da meiner Meinung nach alles mit diesen Einstellungen gut ersichtlich ist - eine Veränderung war in meinen Augen nicht notwendig.
+
+
+
 
