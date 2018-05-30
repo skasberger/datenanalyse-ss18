@@ -28,17 +28,17 @@ Es wurden im Datensaatz 0-14 Jährige berücksichtig, die natürlich nicht wähl
 
 | Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
 | --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
-| 172 | 1852 | 1680 | 335           | 387 |      733,5 |      460 |
+| 172 | 1852 | 1680 | 335     | 387 |      733,5 |      460 |
 
 ### Metriken Sozio-ökonomische Daten
 4-Personen-Haushalt
 
 | Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
 | --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
-| 35 | 537 | 502 | 87           | 126 |      245 |      132 |
+| 35 | 537 | 502 | 87        | 126 |      245 |      132 |
 
 5-Personen-Haushalt
 
 | Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
 | --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
-| 25 | 260 | 235 | 73           | 65 |      136,5 |      94 |
+| 25 | 260 | 235 | 73        | 65 |      136,5 |      94 |
