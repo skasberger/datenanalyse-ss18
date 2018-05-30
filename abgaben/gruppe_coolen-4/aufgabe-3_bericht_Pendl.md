@@ -16,7 +16,6 @@ Die Gesamtergebnisse sollten über den Bezirken klar ersichtlich aufgelistet wer
 
 ### Fragen
 * Welche Aussage bezüglich der Wahl kann mit der zugrundeliegenden Datenbasis getroffen werden?
-
 Die Wahlbeteiligung kann im Gesamten und ebenfalls für die einzelnen Altersgruppen berechnet werden. Desweiteren können Zusammenhänge zwischen Wahlverhalten und Personen pro Haushalt gezogen werden.
 
 * Sind alle Daten vorhanden, um das Wahlverhalten in der Steiermark bei der NRW17 zu beschreiben?
