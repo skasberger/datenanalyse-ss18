@@ -32,4 +32,3 @@ Man kann das Wahlverhalten grob analysieren, aber es fehlen Daten für eine gena
 ## Sind dir irgendwelche Besonderheiten bzgl. des Datensets aufgefallen bzw. gab es etwas für dich Unerwartetes?
 Altersgruppe 0-14 Jährige darf eigentlich noch nicht wählen, trotzdem wurde sie angegeben. Ergibt für mich keinen Sinn.
 Warum wurde nicht die Altersgruppe 0-15 Jahre angeführt und 16-29, da man ja ab dem Alter von 16 Jahren wählen darf?
-
