@@ -39,5 +39,6 @@
 | --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
 | 35 | 1746 | 1711 | 123,5           | 318,483871 |      358 |      212 |
 
-
+### Boxplot
+Ich habe bewusst keine Änderung vorgenommen, da ich den Boxplot in der vorgefertigten Einstellung am übersichtlichsten finde. 
 
