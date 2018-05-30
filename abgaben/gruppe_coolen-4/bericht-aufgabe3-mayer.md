@@ -1,6 +1,6 @@
 # Bericht Aufgabe 3
 
-## Ausgewählte Partei: FPÖ
+## Ausgewählte Partei: SPÖ
 
 ## Ausgewählter Bezirk: Weiz
 
@@ -23,5 +23,21 @@
 
 ### Sind dir Besonderheiten aufgefallen?
 * Eine Besonderheit war für mich, dass 0-14 Jährige berücksichtigt wurde, da diese Personengruppe nicht wahlberechtigt ist. Außerdem ergibt es auch wenig Sinn dann die Altersgruppe 15-29 zu wählen, da auch 15-jährige nicht wahlberechtigt sind. Es würde mehr Sinn ergeben die Altersgruppen 0-15 und dann 16-29 zu wählen, da das Ergebnis der Wahlbeteiligung zwischen 15 und 29 so verfälscht wird.
+
+### SPÖ
+| Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
+| --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
+| 79 | 2011 | 1932 | 163,5           | 335,4516129 |      348 |      229 |
+
+### Altersgruppe 30-44
+| Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
+| --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
+| 110 | 2314 | 2204 | 264           | 575,419355 |      752,5 |      424 |
+
+### 2 Personen im Haushalt
+| Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
+| --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
+| 35 | 1746 | 1711 | 123,5           | 318,483871 |      358 |      212 |
+
 
 
