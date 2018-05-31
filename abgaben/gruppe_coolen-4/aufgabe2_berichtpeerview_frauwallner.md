@@ -12,19 +12,3 @@ Wenn ich mich zurückerinnere, wie es mir selbst gegangen ist bei dieser Aufgabe
 
 ### Was ist mir schwer gefallen: 
 Anfangs fiel mit Github sowieso schwer. Ich wusste erst nicht, welche Personen aus der Gruppe ich beurteilen sollte oder ob die ganze Gruppe, und habe mich dann für letzteres entschieden. Mir ist schwer gefallen, dass ich mit der Thematik nicht wirklich vertraut bin. 
-
-### Beim LegiTeam ist mir aufgefallen: 
-* Waren die Dateien korrekt benannt + Keys korrekt gewählt, valide? 
-Die Keys waren korrekt ausgesucht, das JSON war richtig benannt, es ist valide.
-* Waren die Metadaten für dich ausreichend, um das Datenset zu verstehen? Erkläre, warum bzw. warum nicht.
-Man hätte vielleicht noch ein paar Metadaten mehr verwenden können, wenn zum Beispiel jemand kein Twitter hat, ist es möglicherweise nicht verständlich, worum das alles geht. 
-* Eine Sache, die gut gemacht wurde
-Cool waren unter anderem die Keys wie „accounts_linked“. 
-* Eine Verbesserungsmöglichkeit
-Fällt mir leider nichts ein, was man verbessern könnte. 
-##### Note: 2 
-
-### Bei WieheißtdieseGruppe ist mir aufgefallen, dass ich die Gruppe auf Github nicht finden konnte und dafür die PowerPuff-Girls gewählt habe. 
-* Hier war die Datei nicht korrekt benannt, das hätte man besser machen können. Dafür waren die Keys korrekt gewählt und es war ein valides Jason. Auch waren die Metadaten ausreichend und alle gewählten Daten verständlich und nachvollziehbar. 
-*Es war außerdem gut strukturiert, man hätte nur eben korrekt benennen müssen. 
-##### Note: 1 
