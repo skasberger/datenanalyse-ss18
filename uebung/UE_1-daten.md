@@ -1,37 +1,16 @@
-**[Folien](uebung/slides_aufgabe-1.pdf)**
+# Übung 1
 
-## Todo
-
-**1. Setup**
+**[Folien Übung](uebung/slides_aufgabe-1.pdf)**
 
 
-Den Projekt-Ordner aufsetzen. Dazu folgende Ordner Struktur erstellen.
+**Abgabetermine**
 
+* Abgabetermin Erste Version (für Peer Review in zweiter Übungs-Einheit): 22. Mai 2018, 24h
+* Finale Version (wird beurteilt): 17. Juni 2018, 24h
 
-Typ: Gruppenarbeit
+## 1.1. Metadaten erstellen
 
-
-Aufwand: 5min
-
-
-Ordner-Struktur:
-```
-PROJEKTNAME/
-  data/: hier kommen erzeugte Datensets rein, die man für die Analyse bzw. Aufgaben benötigt.
-    raw/: hier kommen die Rohdaten in ihrer Orginalform rein. Daten sollen nicht verändert werden.
-  docs/: hier wird alles mögliche an Dokumenten gespeichert, die man für die Analyse braucht. Papers, eigens erstelle Notizen etc.
-  aufgabe-1/: hier kommen sämtliche Dateien zur Aufgabe 1
-  aufgabe-2/: hier kommen sämtliche  Dateien zur Aufgabe 2
-  aufgabe-3/: hier kommen sämtliche  Dateien zur Aufgabe 3
-  aufgabe-4/: hier kommen sämtliche  Dateien zur Aufgabe 4
-  praesentation/: hier kommen sämtliche Daten zur Präsentation
-  notes.md: Dokumentation für einen selbst. Interne Notizzen. (optional)
-```
-
-**2. Metadaten erstellen**
-
-
-Erstellen der Metadaten als JSON-Datei.
+Erstelle die Metadaten zu einem Werk.
 
 
 Typ: Gruppenarbeit
@@ -40,72 +19,79 @@ Typ: Gruppenarbeit
 Aufwand: 45min
 
 
-Schritte:
-* Beispiel-Datensatz aus Liste raus suchen.
-* Überlegt euch in der Gruppe, welche (fiktiven) Metadaten nötig sind um das Datenset zu beschreiben.
-* Metadaten als Key-Value Paare in Metadaten-Datei schreiben. Nehmt euch Zeit, dies wirklich gut und ausführlich zu machen. Selbsterklärende Key-Namen beachten.
-* Validieren der JSON Datei auf [jsonlint](https://jsonlint.com/)
-* Upload der Datei in das GitHub Repository
+* Werkstyp aus Google Spreadsheet raus suchen.
 
+#### 1.1.1. Diskussion Metadaten
 
-**3. Daten finden**
+* Überlegt euch als Gruppe, welche Metadaten nötig sind um das gewählte Werk zu beschreiben bzw. es besser zu verstehen. Sammelt möglichst viele Attribute.
 
+#### 1.1.2 Metadaten-Datei erstellen
 
-Selbständige Recherche nach einem Datensatz.
+* Verfasst gemeinsam ein Metadaten-Datei (`aufgabe-1_metadata.json`) für ein fiktives Werk des oben gewählten Werkstypen. Überlegt euch passende Key-Value Paare, die in echt auch auftreten könnten und somit logisch konsistent sind. 
+* Beachtet bei den Keys: alles klein,  zusammen und auf Englisch geschrieben. Als Trennzeichen einen Underscore (`_`) verwenden, z. B. `date_created`.
+* Key-Value Paare werden durch ein Komma hinten voneinander getrennt. Daher beim letzten Key-Value Paar kein Komma mehr, da kein weiteres Paar mehr folgt.
+* Die Metadaten sollen für den Computer genauso wie für den Menschen lesbar bzw. nutzbar sein.
+* Verwendet dazu als Vorlage [aufgabe-1_metadata.json](templates/aufgabe-1_metadata.json).
+* Wenn ihr die gesamte Datei fertig habt, ist der Inhalt noch auf [jsonlint](https://jsonlint.com/) zu validieren
+* Ladet die fertige Datei auf GitHub hoch.
+
+**Resourcen:**
+
+* Vorlesung: [Folien Daten](../vorlesung/slides_2-daten.pdf)
+* Vorlesung: [Metadaten Umfrage Herrengasse](../data/theorie/metadata_umfrage-herrengasse.json)
+* Vorlesung: [Metadaten Wetterstation](../data/theorie/metadata_wetterstation.json)
+* [Was ist eine JSON-Datei?](https://de.wikipedia.org/wiki/JavaScript_Object_Notation)
+* [Wikipedia: Metadaten](https://de.wikipedia.org/wiki/Metadaten)
+
+## 1.2. Datenset finden
+
+Suche nach einem Datensatz.
 
 
 Typ: Individualarbeit
 
 
 Aufwand:
+
 * Recherche: 20min
 * Bericht: 20min
 
+#### 1.2.1 Recherche
 
-Schritte:
-* Datensatz aus Liste raus suchen.
-* Selbstständig nach dem Datensatz recherchieren.
-* Dokumentieren der Recherche als Markdown im Bericht.
-* Upload der Datei in das GitHub Repository.
+* Datensatz aus Google Spreadsheet raus suchen.
+* Recherchiere selbstständig nach dem Datensatz. 
+* Wenn du mehrere Quellen gefunden hast, wähle die für dich beste Quelle aus Sicht der Datenqualität aus.
 
-## Abgaben
+#### 1.2.2 Bericht
 
-* Abgabetermin Erste Version (für Feedback): 9. Juni 2018, 24h
-* Abgabetermin Finale Version (wird beurteilt): 17. Juni 2018, 24h
+* Dokumentiere deinen Rechercheweg im Bericht (`aufgabe-1_bericht_NACHNAME.md`).
+* Beantworte darin folgende Fragen kurz und bündig:
 
-**Gruppeneinteilung und GitHub account**
-
-Ergebnis der Gruppeneinteilung mitsamt dem eigenen User-Account in Spreadsheet eingeben.
-
-
-**aufgabe-1_metadata.json**
-
-Valdierte JSON File mit den Metadaten. 
-* Keys auf Englisch, ohne Leerzeichen, alles klein, mit Underscore als Trennzeichen (z. B. `"date_created"`). 
-* Metadaten sollen für Computer genauso wie für Menschen verständlich bzw. nützlich sein.
-* jedes Key-Value Pair wird mit einem Beistrich abgeschlossen, ausser das letzte.
-* JSON Dictionaries (Key-Value Pairs) werden mit einer geschwungenden Klammer gestartet und beendet.
-
-**aufgabe-1_bericht_NACHNAME.md**
-
-Kurzer Text, in dem folgende Fragen knapp und bündig zu beantworten sind (~200 Wörter). Gib bei der Antwort den Listenpunkt der Frage an und erstelle einen eigenen Absatz mit Überschrift (Header 2) zu jeder Frage.
+```
 1. Hast du den Datensatz gefunden?
 2. Wenn ja:
-  * a) Beschreibe deinen Recherche Weg: Wie wurdest du fündig? Welche Strategie hast du angewendet? Welche Tools bzw. Internet-Seiten haben dir dabei geholfen, etc.
-  * b) Link zum Datenset
-  * c) Unter welcher Urheberrechts-Lizenz steht der Datensatz? Falls nicht auffindbar oder schwer zu interpretieren (keine standardisierte Lizenz ala Creative Commons), kurz anführen.
-  * d) Darfst du laut Lizenz die Daten für Bildungszwecke weiterverwenden?
-  * e) Gibt es Metadaten zu dem Datensatz?
-    * ja: Waren die Metadaten ausreichend, um das Datenset zu verstehen? (Weshalb, Weshalb nicht?) Link zu den Metadaten angeben.
-    * nein: Welche Metadaten bräuchtest du?
+  a) Beschreibe deinen Rechercheweg: Wie wurdest du fündig? Welche Such-Strategie hast du angewendet? Welche Tools bzw. Internet-Seiten haben dir dabei geholfen? Was waren Probleme die dabei auftraten?
+  b) Link zum Datenset
+  c) Unter welcher UrheberInnenrechts-Lizenz steht der Datensatz? Falls die Lizenz nicht direkt auffindbar oder schwer zu interpretieren ist (z. B. keine standardisierte Lizenz ala Creative Commons), führe dies bitte an.
+  d) Darfst du laut Lizenz die Daten für Bildungszwecke weiterverwenden?
+  e) Gibt es Metadaten zu dem Datensatz?
+    ja: Waren die Metadaten ausreichend, um das Datenset zu verstehen? Link zu den Metadaten angeben.
+    nein: Liste Metadaten auf, die hilfreich wären, um das Datenset besser zu verstehen.
 3. Wenn nein:
-  * a) Wo wurde überall gesucht?
-  * b) Wie war deine Such-Strategie? Beschreibe die verschiedenen Recherchewege, die du eingeschlagen hast (Repository, Community, Suchmaschine, etc.)
-  * c) Beschreibe, warum du glaubst, dass du das Datenset nicht gefunden hast?
-  * d) Welche öffentlichen oder privaten Organisationen sind Eigentümer der Daten bzw. sollten diese haben? Warum?
+  a) Wo hast du überall gesucht? Liste die Orte auf.
+  b) Wie war deine Such-Strategie? Beschreibe die verschiedenen Recherchewege, die du eingeschlagen hast (z. B. bekannte Repositories, Community, Suchmaschine, etc.)
+  c) Warum glaubst du, konntest du das Datenset nicht finden?
+  d) Welche Institution sollte die Daten besitzen und warum?
+```
 
-Die Datei ist mit dem passenden Nachnamen im Dateinamen (`aufgabe-1_bericht_NACHNAME.md`) auf GitHub in den passenden Gruppen-Ordner hochzuladen.
+* Verwende dazu als Vorlage [aufgabe-1_bericht_NACHNAME.md](templates/aufgabe-1_bericht_NACHNAME.md). Gib oben deinen Namen an. Erstelle für jede Frage-Antwort-Kombination einen eigenen Absatz. Schreibe neben `Q` die Frage, und neben `A` die Antwort. Trenne jedes Frage-Antwort Paar durch drei Minus (`---`) darunter, um so eine Trennlinie zu erzeugen. 
+* Ändere im Dateinamen `NACHNAME` auf deinen Nachnamen ab (alles klein und zusammen geschrieben, z. B. `aufgabe-1_bericht_neumann.md`).
+* Lade den Bericht auf GitHub hoch.
 
-z. B. `aufgabe-1_bericht_neumann.md`
+**Ressourcen**
+
+* Vorlesung: [Folien Daten](../vorlesung/slides_2-daten.pdf)
+
+
 
 

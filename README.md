@@ -33,7 +33,7 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 | 23.5.<br>OK: 9:45-12:00<br>DJ: 13:00 - 15:15 | Peer Review | [Aufgabe](uebung/UE_2-review.md) | [Folien](uebung/slides_aufgabe-2.pdf) |
 | OK: 29.5. 15:30 - 17:45<br>DJ: 4.6. 13:00 - 16:15 | Verteilungen | [Aufgabe](uebung/UE_3-verteilungen.md) | [Folien](uebung/slides_aufgabe-3.pdf) |
 | OK: 30.5. 8:45 - 12:00<br>DJ: 5.6. 8:30 - 10:45 | Korrelation | [Aufgabe](uebung/UE_4-korrelation.md) | [Folien](uebung/slides_aufgabe-4.pdf) |
-| 13.6.<br>OK: 13:00 - 14:30<br>DJ: 14:45 - 16:15 | Präsentation | [Aufgabe](uebung/UE_5-praesentation.md) |  |
+| 13.6.<br>OK: 13:00 - 14:30<br>DJ: 14:45 - 16:15 | Präsentation | [Aufgabe](uebung/UE_5-praesentation.md) | n/a |
 
 ## TIMELINE
 
