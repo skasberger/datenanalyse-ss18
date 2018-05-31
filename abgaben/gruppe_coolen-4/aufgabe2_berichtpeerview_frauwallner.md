@@ -11,7 +11,7 @@ Ich weiß nicht, ob ich wirklich etwas dabei lerne. Womöglich tue ich mir da st
 Wenn ich mich zurückerinnere, wie es mir selbst gegangen ist bei dieser Aufgabe, möchte ich allerdings lieber nicht wissen, wie man mich beurteilt hat... Grundsätzlich hatte ich mir von der LV nach der ersten Einheit auch etwas GÄNZLICH Anderes vorgestellt. „Spaß haben“ im Sinne von theoretischem Wissen, weniger im Sinne von gestresster, mathematischer Nervosität, das Fach nicht zu bestehen, weil man nichts vom Inhalt versteht, Flashbacks zur Panik der Mathematura hat (Korrelationen, Boxplots) oder viel viel viel länger braucht als die meisten anderen... :/
 
 ### Was ist mir schwer gefallen: 
-Anfangs fiel mit Github sowieso schwer. Ich wusste erst nicht, welche Personen aus der Gruppe ich beurteilen sollte oder ob die ganze Gruppe, und habe mich dann für letzteres entschieden. Mir ist schwer gefallen, dass ich das Thema in der ersten Einheit selbst schon nicht verstand, als ich es selbst machen musste. 
+Anfangs fiel mit Github sowieso schwer. Ich wusste erst nicht, welche Personen aus der Gruppe ich beurteilen sollte oder ob die ganze Gruppe, und habe mich dann für letzteres entschieden. Mir ist schwer gefallen, dass ich mit der Thematik nicht wirklich vertraut bin. 
 
 ### Beim LegiTeam ist mir aufgefallen: 
 * Waren die Dateien korrekt benannt + Keys korrekt gewählt, valide? 
