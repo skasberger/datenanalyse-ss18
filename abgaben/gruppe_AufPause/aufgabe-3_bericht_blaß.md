@@ -2,9 +2,9 @@
 
 ----
 ## Nationalratswahlen 2017: Bericht
-Name: Katrin Blaß 
+Name: Katrin BlaÃŸ 
 
-Ich habe folgende Partei ausgewählt: Die Grünen
+Ich habe folgende Partei ausgewÃ¤hlt: Die GrÃ¼nen
 
 Analysierter Bezirk: Voitsberg
 
@@ -14,21 +14,22 @@ Analysierter Bezirk: Voitsberg
 ----
 ## 1) Daten inspizieren
 **Welche Struktur haben die vorliegenden Daten?**
+
 Die zu verarbeitenden Daten werden in einer Tabelle dargestellt. 
 
 **Was wird in den Zellen gespeichert: Was stellt eine Zeile dar, was eine Spalte?**
 
-Jede Gemeinde hat ihre eigene Zeile. Hier werden die zugehörigen Daten angegeben. Insgesamt setzt sich der Bezirk Voitsberg aus 15  Gemeinden zusammen. Das bedeutet, es gibt auch 15 Zeilen. In den Spalten 
+Jede Gemeinde hat ihre eigene Zeile. Hier werden die zugehÃ¶rigen Daten angegeben. Insgesamt setzt sich der Bezirk Voitsberg aus 15  Gemeinden zusammen. Das bedeutet, es gibt auch 15 Zeilen. In den Spalten 
 
 Die 15 Gemeinden sind: 
 
-Krottendorf-Gaisfeld, Ligist, Mooskirchen, Rosental an der Kainach, Sankt Martin am Wöllmißberg, Stallhofen, Voitsberg, Bärnbach, Edelschrott, Geistthal-Södingberg, Hirschegg-Pack, Kainach bei Voitsberg, Köflach, Maria Lankowitz, Söding-Sankt Johann
+Krottendorf-Gaisfeld, Ligist, Mooskirchen, Rosental an der Kainach, Sankt Martin am WÃ¶llmiÃŸberg, Stallhofen, Voitsberg, BÃ¤rnbach, Edelschrott, Geistthal-SÃ¶dingberg, Hirschegg-Pack, Kainach bei Voitsberg, KÃ¶flach, Maria Lankowitz, SÃ¶ding-Sankt Johann
 
 **Welche Skalierung haben die Merkmale in den Spalten?**
 
 Ordinalskaliert: Gemeindekennzahlen, Namen der Gemeinden
 
-Verältnisskaliert: Wahlberechtigte, Stimmenverteilung (gewählte Partei, Stimmenanzahl, gültige und ungültige Stimmen)
+VerÃ¤ltnisskaliert: Wahlberechtigte, Stimmenverteilung (gewÃ¤hlte Partei, Stimmenanzahl, gÃ¼ltige und ungÃ¼ltige Stimmen)
 
 Nominalskaliert: Parteiauflistung
 
@@ -36,7 +37,7 @@ Nominalskaliert: Parteiauflistung
 
 **Sind die Daten komplett (alle Gemeinde-Ergebnisse der Steiermark)?**
 
-Im Datensatz differenziert man nicht nach Geschlecht - männlich und weiblich wird nicht angegeben. Es gibt auch keine Angaben zum Bildungsgrad der befragten Personen. 
+Im Datensatz differenziert man nicht nach Geschlecht - mÃ¤nnlich und weiblich wird nicht angegeben. Es gibt auch keine Angaben zum Bildungsgrad der befragten Personen. 
 Weiters fehlen die Parteien NEOS, die Liste Pilz und alle weiteren Kleinparteien.  
 
 
@@ -53,7 +54,7 @@ Ja, die Daten sind korrekt.
 
 
 
-| Metrik | grüne_rel | Altersgruppe (15-29 Jahre) | 1P_rel|
+| Metrik | grÃ¼ne_rel | Altersgruppe (15-29 Jahre) | 1P_rel|
 |--------|---------|---------|---------|
 | Min |  0,11 |14,77  | 22,33  |
 | Max | 2,08 | 17,06 | 38,95 |
@@ -66,13 +67,13 @@ Ja, die Daten sind korrekt.
 
 
 ## 3) Merkmale
-Liste die Gemeinde mit kleinem, durschschnittlichem und großem Zahlenwert auf.
+Liste die Gemeinde mit kleinem, durschschnittlichem und groÃŸem Zahlenwert auf.
 
-| Merkmal | Klein | Durchschnitt | Groß |
+| Merkmal | Klein | Durchschnitt | GroÃŸ |
 |---------|-------|--------------|------|
-| grüne_rel | Geistthal-Södingberg | Köflach| Ligist |
-| Altersgruppe (15-29 Jahre) | Stallhofen | Sankt Martin am Wöllmißberg | Rosental an der Kainach |
-| 1-Personenhaushalt | Stallhofen | Limits | Köflach |
+| grÃ¼ne_rel | Geistthal-SÃ¶dingberg | KÃ¶flach| Ligist |
+| Altersgruppe (15-29 Jahre) | Stallhofen | Sankt Martin am WÃ¶llmiÃŸberg | Rosental an der Kainach |
+| 1-Personenhaushalt | Stallhofen | Limits | KÃ¶flach |
 
 
 
@@ -80,12 +81,12 @@ Liste die Gemeinde mit kleinem, durschschnittlichem und großem Zahlenwert auf.
 
 ## 4) Boxplots Ergebnisse
 
-Gib zu den Eigenschaften Symmetrie, Box-Range Verhältnis und Outlier kurz an, was du gefunden hast.
+Gib zu den Eigenschaften Symmetrie, Box-Range VerhÃ¤ltnis und Outlier kurz an, was du gefunden hast.
 
-| Eigenschaft | grüne_rel | Altersgruppe (15-29) | 1P_rel |
+| Eigenschaft | grÃ¼ne_rel | Altersgruppe (15-29) | 1P_rel |
 |-------------|---------|---------|---------|
-| Symmetrie | annähernd symmetrisch | nein | nein |
-| Box:Range Verhältnis | normal | schmal | breit |
+| Symmetrie | annÃ¤hernd symmetrisch | nein | nein |
+| Box:Range VerhÃ¤ltnis | normal | schmal | breit |
 | Outlier | nein | nein | nein |
 
 
