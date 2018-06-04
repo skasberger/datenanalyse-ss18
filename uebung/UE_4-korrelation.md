@@ -1,5 +1,7 @@
 # Übung #4
 
+**[Folien](slides_aufgabe-4.pdf)**
+
 * Abgabetermin Erste Version (für Feedback): 9. Juni 2018, 24h
 * Abgabetermin Finale Version (wird beurteilt): 17. Juni 2018, 24h
 
@@ -53,8 +55,6 @@ Typ: Individualarbeit
 
 Ungefährer Aufwand: 90min
 
-
-Schritte:
 * Lies dir die Angaben zu den einzelnen Aufgaben noch einmal durch.
 * Finalisiere die bisherigen Aufgaben, wenn noch nicht fertig.
 * Sieh dir die Issues zu deiner/eurer Arbeit bei der ersten Aufgabe an, welche im Zuge des Peer Reviews erstellt wurden.
@@ -70,7 +70,7 @@ Typ: Gruppenarbeit
 
 Ungefährer Aufwand: 60min
 
-* Seht euch die Ergebnisse eures Bezirkes sowie jenen der gesamten Steiermark an. Vergleicht die Ergebnisse um so zu Aussagen wie "Der Bezirk XYZ hat überdurchschnittlich viele 3 Personen Haushalte im Vergleich zur restlichen Steiermark" zu bekommen. Tipp: sieh dir die [Boxplots der Merkmale für die Steiermark](img/) bzw. die Verteilungen der Daten an.
+* Seht euch die Ergebnisse eures Bezirkes sowie jene der gesamten Steiermark an. Vergleicht die Ergebnisse um so zu Aussagen wie "Der Bezirk XYZ hat überdurchschnittlich viele 3 Personen Haushalte im Vergleich zur restlichen Steiermark" zu bekommen. Tipp: sieh dir die [Boxplots der Merkmale für die Steiermark](img/) bzw. die Verteilungen der Daten an.
 * Versucht repräsentative Gemeinden für eure Geschichte zu finden: Seht euch Gemeinden an, die nahe am Mittelwert liegen, sowie welche mit sehr kleinen und sehr großen Werten an (vor allem Outlier!). Haltet dabei Ausschau nach Gründen, warum diese Gemeinden extrem bzw. durchschnittlich sind.
 * Bei der Korrelation: Ist der Zusammenhang stark bzw. scheint er plausibel?
 * Versuche die gesamelten Informationen in eine "Geschichte" zusammen zu fassen. Denkt die gesamte Datenanalyse zusammen - von Daten inspizieren über die Metriken mitsamt Boxplots bis zu den Korrelationen: Was habt ihr durch eure Datenanalyse über die Demographie und das Wahlverhalten in eurem Bezirk raus gefunden? 
