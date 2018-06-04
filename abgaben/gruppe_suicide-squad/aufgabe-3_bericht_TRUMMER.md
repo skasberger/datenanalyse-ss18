@@ -1,54 +1,72 @@
+Name: Philipp Trummer
 
+Partei: ÖVP
 
-**Nationalratswahlen 2017: Bericht**
+Bezirk: Südoststeiermark
 
-Analysierter Bezirk: Südoststeiermark
+## Inspizieren
 
-Analysierte Partei: ÖVP
+Struktur:
 
-1. **1.**** Inspiziere die Daten bezüglich folgender Eigenschaften:**
+Merkmale:
 
-**Skalierung:**
-  Der untersuchte Dateisatz besteht aus den Gemeindekennzahlen der jeweiligen Gemeinden, sowie Angaben über die Wahlergebnisse und -berechtigte.
-Die Gemeindekennzahlen sind, ebenso die die Namen der Gemeinden, **Ordinalskalen**. Wahlberechtigte sowie sämtliche Angaben zu Stimmenverteilung (gewählte Partei, Gültige, Ungültige, Parteien, sozioökonomische Merkmale) sind **Verhältnisskalen**. Die Parteienauflistung selbst ist eine **Nominalskala** , deren Stimmenanzahl wiederum ist wie oben angeführt eine **Verhältnisskala.
+| Merkmal | Inhalt | Skalierung |
+|---------|---------|----------------|
+| gkz | Gemeindekennzahl | Ordinal |
+| gemeinde | Name der Gemeinde | Ordinal |
+| wahlberechtigt_abs | Gesamtzahl der Wahlberechtigten | Verhältnis |
+| abgegeben_abs | Absoluter Anteil der abgegebenen Stimmen | Verhältnis |
+| ungueltig_rel | Relativer Anteil der nicht gültigen Stimmen | Verhältnis |
+| gueltig_abs | Absoluter Anteil der gültig Stimmen | Verhältnis |
+| spoe_rel | Relativer Anteil an SPÖ-Stimmen | Verhältnis |
+| oevp_abs | Absoluter Anteil an ÖVP-Stimmen | Verhältnis |
+| fpoe_rel | Relativer Anteil an FPÖ-Stimmen | Verhältnis |
+| gruene_rel | Relativer Anteil an Grün-Stimmen | Verhältnis |
+| 0_14_rel | Relativer Anteil an 0-14-Jährigen | Verhältnis |
+| 15_29_rel | Relativer Anteil an 15-29-Jährigen | Verhältnis |
+| 30_44_rel | Relativer Anteil an 30-44-Jährigen | Verhältnis |
+| 45_59_rel | Relativer Anteil an 45-59-Jährigen | Verhältnis |
+| 60_74_rel | Relativer Anteil an 60-74-Jährigen | Verhältnis |
+| 75_abs | Absoluter Anteil an über 75-Jährigen | Verhältnis |
+| 1p_rel |  Relativer Anteil an Haushälten mit 1 Person | Verhältnis |
+| 2p_rel |  Relativer Anteil an Haushälten mit 2 Personen | Verhältnis |
+| 3p_abs |  Absoluter Anteil an Haushälten mit 3 Personen | Verhältnis |
+| 4p_rel | Relativer Anteil an Haushälten mit 4 Personen | Verhältnis |
+| 5p_rel | Relativer Anteil an Haushälten mit 5 oder mehr Personen | Verhältnis |
+| oesterreich_abs |  | Verhältnis |
+| ausland_rel |  | Verhältnis |
 
-Vollständigkeit:**
-  Der Datensatz zeigt grundsätzlich alle relevanten Angaben zu den Wählergruppen an, allerdings fehlen die Parteien **NEOS** bzw. **Liste Pilz** , alle weiteren Kleinparteien sowie eine Unterteilungen in **männlich/weiblich**** und nach Bildungsgrad.**
+Komplett: Es fehlen die Parteien NEOS bzw. Liste Pilz, alle weiteren Kleinparteien sowie eine Unterteilungen in männlich/weiblich und nach Bildungsgrad.
 
-**Korrektheit:** Ebenso zeigt sich bei der Addition der Daten, dass **nahezu 8000 Wählerstimmen zu viel** verrechnet wurden. Dies veränderte, mit Ausnahme der Wahlberechtigten, auch jeden anderen Datensatz.
+Korrekt: In der Urversion wurden 8000 Wählerstimmen zu viel verrechnet
 
-1. **2.**** Analyse der Metriken**
+## Metriken
 
-**Wahlberechtigte:**
-   / Max.: Die Wahlberechtigten der einwohnerschwächsten/ -stärksten Gemeinde
-Range: Der absolute Unterschied an Berechtigten zwischen den o.a. Gemeinden
-Q1: Ein Viertel aller steirischen Gemeinden hat zwischen 354 und 1289 Wähler.
-Median: Ein Viertel aller steirischen Gemeinden hat zwischen 1289 und 1948 Wähler.
-Q3: Ein Viertel aller steirischen Gemeinden hat zwischen 1948 und 3457 Wähler. Das verbleibende Viertel hat zwischen 3457 und 197958 Wähler.
-Mean: Alle steirischen Gemeinden haben im Schnitt 5027 Wähler.
-**Alles andere** :
-Min. / Max.: Die Gemeinden mit den am wenigsten bzw. meisten Stimmen der jeweiligen Kategorisierung.
-Range: Alle vorhandenen Mengen an Stimmen der jeweiligen Kategorisierung
-liegen zwischen diesem Wert.
-Q1: Das Viertel aller Gemeinden mit der geringsten Anzahl an Stimmen der jeweiligen Kategorisierung liegt unter diesem Wert
-Q3: Das Viertel aller Gemeinden mit der höchsten Anzahl an Stimmen der jeweiligen Kategorisierung liegt über diesem Wert
-Median: Jene Hälfte der Gemeinden mit einem geringeren Wert an Stimmen der jeweiligen Kategorisierung liegt unter diesem Wert, alle anderen darüber.
-Mean: Der steiermarkweite Schnitt aller Stimmen der jeweiligen Kategorisierung.
+Gib die Metriken zu den einzelnen Merkmalen an.
 
-Die oben angeführten Werte lassen **keine Rangfolge in absoluter Bevölkerungszahl** zu. Es ist etwa gut möglich, dass eine Gemeine mit weniger Wahlberechtigten mehr Einwohner als eine andere Gemeinde hat. Dies würde sich etwa mit einem hohen Anteil an Jugendlichen oder nicht anerkannten Asylwerbern erklären.
+| Metrik | ÖVP_abs | 75+_abs | 1Pers._rel |
+|--------|---------|---------|---------|
+| Min | 272 | 109 | 18,30 |
+| Max | 2639 | 1293 | 35,86 |
+| Range | 2367 | 1184 | 17,56 |
+| Q1 | 386 | 169 | 21,74 |
+| Median | 685 | 303 | 23,63 |
+| Q3 | 935,25 | 410,25 | 26,15 |
+| Mean | 767 | 360 | 24,78 |
+Liste je 2-3 Gemeinden mit kleinem, durschschnittlichem und großem Zahlenwert auf.
 
-1. **3.**** Zu beantwortende Fragen**
-  1. **Welche Aussagen über die Wahl kann anhand der zugrundeliegenden Datenbasis getroffen werden?**
-Anhand der gegebenen Daten lässt sich sagen, wie viele Menschen an der Wahl in der Steiermark teilgenommen haben und wie viele Stimmen pro Partei entfallen sind. Man kann analysieren, wie das Wahlverhalten von Familien unterschiedlicher Größe voneinander abweicht. Ebenfalls lässt sich feststellen, welche politische Affinität unterschiedliche Altersgruppen aufweisen und wie viele ungültige/gültige Stimmen abgegeben wurden.
-  2. **Sind alle Daten vorhanden, um das Wahlverhalten in der Steiermark bei der NRW17 zu beschreiben?**
-Wie oben angeführt, fehlen für eine vollständige Interpretation Geschlecht, Bildungsgrad sowie die Wählerstimmen von NEOS, Liste Pilz und den verschiedenen Kleinparteien.
-  3. **Sind dir irgendwelche Besonderheiten bzgl. des Datensets aufgefallen bzw. gab es etwas für dich Unerwartetes?**
-Unerwartet war insbesondere, dass jeder Datenwert eine Fehlerquote von nahezu 8000 Stimmen aufwies, die sich zudem relativ auf die anderen Kriterien (Partei, sozioökonomische Merkmale) verteilten.
-  4. **Boxplot**
-Der Boxplot wurde horizontal und mit verringerter Breite (in diesem Fall Höhe) dargestellt, da sich eine waagrechte Leiste leichter zu lesen lässt als ein senkrechter Balken.
-2. **4.**** Ergebnisse der Metriken**
-**ÖVP-Wähler:** Min:103 Max:407 Range:304 Mean:358 Q1:157 Median:303 Q3:410
+| Merkmal | Klein | Durchschnitt | Groß |
+|---------|-------|--------------|------|
+| ÖVP_abs | Eichkögl | Paldau | Feldbach |
+| 75+_abs | Klöch | Kirchbach-Zerlach | Feldbach |
+| 1Pers._rel | Pirching a.T. | Straden | Bad Radkersburg |
 
-**1-Personen-Haushalte:** Min:89 Max:339 Range:250 Mean:333 Q1:134 Median:211 Q3:423
+## Boxplot
 
-**über 75 Jahre:** Min:103 Max:407 Range:304 Mean:358 Q1:157 Median:303 Q3:410
+Gib zu den Eigenschaften Symmetrie, Box-Range Verhältnis und Outlier kurz an, was du gefunden hast.
+
+| Eigenschaft | ÖVP_abs | 1-Pers._rel | 75+_abs |
+|-------------|---------|---------|---------|
+| Symmetrie | schwache Rechsverschiebung | mäßige Rechsverschiebung | starke Rechtsverschiebung |
+| Box:Range Verhältnis | leicht nach links verzerrt | nach links verzerrt | stark nach links verzerrt |
+| Outlier | größere Menge | größere Menge | nein |
