@@ -13,10 +13,11 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 
 * auf [GitHub](https://github.com) registrieren
 * Text-Editor wie [Notepad++](https://notepad-plus-plus.org/) oder [Atom Editor](https://atom.io/) installiert.
-* [Libre Office](https://de.libreoffice.org/) installiert.
+* [Libre Office](https://de.libreoffice.org/) installieren.
+* Markdown Editor installieren: [Remarkable](https://remarkableapp.github.io/) (nur Win und Linux).
 * Markdown einarbeiten: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/), [Writing on GiHub](https://help.github.com/categories/writing-on-github/)
 
-## VORLESUNGEN
+## VORLESUNG
 
 | Inhalt        | Folien | Daten |
 |---------------|--------|--------|
@@ -26,6 +27,8 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 | Analyse: Verteilungen, Metriken und Korrelation. | [Daten auswerten](vorlesung/slides_4-daten-auswerten.pdf) | [Beispiele Verteilungen](data/theorie/statistik_beispiele.ods), [Beispiele Verteilungen für BoxplotR](data/theorie/distributions.csv), [Beispiele Korrelationen](data/theorie/korellation_beispiele.ods)|
 
 ## ÜBUNGEN
+
+**[Vorbereitung](uebung/UE_0-vorbereitung.md)**
 
 | Termine | Inhalt | Aufgabe | Folien |
 |---------|--------|---------|--------|
@@ -40,9 +43,9 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 * **8. - 17. Mai.**: Theorie
 * **17. Mai.**: Test
 *  **22. Mai - 5. Juni**: Übungen
-* **9. Juni**: Abgabetermin der Aufgaben - Erster Draft (für Feedback)
-* **13. Juni**: Präsentation, Abgabetermin Präsentation
-* **17. Juni**: Abgabetermin der Aufgaben - Finale Version (wird beurteilt)
+* **9. Juni**: Abgabetermin der Aufgaben 3 & 4 - Erster Draft (für Feedback)
+* **13. Juni**: Präsentation & Abgabetermin Präsentation
+* **17. Juni**: Abgabetermin aller Aufgaben - Finale Version (wird beurteilt)
 
 ## BEURTEILUNG
 
@@ -66,7 +69,7 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 
 * Gewichtung: 20%
 * Wann: 13. Juni 2018
-* Dauer: je 10min
+* Dauer: je 5min
 
 Näheres siehe [Aufgabe](uebung/UE_5-praesentation.md).
 

@@ -1,4 +1,4 @@
-# Übung 2
+# Übung #2
 
 **[Folien](uebung/slides_aufgabe-2.pdf)**
 
@@ -6,7 +6,6 @@
 * Abgabetermin Finale Version (wird beurteilt): 17. Juni 2018, 24h
 
 ## 2.1. Review Datenrecherche
-
 
 Berichte zur Datenrecherchen aus letzter Einheit reviewen und zusammenfassen.
 
@@ -55,7 +54,6 @@ Beachtet: Die Antworten müssen nachher im Bericht dokumentiert werden.
 * Vorlesung: [Folien Daten](../vorlesung/slides_2-daten.pdf)
 
 ## 2.2. Peer Review Metadaten
-
 
 Peer Review der JSON-Metadaten aus letzer Einheit mitsamt Beurteilung.
 
@@ -110,14 +108,14 @@ Was nicht dabei sein soll: die Begründung der Note.
 
 #### 2.2.3 Bericht Peer Review und Peer Grading
 
-* Verfasse einen kurzen, persönlichen Text (~200 Wörter) mit den Erfahrungen zum Peer Review und Peer Grading. Gehe dabei auf folgende Punkte ein.
+* Verfasse einen kurzen, persönlichen Text mit ~200 Wörter (`aufgabe-2_bericht_NACHNAME.md`) mit den Erfahrungen zum Peer Review und Peer Grading. Gehe dabei auf folgende Punkte ein.
     * Wie war die Erfahrung des Peer Reviews für dich (nicht der Beurteilung)?
     * Hast du von den Anderen etwas gelernt? 
     * Wie ist es dir bei der Beurteilung gegangen?
     * Gab es Schwierigkeiten beim Review bzw. beim Beurteilen?
 * Links zu den Issues an.
 * Verwende dazu als Vorlage [aufgabe-2_bericht_NACHNAME.md](templates/aufgabe-2_bericht_NACHNAME.md). Trag deinen Namen oben ein.
-* Upload des Berichtes (`aufgabe-2_bericht_NACHNAME.md`) in das GitHub Repository.
+* Upload des Berichtes in das GitHub Repository.
 
 **Resourcen:**
 

@@ -10,10 +10,10 @@ Dauer Präsentation: 6min + 4min Diskussion
 
 
 Inhalt:
-* Folie 1: Name Gruppe, Gruppenmitglieder, Bezirk, Merkmale.
+* Folie 1: Name Gruppe, Gruppenmitglieder, Bezirk.
 * Folie 2: Eure Interpretation der Datenanalyse zu eurem Bezirk.
-* Folie 3: Wählt einen Boxplot aus, den ihr kurz näher beschreibt. Untermauert dabei eure Schlüsse aus der Interpretation. Geht z. B. kurz auf eine repäsentative Gemeinde ein oder stellt Vergleiche zur gesamten Steiermark an.
-* Folie 4: Wählt einen Scatterplot aus, den ihr kurz näher beschreibt. Untermauert damit eure Schlüsse aus der Interpretation. Geht z. B. kurz auf eine repäsentative Gemeinde ein oder stellt Vergleiche zur gesamten Steiermark an.
+* Folie 3: Wählt einen Boxplot aus, den ihr kurz näher beschreibt (Benennung des Merkmals nicht vergessen!). Untermauert dabei eure Schlüsse aus der Interpretation. Geht z. B. kurz auf eine repäsentative Gemeinde ein oder stellt Vergleiche zur gesamten Steiermark an.
+* Folie 4: Wählt einen Scatterplot aus, den ihr kurz näher beschreibt (Benennung des Merkmals nicht vergessen!). Untermauert damit eure Schlüsse aus der Interpretation. Geht z. B. kurz auf eine repäsentative Gemeinde ein oder stellt Vergleiche zur gesamten Steiermark an.
 * Folie 5: Beantwortet, welche weiteren Daten oder Analysen hilfreich wären, um die Interpretation zu stützen?
 
 Beachtet:

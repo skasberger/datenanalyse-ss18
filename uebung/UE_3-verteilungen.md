@@ -1,9 +1,9 @@
+# Übung #3
+
 **[Folien](uebung/slides_aufgabe-2.pdf)**
 
 * Abgabetermin Erste Version (für Feedback): 9. Juni 2018, 24h
 * Abgabetermin Finale Version (wird beurteilt): 17. Juni 2018, 24h
-
-# Übung #3
 
 ## 3.1 Daten inspizieren
 
@@ -33,7 +33,7 @@ Ungefährer Aufwand: 30min
 #### 3.1.2 Ergebnisse dokumentieren
 
 * Fasse die Ergebnisse aus der Inspektion in einem Bericht (`aufgabe-3_bericht_NACHNAME.md`) zusammen. Liste darin auf, um was es sich bei den einzelnen Merkmalen handelt, welchen Skalierungstyp sie haben und gehe auf die inspizierten Eigenschaften von oben ein.
-* Verwende dazu als Vorlage [aufgabe-3_bericht_NACHNAME.md](templates/aufgabe-3_bericht_NACHNAME.md). Trage deinen Namen oben ein. befülle die Merkmals-Tabelle und komplettiere die Punkte.
+* Verwende dazu als Vorlage [aufgabe-3_bericht_NACHNAME.md](templates/aufgabe-3_bericht_NACHNAME.md). Trage deinen Namen oben ein. Befülle die Merkmals-Tabelle und komplettiere die Punkte.
 * Lade den Bericht in das GitHub Repository.
 
 Als Grundlage für die Erstellung des Datensatzes wurden folgende offene Daten von [data.gv.at](http://data.gv.at/) verwendet. Diese und deren Metadaten können verwendet werden, um die Merkmale besser zu verstehen, falls nötig.
@@ -48,7 +48,7 @@ Als Grundlage für die Erstellung des Datensatzes wurden folgende offene Daten v
 * Vorlesung: [Folien Daten](../vorlesung/slides_2-daten.pdf)
 * Vorlesung: [Folien Daten nutzen](../vorlesung/slides_3-daten-nutzen.pdf)
 
-## 3.2 Wahl-Metrik Bezirk berechnen
+## 3.2 Wahl-Metriken des Bezirkes berechnen
 
 Berechnen der Wahl-Metrik für den Bezirk.
 
@@ -78,8 +78,9 @@ Ungefährer Aufwand: 30min
 **Ressourcen**
 
 * Vorlesung: [Folien Daten auswerten](../vorlesung/slides_4-daten-auswerten.pdf)
+* Vorlesung: [Beispiele Metriken](../data/theorie/statistik_beispiele.ods)
 
-## 3.3 Sozio-ökonomische Metriken Bezirk berechnen
+## 3.3 Sozio-ökonomische Metriken des Bezirkes berechnen
 
 Berechnen der sozio-ökonomischen Metriken für den Bezirk.
 
