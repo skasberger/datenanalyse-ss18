@@ -42,6 +42,8 @@ Korrekt:
 
 ## Metriken
 
+Gib die Metriken zu den einzelnen Merkmalen an.
+
 | Metrik | MERKMAL | MERKMAL | MERKMAL |
 |--------|---------|---------|---------|
 | Min |  |  |  |
@@ -55,7 +57,7 @@ Korrekt:
 
 ## Merkmale
 
-Liste je 2-3 Gemeinden mit kleine,, durschschnittlichem und großem Zahlenwert auf.
+Liste je 2-3 Gemeinden mit kleinem, durschschnittlichem und großem Zahlenwert auf.
 
 | Merkmal | Klein | Durchschnitt | Groß |
 |---------|-------|--------------|------|
@@ -65,10 +67,12 @@ Liste je 2-3 Gemeinden mit kleine,, durschschnittlichem und großem Zahlenwert a
 
 ## Boxplot
 
+Gib zu den Eigenschaften Symmetrie, Box-Range Verhältnis und Outlier kurz an, was du gefunden hast.
+
 | Eigenschaft | BOXPLOT | BOXPLOT | BOXPLOT |
 |-------------|---------|---------|---------|
 | Symmetrie |  |  |  |
-| Box:Range |  |  |  |
+| Box:Range Verhältnis |  |  |  |
 | Outlier |  |  |  |
 
 

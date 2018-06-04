@@ -48,7 +48,7 @@ Als Grundlage für die Erstellung des Datensatzes wurden folgende offene Daten v
 * Vorlesung: [Folien Daten](../vorlesung/slides_2-daten.pdf)
 * Vorlesung: [Folien Daten nutzen](../vorlesung/slides_3-daten-nutzen.pdf)
 
-## 3.2 Wahl-Metriken des Bezirkes berechnen
+## 3.2 Wahl-Metrik des Bezirkes berechnen
 
 Berechnen der Wahl-Metrik für den Bezirk.
 
