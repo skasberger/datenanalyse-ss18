@@ -23,7 +23,7 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 |---------------|--------|--------|
 | Einleitung LV | [Einleitung](vorlesung/slides_1-einleitung.pdf) |  |
 | Theoretische Grundlagen für das Arbeiten mit Daten | [Daten](vorlesung/slides_2-daten.pdf) |  |
-| Die vorbereitenden Datenverarbeitungs-Schritte in einer Datenanalyse. | [Daten nutzen](vorlesung/slides_3-daten-nutzen.pdf) | [Metadaten Umfrage Herrengasse](data/theorie/metadata_umfrage-herrengasse.json), [Metadaten Wetterstation](data/theorie/metdata_wetterstation.json) |
+| Die vorbereitenden Datenverarbeitungs-Schritte in einer Datenanalyse. | [Daten nutzen](vorlesung/slides_3-daten-nutzen.pdf) | [Metadaten Umfrage Herrengasse](data/theorie/metadata_umfrage-herrengasse.json), [Metadaten Wetterstation](data/theorie/metadata_wetterstation.json) |
 | Analyse: Verteilungen, Metriken und Korrelation. | [Daten auswerten](vorlesung/slides_4-daten-auswerten.pdf) | [Beispiele Verteilungen](data/theorie/statistik_beispiele.ods), [Beispiele Verteilungen für BoxplotR](data/theorie/distributions.csv), [Beispiele Korrelationen](data/theorie/korellation_beispiele.ods)|
 
 ## ÜBUNGEN
@@ -69,7 +69,6 @@ Lehrveranstaltungs-Repository für die Lehrveranstaltung *Datengestützte Analys
 
 * Gewichtung: 20%
 * Wann: 13. Juni 2018
-* Dauer: je 5min
 
 Näheres siehe [Aufgabe](uebung/UE_5-praesentation.md).
 

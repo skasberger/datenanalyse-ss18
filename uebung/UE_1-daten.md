@@ -1,6 +1,6 @@
 # Übung #1
 
-**[Folien Übung](uebung/slides_aufgabe-1.pdf)**
+**[Folien Übung](slides_aufgabe-1.pdf)**
 
 
 **Abgabetermine**
