@@ -62,7 +62,7 @@ Korrekt: Der Datensatz scheint korrekt.
 ## Metriken
 
 | Metrik | gruene_rel | 0_14_rel | 15_29_rel |
-|--------|---------|
+|--------|------------|----------|------------|
 | Min | 0,27 | 10,61 | 12,12 |
 | Max | 2,71 | 15,96 | 17,67 |
 | Range | 2,44 | 5,35 | 5,55 |
