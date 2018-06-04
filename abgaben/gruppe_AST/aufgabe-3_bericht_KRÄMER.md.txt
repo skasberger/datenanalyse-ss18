@@ -1,0 +1,70 @@
+Name: Tabea Krämer
+
+Bezirk: Murau
+
+## Inspizieren 
+
+Struktur: Tabelle, nach Gemeindekennzahl
+
+Merkmale: 
+
+| Merkmal | Inhalt | Skalierung |
+|---------|---------|----------------|
+| gkz | Gemeindekennzahl | Verhaeltnisskala |
+| gemeinde | Gemeindename | Verhaeltnisskala  |
+| wahlberechtigt_abs | Wahlberechtigte absolut | Verhaeltnisskala  |
+| abgegeben_abs | Abgegeben Stimmen absolut |Verhaeltnisskala   |
+| ungueltig_rel | Ungueltige Stimmen relativ |Verhaeltnisskala   |
+| gueltig_abs | Gueltige Stimmen absolut | Verhaeltnisskala  |
+| spoe_rel | SPOE Stimmenanteil relativ | Verhaeltnisskala  |
+| oevp_abs | OEVP Stimmenanteil absolut | Verhaeltnisskala  |
+| fpoe_rel | FPOE Stimmenanteil relativ | Verhaeltnisskala  |
+| gruene_rel | Gruene Stimmenanteil relativ | Verhaeltnisskala  |
+| 0_14_rel | 0-14 Jaehrige Kinder in der Gemeinde | Verhaeltnisskala  |
+| 15_29_rel | 15-29 Jaehrige in der Gemeinde |Verhaeltnisskala   |
+| 30_44_rel | 30-44 Jaehrige in der Gemeinde | Verhaeltnisskala  |
+| 45_59_rel | 45-59 Jaehrige in der Gemeinde | Verhaeltnisskala  |
+| 60_74_rel | 60-74 Jaehrige in der Gemeinde | Verhaeltnisskala  |
+| 75_abs | über 75 Jaehrige | Verhaeltnisskala  |
+| 1p_rel | 1 Personenhaushalte | Verhaeltnisskala  |
+| 2p_rel | 2 Personenhaushalte | Verhaeltnisskala  |
+| 3p_abs | 3 Personenhaushalte | Verhaeltnisskala  |
+| 4p_rel | 4 Personenhaushalte | Verhaeltnisskala  |
+| 5p_rel | 5 Personenhaushalte | Verhaeltnisskala  |
+| oesterreich_abs | Gemeindebewohner mit oesterreichischer Staatsbürgerschaft | Verhaeltnisskala  |
+| ausland_rel | Gemeindebewohner mit keiner oesterreichischer Staatsbürgerschaft | Verhaeltnisskala  |
+
+Komplett: Nein, NEOS und Liste Pilz fehlt, absolute Zahlen fehlen bei allen Parteien außer OEVP, dafür fehlt da die relative. 
+
+Korrekt: Ja 
+
+## Metriken
+
+| Metrik | OEVP abs | 15-29 | auslaender|
+|--------|---------|---------|---------|
+| Min | 62 | 13,22 | 1,38 |
+| Max | 884 | 18,14 | 7,88 |
+| Range | 822 | 4,92 | 6,5 |
+| Q1 | 272,75 | 14,8825 | 2,4 |
+| Median | 360,5 | 15,8 | 3,805 |
+| Q3 | 436 |17,0925  |5,6775  |
+| Mean | 415,0714286 | 15,845 | 4,095714286 |
+
+
+## Merkmale
+
+Liste je 2-3 Gemeinden mit kleine,, durschschnittlichem und großem Zahlenwert auf.
+
+| Merkmal | Klein | Durchschnitt | Groß |
+|---------|-------|--------------|------|
+| OEVP abs| Niederwölz | St Georgen am Kreischberg | Neumarkt in der St  |
+| 15-29 | St Lambrecht | Oberwölz | Krakau |
+| auslaender | Mühlen | St Peter am Kammersberg | St Lambrecht |
+
+## Boxplot
+
+| Eigenschaft | OEVP| 15-29 | auslaender|
+|-------------|---------|---------|---------|
+| Symmetrie | symmetrisch | leicht nach links verschoben | nach links verschoben |
+| Box:Range | 1:4 | 1:2 | 1:1.5 |
+| Outlier | 3 Outlier, extrem, oben | keine | keine |
