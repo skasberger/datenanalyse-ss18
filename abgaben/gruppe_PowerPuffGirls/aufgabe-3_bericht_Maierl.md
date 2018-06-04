@@ -42,7 +42,7 @@ Korrekt: Ja
 
 ## Metriken
 
-| Metrik | GrÃ¼ne | 30-44 | 3p_abs |
+| Metrik | Gruene | 30-44 | 3p_abs |
 |--------|--------|--------|--------|
 | Min | 0,64 | 16,5 | 94 |
 | Max | 2,57 | 20,56 | 806 |
@@ -55,18 +55,18 @@ Korrekt: Ja
 
 ## Merkmale
 
-Liste je 2-3 Gemeinden mit kleinem, durschschnittlichem und groÃŸem Zahlenwert auf.
+Liste je 2-3 Gemeinden mit kleinem, durschschnittlichem und grossem Zahlenwert auf.
 
-| Merkmal | Klein | Durchschnitt | GroÃŸ |
+| Merkmal | Klein | Durchschnitt | Gross |
 |---------|-------|--------------|------|
-| GrÃ¼ne | WettmannstÃ¤tten | Schwanberg | Sankt Josef (Weststeiermark) |
-| 30-44 | Sankt Martin im Sulmtal | Deutschlandsberg | WettmannstÃ¤tten |
-| 3p_abs | Sankt Peter im Sulmtal | GroÃŸ Sankt Florian | Deutschlandsberg |
+| Gruene | Wettmannstaetten | Schwanberg | Sankt Josef (Weststeiermark) |
+| 30-44 | Sankt Martin im Sulmtal | Deutschlandsberg | Wettmannstaetten |
+| 3p_abs | Sankt Peter im Sulmtal | Gross Sankt Florian | Deutschlandsberg |
 
 ## Boxplot
 
-| Eigenschaft | GrÃ¼ne | 30-44 | 3p_abs |
+| Eigenschaft | Gruene | 30-44 | 3p_abs |
 |-------------|---------|---------|---------|
-| Symmetrie | leicht nach rechts verzerrt | annÃ¤hernd symmetrisch | stark nach rechts verzerrt |
-| Box:Range | relativ zentriert | relativ zentriert, Box eher schmal im Vergleich zur Range | annÃ¤hernd gleich verteilt im Vergleich zur Range |
-| Outliner | kein starker Outliner, Ein Wert liegt am oberen Whisker bei 2,7 | kein bemerkenswerter Outliner grÃ¶ÃŸter und kleinster Wert liegen jeweils auf den Whiskers| Ein Outliner auÃŸerhalb des oberen Whiskers bei 800 |
+| Symmetrie | leicht nach rechts verzerrt | annaehernd symmetrisch | stark nach rechts verzerrt |
+| Box:Range | relativ zentriert | relativ zentriert, Box eher schmal im Vergleich zur Range | annaehernd gleich verteilt im Vergleich zur Range |
+| Outliner | kein starker Outliner, Ein Wert liegt am oberen Whisker bei 2,7 | kein bemerkenswerter Outliner groessten und kleinster Wert liegen jeweils auf den Whiskers| Ein Outliner ausserhalb des oberen Whiskers bei 800 |
