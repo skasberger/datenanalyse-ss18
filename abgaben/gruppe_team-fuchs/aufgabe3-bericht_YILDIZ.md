@@ -8,7 +8,7 @@ Bezirk: Bruck-Muerzzuschlag
 
 Struktur: Tabelle
 
-Merkmale: 
+Merkmale: gruene_rel, 1p_rel, 0_14_rel
 
 | Merkmal | Inhalt | Skalierung |
 |---------|---------|----------------|
