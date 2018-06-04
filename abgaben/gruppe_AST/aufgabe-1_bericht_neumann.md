@@ -14,7 +14,7 @@ Darfst du laut Lizenz die Daten für Bildungszwecke weiterverwenden?
 Im Impressum steht: Die Übernahme von Beiträgen ist – unter Quellenangabe – gestattet (außer für kommerzielle Zwecke). Demnach dürfte man die Wahlergebnisse verwenden. Auf [data.gv.at](https://www.data.gv.at/katalog/dataset/3179c5b2-9bb5-4a7f-a573-5491ccb0110b) wird für die gleichen Daten die Lizenz "Creative Commons Namensnennung 3.0 Österreich" angegeben. Dort heißt es, man darf die Daten teilen und bearbeiten, auch für kommerzielle Zwecke. Man muss Namen und Link zur Quelle angeben und ob und in welcher Weise man die Datei bearbeitet hat. Zur Sicherheit würde ich bei der zuständigen Stelle nachfragen.
 
 ## Gibt es Metadaten zu dem Datensatz?
-Nein.
+Nein. Zum zweiten Datensatz auf [data.gv.at](https://www.data.gv.at/katalog/dataset/3179c5b2-9bb5-4a7f-a573-5491ccb0110b) gibt es sehr wohl Metadaten. Das war aber nicht mein Hauptdatensatz.
 
 ## Welche Metadaten bräuchtest du?
-Lizenz
+Lizenz. Eventuell hilfreich wäre das letzte Aktualisierungsdatum.
