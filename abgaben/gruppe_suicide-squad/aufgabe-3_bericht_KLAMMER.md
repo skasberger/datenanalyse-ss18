@@ -1,0 +1,71 @@
+Name: Christina Klammer
+
+Partei: SPÖ
+
+Bezirk: Südoststeiermark (Im Folgenden als „SO“ abgekürzt)
+
+## Inspizieren
+
+Struktur:
+
+Merkmale:
+
+| Merkmal | Inhalt | Skalierung |
+|---------|---------|----------------|
+| gkz | Gemeindekennzahlen | Ordinalskala |
+| gemeinde | Bezeichnung e. Gemeinde | Nominalskala |
+| wahlberechtigt_abs | Wahlberechtigte im Bezirk SO | Verhältnisskala |
+| abgegeben_abs | Anzahl abgegebener Stimmen | Verhältnisskala |
+| ungueltig_rel | Insgesamt ungültige Stimmen umgerechnet in Prozent | Verhältnisskala |
+| gueltig_abs | Anzahl aller gültigen Stimmen | Verhältnisskala |
+| spoe_rel | Prozentanteil aller Stimmen für SPÖ | Verhältnisskala |
+| oevp_abs | Anzahl aller Stimmen für ÖVP | Verhältnisskala |
+| fpoe_rel | Prozentanteil aller gültigen Stimmen für FPÖ | Verhältnisskala | gruene_rel | Anzahl aller Stimmen für Grüne | Verhältnisskala |
+| 0_14_rel | Anzahl der 0-14-Jährigen in Gemeinde | Verhältnisskala |
+| 15_29_rel | Anzahl der 15-29-Jährigen in Bezirk/Gemeinde | Verhältnisskala |
+| 30_44_rel | Anzahl der 30-44-Jährigen in Bezirk/Gemeinde | Verhältnisskala |
+| 45_59_rel | Anzahl der 45-59-Jährigen in Bezirk/Gemeinde | Verhältnisskala |
+| 60_74_rel | Anzahl der 60-74-Jährigen in Bezirk/Gemeinde | Verhältnisskala |
+| 75_abs | Anzahl der 75-Jährigen und älteren Menschen in Bezirk/Gemeinde | Verhältnisskala |
+| 1p_rel | Prozentsatz der 1-Personenhaushalte | Verhältnisskala |
+| 2p_rel | Prozentsatz der 2-Personenhaushalte | Verhältnisskala |
+| 3p_abs | Anzahl der 3-Personenhaushalte | Verhältnisskala |
+| 4p_rel | Prozentsatz der 4-Personenhaushalte | Verhältnisskala |
+| 5p_rel | Prozentsatz der 5-Personenhaushalte | Verhältnisskala |
+| oesterreich_abs | Anzahl Einwohner mit österr. Staatsbürgerschaft | Verhältnisskala |
+| ausland_rel | Anzahl Einwohner mit nicht-österr. Staatsbürgerschaft | Verhältnisskala |
+
+Komplett: Es fehlen Parteien (zB. Neos, Liste Pilz), weiters wurde nicht zwischen männlichen und weiblichen WählerInnen unterschieden. Auch wurde deren Ausbildungsgrad nicht angegeben. Auch, dass die meisten Werte nur relativ oder nur absolut angegeben sind, ist verbesserungswürdig. 
+
+Korrekt: Der Datensatz ist korrekt. 
+
+## Metriken
+
+| Metrik | SPÖ rel. | Altersgruppe 30-44 | 5 Pers. rel.|
+|--------|---------|---------|---------|
+| Min | 8,02 | 15,54 | 4,26 |
+| Max | 20,03 | 24,02 | 17,67 |
+| Range | 12,01 | 8,48 | 13,41 |
+| Q1 | 11,16 | 18,11 | 9,03 |
+| Median | 14,40 | 18,99 | 11,09 |
+| Q3 | 18,26 | 19,53 | 14,38 |
+| Mean | 14,70 | 19,07 | 11,58 |
+
+
+## Merkmale
+
+Liste je 2-3 Gemeinden mit kleinem, durchschnittlichem und großem Zahlenwert auf.
+
+| Merkmal | Klein | Durchschnitt | Groß |
+|---------|-------|--------------|------|
+| SPÖ rel. | Unterlamm | Eichkögl | Mureck
+| Altersgruppe 30-44 | Bad Radkersburg | Mettersdorf a. S. | Eichkögl |
+| 5 Pers. rel. | Bad Radkersburg | Paldau | Kapfenstein |
+
+## Boxplot
+
+| Eigenschaft | SPÖ rel. | Altersgruppe 30-44 | 5-Personenhaushalt|
+|-------------|---------|---------|---------|
+| Symmetrie | symmetisch | skewed right | recht symmetrisch, etwas skewed left |
+| Box:Range | breit | schmal | mittelmäßig |
+| Outlier | keine | jeweils rechts und links außerhalb | keine |
