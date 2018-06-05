@@ -92,8 +92,31 @@ Das Boxplot ist horizontal ausgerichtet und in seiner Breite verringert worden, 
 
 Kategorie,Min,Max,Range,Mean,Q1,Median,Q3:
 
-FPÖ-Wähler,166,778,612,657,327,527,825
+FPÖ-Wähler,
+23,71
+41,17
+17,46
+34,9238461538462
+33,2825
+35,645
+37,1775
 
-2-Personen-Haushalte,109,368,259,359,142,256,455
 
-45-59 Jahre,291,931,640,823,365,713,956
+
+2-Personen-Haushalte,
+21,17
+32,4
+11,23
+27,9396153846154
+25,8
+28,995
+30,055
+
+45-59 Jahre,
+22,33
+27,85
+5,52
+24,94
+24,19
+25,07
+25,85

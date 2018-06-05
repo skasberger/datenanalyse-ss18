@@ -1,0 +1,78 @@
+Name: ARZBERGER RAMONA
+
+Partei: vernachlässigen
+
+Bezirk: Bruck-Mürzzuschlag
+
+## Inspizieren
+
+Struktur: Tabelle
+
+Merkmale: fpoe_rel, ausland_rel, 30_44_rel
+
+| Merkmal | Inhalt | Skalierung |
+|---------|---------|----------------|
+| gkz | Gemeindekennzahl | nominal |
+| gemeinde | Name der Gemeinde | nominal |
+| wahlberechtigt_abs | Anzahl der Wahlberechtigten in absoluten Zahlen | Verhältnis |
+| abgegeben_abs | Anzahl der abgegebenen Stimmen in absoluten Zahlen | Verhältnis |
+| ungueltig_rel | Anzahl der ungültigen Stimmen in Prozent | Verhältnis |
+| gueltig_abs | Anzahl der gültigen Stimmen in absoluten Zahlen | Verhältnis |
+| spoe_rel | Stimmen für die SPÖ in Prozent | Verhältnis |
+| oevp_abs | Stimmen für die ÖVP in absoluten Zahlen  | Verhältnis |
+| fpoe_rel | Stimmen für die FPÖ in Prozent | Verhältnis |
+| gruene_rel | Stimmen für die Grünen in Prozent | Verhältnis |
+| 0_14_rel | Anzahl der 0-14-jährigen in Prozent | Verhältnis |
+| 15_29_rel | Anzahl der 15-29-jährigen in Prozent | Verhältnis |
+| 30_44_rel | Anzahl der 30-44-jährigen in Prozent | Verhältnis |
+| 45_59_rel | Anzahl der 45-59-jährigen in Prozent | Verhältnis |
+| 60_74_rel | Anzahl der 60-74-jährigen in Prozent | Verhältnis |
+| 75_abs | Anzahl der 75-jährigen in absoluten Zahlen | Verhältnis |
+| 1p_rel | Einpersonenhaushalt in Prozent | Verhältnis |
+| 2p_rel | Zweipersonenhaushalt in Prozent | Verhältnis |
+| 3p_abs | Dreipersonenhaushalt in absoluten Zahlen | Verhältnis |
+| 4p_rel | Vierpersonenhaushalt in Prozent | Verhältnis |
+| 5p_rel | Fünfpersonenhaushalt in Prozent | Verhältnis |
+| oesterreich_abs | Anzahl der österreichischen Staatsbürger in absoluten Zahlen |Verhältnis |
+| ausland_rel | Anzahl der ausländischen Staatsbürger in Prozent | Verhältnis |
+
+Komplett:
+Nein, die Daten sind nicht komplett. Es sind nicht alle Parteien abgebildet. Kleinere Parteien fehlen. Zudem fehlen die Haushalte, in denen mehr als 6 Personen leben. die Datei ist nicht komplett, da nicht alle Parteien abgebildet sind, die kleineren Parteien fehlen.
+
+Korrekt: Ja die Daten sind korrekt. Zumindest konnte ich keine Fehler finden.
+
+## Metriken
+
+| Metrik | fope_rel | ausland_rel | 30_44_rel|
+|--------|----------|------|---------|
+| Min |24,61 | 2,13 | 13,68 |
+| Max | 35,46 | 16,31 | 21,17 |
+| Range |10,85  | 14,18 | 7,49 |
+| Q1 | 29,31 |  3,5 |  15,53|
+| Median |31,43  |5,24  | 17,05 |
+| Q3 | 32,5 |  8,98 | 18,12 |
+| Mean | 31,02 | 6,56 | 16,95 |
+
+
+## Merkmale
+
+Liste je 2-3 Gemeinden mit kleine,, durschschnittlichem und großem Zahlenwert auf.
+
+| Merkmal | Klein | Durchschnitt | Groß |
+|---------|-------|--------------|------|
+| fpoe_rel | Breitenau am Hochlantsch | Tragöß - Sankt Katharein | Sankt Marien im Mürztal  |
+| ausland_rel | Krieglach | Aflenz | Kapfenberg |
+| 30_44_rel | Spital am Semmering | Thörl | Sankt Martin im Mürztal |
+
+## Boxplot
+
+| Eigenschaft | fpoe_rel | ausland_rel | BOXPLOT |
+|-------------|---------|---------|---------|
+| Symmetrie | annähernd symmetrisch | nicht wirklich symmetrisch | annähernd symmetrisch |
+| Box:Range | Daten sind ziemlich regelmäßig verteilt | weit verteilt | im oberen Bereich sind mehr Daten, jedoch allgemein nicht sehr weit verteilt |
+| Outlier | 25 | keine Outlier | 21 |
+
+
+
+
+

@@ -1,0 +1,73 @@
+Name: Sophie Marak
+
+Partei: SPOE
+
+Bezirk: Murau
+
+## Inspizieren
+
+Struktur:
+
+Merkmale:
+
+| Merkmal | Inhalt | Skalierung |
+|---------|---------|----------------|
+| gkz | Gemeindekennzahlen | Ordinalsskala |
+| gemeinde | Gemeinde | Nominalskala |
+| wahlberechtigt_abs | Wahlberechtigte absolut | Verhaeltnisskala |
+| abgegeben_abs | Abgegebene Stimmen absolut | Verhaeltnisskala |
+| ungueltig_rel | Ungueltige Stimmen relativ | Verhaeltnisskala |
+| gueltig_abs | Gueltige Stimmen absolut | Verhaeltnisskala |
+| spoe_rel | Stimmen für die SPOE relativ | Verhaeltnisskala |
+| oevp_abs | Stimmen für die OEVP absolut | Verhaeltnisskala |
+| fpoe_rel | Stimmen für die FPOE relativ | Verhaeltnisskala |
+| gruene_rel | Stimmen für die Gruenen relativ | Verhaeltnisskala |
+| 0_14_rel | Einwohner zwischen 0 und 14 Jahre relativ | Verhaeltnisskala |
+| 15_29_rel | Einwohner zwischen 15 und 29 Jahre relativ | Verhaeltnisskala |
+| 30_44_rel | Einwohner zwischen 30 und 44 Jahre relativ | Verhaeltnisskala |
+| 45_59_rel | Einwohner zwischen 45 und 59 Jahre relativ | Verhaeltnisskala |
+| 60_74_rel | Einwohner zwischen 60 und 74 Jahre relativ | Verhaeltnisskala |
+| 75_abs | Einwohner ab 75 Jahre absolut | Verhaeltnisskala |
+| 1p_rel | 1-Personenhaushalt relativ | Verhaeltnisskala |
+| 2p_rel | 2-Personenhaushalt relativ | Verhaeltnisskala |
+| 3p_abs | 3-Personenhaushalt relativ | Verhaeltnisskala |
+| 4p_rel | 4-Personenhaushalt relativ | Verhaeltnisskala |
+| 5p_rel | 5-Personenhaushalt relativ | Verhaeltnisskala |
+| oesterreich_abs | Oesterreichische Staatsbuerger absolut | Verhaeltnisskala |
+| ausland_rel | Nicht-Oesterreichische Staatsbuerger relativ | Verhaeltnisskala |
+
+Komplett: Nein. Es fehlen unter anderem Parteien, nämlich genau 6 davon
+
+Korrekt: Nein. NEOS und Liste Pilz und die anderen fehlenden Parteien, sonst kann dieses Datenset niemals korrekt sein!
+
+## Metriken
+
+| Metrik | SPOE relativ | 1p relativ | 30 - 44 relativ |
+|--------|---------|---------|---------|
+| Min | 16,3 | 19,44 | 16 |
+| Max | 32,1 | 36,44 | 24,03 |
+| Range | 15,8 | 17 | 8,03 |
+| Q1 | 18,68 | 24,9275 | 17,165 |
+| Median | 21,74 | 28,73 | 18,255 |
+| Q3 | 25,34 | 32,0425 | 19,0575 |
+| Mean | 22,66 | 28,69 | 18,37071429 |
+
+
+## Merkmale
+
+Liste je 2-3 Gemeinden mit kleine,, durschschnittlichem und großem Zahlenwert auf.
+
+| Merkmal | Klein | Durchschnitt | Groß |
+|---------|-------|--------------|------|
+| SPOE relativ| Sankt Georg | Neumarkt in Steiermark, Schoeder | Muehlen |
+| 1p realtiv | Krakau | Muehlen, Sankt Georgen am Kreischberg, Teufenbach-Katsch | Murau |
+| 30-44 relativ | Muehlen | St. Peter am Kammersberg, Krakau, Ranten | Niederwoelz |
+
+## Boxplot
+
+| Eigenschaft | SPOE relativ| 1p relativ | 30 - 44 relativ |
+|-------------|---------|---------|---------|
+| Symmetrie | nicht symmetrisch | relativ symmetrisch | nicht symmetrisch |
+| Box:Range | ist normal | fast 1:1 | Eng zusammen liegend mit einem weitem Ausreißer |
+| Outlier | hat keinen | hat keinen | hat einen |
+
