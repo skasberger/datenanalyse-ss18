@@ -1,0 +1,7 @@
+# Murau bei Grünwählern im Bundestrend
+
+Die Nationalratswahl 2017 zeigt wieder: Städter wählen eher Grün. Auch eine Bezirkshauptstadt der Steiermark, Murau, liegt in diesem Trend. 2,28 Prozent der Wähler machten ihr Kreuz bei den Grünen. Murau stellt damit einen Sonderfall in seinem Bezirk dar. Keine andere Gemeinde hatte so viele Grünwähler. Der Mittelwert im Bezirk lag gar nur bei unter einem Prozent. Auch in der mehrheitlich türkisen Steiermark war das Murauer Grünen-Ergebnis überdurchschnittlich hoch. Denn im Bundesland haben durchschnittlich 1,5 Prozent der wahlberechtigten Personen Grün gewählt.
+
+Auffällig ist, dass ein Zusammenhang zwischen einem schlechteren Ergebnis der Grünen und der Häufigkeit von Fünf-Personen-Haushalten besteht. Je mehr Personen in einem Haushalt leben, desto schlechter schneidet die Umwelt-Partei ab. Das könnte daran liegen, dass ihr Programm nicht unbedingt auf die von größeren Familien abzielt.
+
+Auch an einem anderen soziodemografischen Merkmal zeigt sich ein Bundestrend. Je größer der Ausländeranteil in einer Gemeinde ist, desto besser schneiden die Grünen dort ab. Das liegt vermutlich daran, dass die Bevölkerung in diesen Gemeinden vermehrt mit Nicht-Österreichern in Kontakt ist und dadurch ein positiveres Bild von ausländischen Menschen hat. Dadurch fällt das Wahlprogramm der Grünen hier eher auf fruchtbaren Boden. Dieser Trend hat sich auch bereits bei der Bundespräsidentschaftswahl 2016 gezeigt.
