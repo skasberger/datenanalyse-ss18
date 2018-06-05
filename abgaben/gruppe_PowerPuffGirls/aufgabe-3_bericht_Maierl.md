@@ -36,9 +36,9 @@ Merkmale: Gruene, 30-44, 3p_abs
 | oesterreich_abs | Anzahl der Buerger mit oesterreichischer Staatsbuergerschaft in der Gemeinde in absoluten Zahlen| Verhaeltnisskala |
 | ausland_rel | Anzahl der Buerger ohne oesterreichische Staatsbuergerschaft in der Gemeinde in Prozent | Verhaeltnisskala |
 
-Komplett: Ja
+Komplett: Nein, das Datenset weisst lediglich von manchen Parteien jeweils den relativen ODER den absoluten Wert aus. Beispielsweise fehlt von der OEVP der relative Wert und von den restlichen Parteien der absolute Wert. Ebenso mit anderen Merkmalen wie Alter oder Personenhaushalten.
 
-Korrekt: Ja
+Korrekt: Ja, die vorhandenen Daten sind korrekt
 
 ## Metriken
 
