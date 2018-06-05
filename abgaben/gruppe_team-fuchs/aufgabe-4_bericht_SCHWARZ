@@ -1,0 +1,22 @@
+Name: LINDA SCHWARZ
+
+Bezirk: BRUCK-MÜRZZUSCHLAG
+
+## KORRELATION
+
+
+| Merkmals-Kombination | Korrelations-Koeffizient | Stärke | Richtung |
+|----------------------|--------------------------|--------|----------|
+| WAHLBERECHTIGTE_ABS - SPOE_REL |0,434449431 | MITTEL |POSITIV  |
+| SPOE_REL - 75_ABS |0,481460012| MITTEL| POSITIV |
+| WAHLBERECHTIGTE_ABS - 75_ABS |0,995632619  | SEHR STARK | POSITIV |
+
+
+**Zusammenhang MERKMAL - MERKMAL**
+PERFEKTER POSITIVER ZUSAMMENHANG
+
+**Zusammenhang MERKMAL - MERKMAL**
+PERFEKTER POSITIVER ZUSAMMENHANG
+
+**Zusammenhang MERKMAL - MERKMAL**
+PERFEKTER POSITIVER ZUSAMMENHANG
