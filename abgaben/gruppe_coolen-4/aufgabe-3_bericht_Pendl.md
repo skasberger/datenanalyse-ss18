@@ -29,7 +29,7 @@ Es wurden im Datensaatz 0-14 Jährige berücksichtig, die natürlich nicht wähl
 
 | Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
 | --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
-| 172 | 1852 | 1680 | 335     | 387 |      733,5 |      460 |
+| 172 | 1852 | 1680 | 335     | 598,32 |      733,5 |      460 |
 
 
 ### Metriken Sozio-ökonomische Daten
@@ -37,13 +37,13 @@ Es wurden im Datensaatz 0-14 Jährige berücksichtig, die natürlich nicht wähl
 
 | Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
 | --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
-| 35 | 537 | 502 | 87        | 126 |      245 |      132 |
+| 8,69 | 20,42 | 11,73 | 16,41        | 16,87 |      18,33 |      17,33 |
 
 5-Personen-Haushalt
 
 | Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
 | --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
-| 25 | 260 | 235 | 73        | 65 |      136,5 |      94 |
+| 4,29 | 26,92 | 22,63 | 10,03        | 13,49 |      18,18 |      13,47 |
 
 ### Boxplot
 Ich habe bei der Erstellung meiner drei Boxplots auf eine Veränderung der Einstellungen verzichtet. Durch meine Daten sind die Boxplots realtiv groß und übersichtlich. Man kann dadurch Rückschlüsse auf das grundlegende Datenset ziehen, weshalb ich die standardmäßigen Einstellungen als durchwegs ausreichend erachte.
