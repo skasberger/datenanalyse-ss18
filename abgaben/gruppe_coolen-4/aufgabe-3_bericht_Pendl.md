@@ -54,4 +54,11 @@ Es wurden im Datensaatz 0-14 Jährige berücksichtig, die natürlich nicht wähl
 | 5p_rel  | Gleisdorf, Weiz | Miesenbach bei Birkfeld, Gasen | Thannhausen, Sinabelkirchen |
 
 ### Boxplot
+
+| Boxplot | Symmetrisch/skewed| Breit/schmal | Outlier |
+|---------|-------|--------------|------|
+| oevp_abs| skewed | schmal | ja, nach oben |
+| 4p_rel  | skewed | schmal | ja, nach unten |
+| 5p_rel  | skewed | schmal| ja, nach oben |
+
 Ich habe bei der Erstellung meiner drei Boxplots auf eine Veränderung der Einstellungen verzichtet. Durch meine Daten sind die Boxplots realtiv groß und übersichtlich. Man kann dadurch Rückschlüsse auf das grundlegende Datenset ziehen, weshalb ich die standardmäßigen Einstellungen als durchwegs ausreichend erachte.
