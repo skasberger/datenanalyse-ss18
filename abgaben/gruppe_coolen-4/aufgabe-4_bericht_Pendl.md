@@ -1,6 +1,6 @@
-Name: VORNAME NACHNAME
+Name: Martin Pendl
 
-Bezirk: 
+Bezirk: Weiz
 
 ## KORRELATION
 
@@ -12,13 +12,13 @@ Bezirk:
 | 4p_rel - 5p_rel | 0,604091717 | stark | positiv |
 
 
-**Zusammenhang MERKMAL - MERKMAL**
+**Zusammenhang oevp_abs - 4p_rel**
 
 
-**Zusammenhang MERKMAL - MERKMAL**
+**Zusammenhang oevp_abs - 5p_rel**
 
 
-**Zusammenhang MERKMAL - MERKMAL**
+**Zusammenhang 4p_rel - 5p_rel**
 
 
 
