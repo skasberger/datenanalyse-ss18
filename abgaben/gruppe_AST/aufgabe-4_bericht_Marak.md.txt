@@ -1,0 +1,22 @@
+Name: Sophie Marak
+
+Bezirk: Murau
+
+## KORRELATION
+
+
+| Merkmals-Kombination | Korrelations-Koeffizient | Stärke | Richtung |
+|----------------------|--------------------------|--------|----------|
+| SPOE relativ - 1p relativ | 0,217517886 | schwach | positiv |
+| 1p relativ - 30 - 44 relativ | -0,070599195 | sehr schwach - beihnahe kein Zusammenhang | negativ |
+| 30 - 44 relativ - SPOE relativ | -0,321592448 | schwach | negativ |
+
+
+**Zusammenhang SPOE relativ - 1p relativ**
+Es gibt kaum einen Zusammenhang zwischen SPOE-Waehler und 1-Personen-Haushalten. Warum das so ist, kann ich nicht beantworten.
+
+**Zusammenhang 1p relativ - 30 - 44 relativ**
+Es gibt keinen Zusammenhang zwischen 1-Personen-Haushalten und der Bevölkerung zwischen 30 und 44. Warum das so ist, kann ich nicht beantworten.
+
+**Zusammenhang 30 - 44 relativ - SPOE relativ**
+Es gibt kaum einen Zusammenhang zwischen der Bevölkerung zwischen 30 und 44 und SPOE-Waehlern. Warum das so ist, kann ich nicht beantworten.
