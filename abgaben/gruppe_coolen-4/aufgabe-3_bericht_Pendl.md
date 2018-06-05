@@ -45,5 +45,13 @@ Es wurden im Datensaatz 0-14 Jährige berücksichtig, die natürlich nicht wähl
 | --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
 | 4,29 | 26,92 | 22,63 | 10,03        | 13,49 |      18,18 |      13,47 |
 
+### Merkmale
+
+| Merkmal | Klein | Durchschnitt | Groß |
+|---------|-------|--------------|------|
+| oevp_abs| St. Kathrein am Hauenstein, Miesenbach bei Birkfeld | Strallegg, Thannhausen | Gleisdorf, Weiz |
+| 4p_rel  | Weiz, Rettenegg | Fischbach, Birkfeld | Gasen, Strallegg |
+| 5p_rel  | Gleisdorf, Weiz | Miesenbach bei Birkfeld, Gasen | Thannhausen, Sinabelkirchen |
+
 ### Boxplot
 Ich habe bei der Erstellung meiner drei Boxplots auf eine Veränderung der Einstellungen verzichtet. Durch meine Daten sind die Boxplots realtiv groß und übersichtlich. Man kann dadurch Rückschlüsse auf das grundlegende Datenset ziehen, weshalb ich die standardmäßigen Einstellungen als durchwegs ausreichend erachte.
