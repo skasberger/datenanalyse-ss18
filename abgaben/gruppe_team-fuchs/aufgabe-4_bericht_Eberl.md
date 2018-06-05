@@ -1,10 +1,10 @@
 Name: Daniel Eberl
-Bezirk: Bruck-Mürzzuschlag
+Bezirk: Bruck-MÃ¼rzzuschlag
 
 ## KORRELATION
 
 
-| Merkmals-Kombination | Korrelations-Koeffizient | Stärke | Richtung |
+| Merkmals-Kombination | Korrelations-Koeffizient | StÃ¤rke | Richtung |
 |----------------------|--------------------------|--------|----------|
 | OEVP_abs - 60-74_rel |-0,189809975  |schwach  |negativ  |
 | OEVP_abs - oesterreich_abs |0,965217915  |sehr stark  |positiv  |
