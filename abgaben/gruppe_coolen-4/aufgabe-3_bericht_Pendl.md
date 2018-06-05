@@ -43,7 +43,7 @@ Es wurden im Datensaatz 0-14 Jährige berücksichtig, die natürlich nicht wähl
 
 | Min  | Max  | Range  | Quartil 1  | Mean  | Quartil 3  | Median  |
 | --- |:-----:| -----:| -----------:| -----:| --------:| ---------:|
-| 4,29 | 26,92 | 22,63 | 10,03        | 13,49 |      18,18 |      13,47 |
+| 4,29 | 26,92 | 22,63 | 10,03        | 13,49 |      16,02 |      13,47 |
 
 ### Merkmale
 
