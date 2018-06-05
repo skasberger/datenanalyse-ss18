@@ -1,0 +1,30 @@
+Name: RAMONA ARZBERGER
+
+Bezirk: 
+
+## KORRELATION
+
+
+| Merkmals-Kombination | Korrelations-Koeffizient | Stärke | Richtung |
+|----------------------|--------------------------|--------|----------|
+| fpoe_rel - 30_44_rel |  0,391546006 | Schwach | positiv |
+| fope_rel - ausland_rel | 0,435929355 | Mittel | positiv  |
+| ausland_rel - 30_44_rel | -0,04499315 | Schwach (oder kein Zusammenhang) | negativ |
+
+
+**Zusammenhang fpoe_rel - 30_44_rel**
+
+perfekt positiver linearer Zusammenhang
+
+**Zusammenhang fope_rel - ausland_rel **
+
+perfekt positiver linearer Zusammenhang
+
+**Zusammenhang ausland_rel - 30_44_rel **
+
+perfekt negativer linearer Zusammenhang
+
+
+
+
+
