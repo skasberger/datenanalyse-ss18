@@ -17,5 +17,6 @@ Gab es Schwierigkeiten beim Review bzw. beim Beurteilen?
 Nein eher was die Klärung von Rechten und Lizenzen betrifft. Aber das beurteilen für sich hat kein großes Problem dargestellt.
 
 # Hier die Links zu den Issues
+
 [Suicide Squad](https://github.com/skasberger/datenanalyse-ss18/issues/108)
-[Die coolen 4] (https://github.com/skasberger/datenanalyse-ss18/issues/108)
+[Die coolen 4](https://github.com/skasberger/datenanalyse-ss18/issues/107)
