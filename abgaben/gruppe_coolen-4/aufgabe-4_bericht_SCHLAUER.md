@@ -16,9 +16,9 @@ Bezirk: Weiz
 Der positive Zusammenhang bedeutet, dass unter den abgegenen Stimmen eher die FPÖ gewählt wurde. Zusammenhang ist aber eher schwach, daher nicht sehr aussagekräftig.
 
 **Zusammenhang abgegeben - ausland**
-Dieser Zusammenhang zeigt, dass unter den abgegebenen Stimmen auch etliche aus dem Ausland dabei sind.
+Dieser Zusammenhang ist für eine Analyse völlig unrelevant. 
 
 **Zusammenhang fpoe - ausland**
-Der negative Zusammenhang bedeutet, dass die FPÖ nur ganz wenige Stimmen aus dem Ausland bekommen hat.
+Der negative Zusammenhang bedeutet, dass die FPÖ weniger Stimmen in Gemeinden bekommt, wo der Ausländeranteil höher ist.
 
 
