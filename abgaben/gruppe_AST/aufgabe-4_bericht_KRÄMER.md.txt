@@ -1,0 +1,23 @@
+Name: Tabea Krämer
+
+Bezirk: Murau
+
+## KORRELATION
+
+
+| Merkmals-Kombination | Korrelations-Koeffizient | Stärke | Richtung |
+|----------------------|--------------------------|--------|----------|
+| OEVP abs - 15-29 Jaehrige rel| 0.008918622711991 | extrem schwach | positiv |
+| 15 - 29 rel - Auslaender rel | -0.442583390681536 | mittel | negativ |
+| Auslaender rel - OEVP abs | 0.268474185435082 | schwach | positiv |
+
+
+**Zusammenhang OEVP abs - 15-29 Jaehrige rel**
+Es gibt absolut gar keinen Zusammenhang zwischen OEVP-Waehler und 15-29 Bewohnern. Ich weiß nicht,w arum das so ist. Vielleicht weil Junge die konservative Partei nicht waehlen. 
+
+**Zusammenhang 15 - 29 rel - Auslaender rel**
+Es gibt einen mittleren Zusammenhang zwischen 15-29 Jaehrigen und Auslaendern. In Gemeinden mit vielen 15-29 Jaehrigen gibt e wenige Auslaender. Der Zusammenhang macht für
+mich keinen Sinn. 
+
+**Zusammenhang Auslaender rel - OEVP abs**
+Es gibt kaum einen Zusammenhang zwischen den Auslaendern und OEVP-Waehlern. Vielleicht weil, Auslaender rechtere Parteien (FPOE) oder linkere Parteien (GRUENE) waehlen. 
