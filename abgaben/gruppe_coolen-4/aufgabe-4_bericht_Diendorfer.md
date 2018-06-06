@@ -13,9 +13,11 @@ Bezirk: Weiz
 
 
 **Zusammenhang gruene_rel - 1p_rel**
+
 Grundsätzlich zeigt mir dieser Zusammenhang, dass in 1 Personen Haushalten eher grün gewählt wird. Dieser Zusammenhang ist jedoch schwach und somit nicht sehr aussagekräftig. 
 
 **Zusammenhang 1p_rel - 45_59_rel**
+
 Hier lässt sich kein Bezug zur Wahl herstellen. Daher ist dieser Zusammenhang nicht von Relevanz.
 
 **Zusammenhang gruene_rel - 45_59_rel**
