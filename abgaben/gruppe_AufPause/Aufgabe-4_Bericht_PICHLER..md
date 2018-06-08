@@ -21,7 +21,7 @@ Kein Zusammenhang zwischen 15-29-Jährigen und FPÖ-Wählerschaft
 
 **Zusammenhang 0-14rel -15-29rel**
 
-Kein Zusammenhang zwischen 0-14-jährigen und 15-29-jährigen und FPÖ Wählern
+Kein Zusammenhang zwischen 0-14-jährigen und 15-29-jährigen FPÖ Wählern
 
 
 
