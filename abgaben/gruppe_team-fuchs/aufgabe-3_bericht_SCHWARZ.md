@@ -61,9 +61,9 @@ Liste je 2-3 Gemeinden mit kleinem, durschschnittlichem und großem Zahlenwert a
 
 | Merkmal | Klein | Durchschnitt | Groß |
 |---------|-------|--------------|------|
-| wahlberechtigte_abs | Spital am Semmering  |  | Kapfenberg |
-| spoe_rel |  |  |  |
-| 75_abs |  |  |  |
+| wahlberechtigte_abs | Spital am Semmering  | Neuberg an der Mürz | Kapfenberg |
+| spoe_rel | Langenwang | Sankt Marein im Mürztal | Mürzzuschlag|
+| 75_abs | Stanz im Mürztal  | Neuberg an der Mürz | Kapfenberg |
 
 ## Boxplot
 
