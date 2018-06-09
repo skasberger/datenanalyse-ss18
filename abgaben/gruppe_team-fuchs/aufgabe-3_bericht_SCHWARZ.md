@@ -65,12 +65,12 @@ Liste je 2-3 Gemeinden mit kleinem, durschschnittlichem und großem Zahlenwert a
 | spoe_rel | Langenwang | Sankt Marein im Mürztal | Mürzzuschlag|
 | 75_abs | Stanz im Mürztal  | Neuberg an der Mürz | Kapfenberg |
 
-## Boxplot
+## Boxplot (noch zum Ausbessern, brauche Hilfe, danke!)
 
 Gib zu den Eigenschaften Symmetrie, Box-Range Verhältnis und Outlier kurz an, was du gefunden hast.
 
-| Eigenschaft | BOXPLOT | BOXPLOT | BOXPLOT |
+| Eigenschaft | wahlberechtigte.abs | spoe.rel | 75.abs |
 |-------------|---------|---------|---------|
-| Symmetrie |  |  |  |
-| Box:Range Verhältnis |  |  |  |
-| Outlier |  |  |  |
+| Symmetrie | bitte helfen, versteh ich nicht | bitte helfen, versteh ich nicht |  bitte helfen, versteh ich nicht |
+| Box:Range Verhältnis | schmal | breit | schmal |
+| Outlier | Ja | Ja | Ja |
