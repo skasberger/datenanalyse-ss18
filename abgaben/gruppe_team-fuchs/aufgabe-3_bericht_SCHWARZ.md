@@ -36,23 +36,23 @@ Merkmale: wahlberechtigte_abs., spoe_rel., 75_asb.
 | oesterreich_abs | Anzahl der österreichischen Staatsbürger in absoluten Zahlen |Verhältnis |
 | ausland_rel | Anzahl der ausländischen Staatsbürger in Prozent | Verhältnis |
 
-Komplett:
+Komplett: Die Daten sind nicht komplett. Auffallend dabei ist, dass einige Parteien nicht vorkommen - nur die großen und bekannten, die kleinen Parteien fehlen. Zudem werden  nur Haushalte bis zu 5 Personen abgebildet, alles darüber hinaus fehlt.
 
-Korrekt: 
+Korrekt: Ja, die Daten sind nach meine Einschätzung korrekt.
 
 ## Metriken
 
 Gib die Metriken zu den einzelnen Merkmalen an.
 
-| Metrik | MERKMAL | MERKMAL | MERKMAL |
+| Metrik | wahlberechtigte_abs. | spoe_rel. | 75_asb. |
 |--------|---------|---------|---------|
-| Min |  |  |  |
-| Max |  |  |  |
-| Range |  |  |  |
+| Min | 1266 | 22,75  | 185 |
+| Max | 16959  |  37,19 | 2577 |
+| Range | 15693 | 14,44 | 2392 |
 | Q1 |  |  |  |
-| Median |  |  |  |
+| Median | 2531 | 31,915 | 369,5 |
 | Q3 |  |  |  |
-| Mean |  |  |  |
+| Mean |  4378,1 | 32, 34 | 697,17 |
 
 
 ## Merkmale
