@@ -44,15 +44,15 @@ Korrekt: Ja, die Daten sind nach meine Einschätzung korrekt.
 
 Gib die Metriken zu den einzelnen Merkmalen an.
 
-| Metrik | wahlberechtigte_abs. | spoe_rel. | 75_asb. |
+| Metrik | wahlberechtigte_abs. | spoe_rel. | 75_abs. |
 |--------|---------|---------|---------|
 | Min | 1266 | 22,75  | 185 |
-| Max | 16959  |  37,19 | 2577 |
-| Range | 15693 | 14,44 | 2392 |
-| Q1 |  |  |  |
-| Median | 2531 | 31,915 | 369,5 |
-| Q3 |  |  |  |
-| Mean |  4378,1 | 32, 34 | 697,17 |
+| Max | 16959  |  38,61 | 2577 |
+| Range | 15693 | 15,86 | 2392 |
+| Q1 | 1571 | 28,685 | 270,5 |
+| Median | 2133 | 31,59 | 359 |
+| Q3 | 6246,5 | 37,065 |  1032,5 |
+| Mean | 4232,736842 - 4232,74  | 32,37764706 - 32,38| 727,1176471 - 727, 18 |
 
 
 ## Merkmale
@@ -61,9 +61,9 @@ Liste je 2-3 Gemeinden mit kleinem, durschschnittlichem und großem Zahlenwert a
 
 | Merkmal | Klein | Durchschnitt | Groß |
 |---------|-------|--------------|------|
-| MERKMAL |  |  |  |
-| MERKMAL |  |  |  |
-| MERKMAL |  |  |  |
+| wahlberechtigte_abs | Spital am Semmering  |  | Kapfenberg |
+| spoe_rel |  |  |  |
+| 75_abs |  |  |  |
 
 ## Boxplot
 
