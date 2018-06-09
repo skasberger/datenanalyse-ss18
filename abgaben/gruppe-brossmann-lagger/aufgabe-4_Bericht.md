@@ -1,0 +1,7 @@
+FPÖ und ÖVP im Bezirk Hartberg-Fürstenfeld (NRW17)
+
+Im Laufe der LV haben wir uns mit den Ergebnissen der FPÖ und der ÖVP im Bezirk Hartberg-Fürstenfeld beschäftigt. Verglichen mit den Ergebnissen der Gesamtsteiermark lassen sich folgende Aussagen treffen: 
+- Die ÖVP kam in der Gesamtsteiermark auf 31,49%. Im Bezirk Hartberg-Fürstenfeld war das Ergebnis deutlich höher mit insgesamt 39,77%. In Wenigzell kamen sie sogar auf 54,81%, was das höchste Ergebnis im Bezirk darstellt. Aber auch in einigen anderen Gemeinden konnten sie Werte um und über 45% verzeichnen. 
+- Die FPÖ erreichte in der Steiermark ein Gesamtergebnis von 29,42%. Auch die FPÖ erlangt in diesem Bezirk ein höheres Ergebnis, mit insgesamt 33,96% der Stimmen. In Hartl bekam die FPÖ 43.24% der Stimmen, das höchste Ergebnis des Bezirkes. 
+Allgemein lässt sich also feststellen, dass sowohl die ÖVP, als auch die FPÖ in diesem Bezirk zu höheren Ergebnissen kam als in der Gesamtsteiermark. Das hohe Ergebnis der ÖVP in Wenigzell könnte man vielleicht darauf zurückführen, dass nur rund 30% der Bevölkerung unter 30 Jahren alt ist. Die restlichen 70% sind 30 Jahre oder darüber. (KORRELATION ÖVP + 15-29 einfügen). Bei dem Gemeindeergebnis Hartl ist vor allem auffällig, dass der Ausländeranteil in der Gemeinde mit 0,94% einen der niedrigsten des gesamten Bezirkes darstellt. Das allgemein annerkannte Märchen, dass die FPÖ in jenen Gemeinden mit hohem Ausländeranteil am stärksten ist, könnte man so wiederlegen. 
+
