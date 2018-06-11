@@ -5,3 +5,5 @@ Die Nationalratswahl ist geschlagen, die Grünen fliegen definitiv aus dem Parla
 Auch bei der Wahlbeteiligung stechen die Weizerinnen und Weizer aus der Masse heraus: Die Wahlbeteiligung im Bezirk Weiz war mit 71,2 % um rund 10 % höher als in der gesamten Steiermark, wo insgesamt 60,98 % zu den Wahlurnen schritten.
 
 Generell stellte es sich als schwierig heraus, Werte des vorhandenen Datensets miteinander zu vergleichen, da bei einigen Werten relative, bei anderen aber absolute Zahlen angegeben waren.
+Beispielsweise ist es schwierig, die relativen Ergebnisse der SPÖ, der Grünen oder der FPÖ mit den Zahlen der ÖVP zu vergleichen, da diese in absoluten Zahlen angegeben sind. Dasselbe Problem findet man auch bei den Altersgruppen (die ALtersgruppe ab 75 Jahren ist in absoluten Zahlen, alle anderen Altersgruppen in relativen Zahlen) und bei den Personenhaushalten.
+
