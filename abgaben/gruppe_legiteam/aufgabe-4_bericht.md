@@ -1,0 +1,7 @@
+# Pensionisten bestimmen Wahlausgang.
+
+Pölstal im Murtal. Eine kleine Gemeinde mit rund 2670 Einwohnern. Sie steht stellvertretend für viele Gemeinden im Murtal, ein Viertel der Wählberechtigten ist über 75 Jahre alt. Die Ergebnisse der ÖVP korrelieren im diesem Bezirk sehr stark mit der Wählergruppe über 75, je mehr es davon gibt, desto besser sind die Ergebnisse der Volkspartei unter Sebastian Kurz.
+
+Betrachtet man die Geschichte der Schwarzen (oder mitlerweile türkisen) Partei, dass die ältere, ländliche Bevölkerung schon immer eine Zentrale Zielgruppe der ÖVP war. Aus diesem Grund konnte die Partei hier eine treue Stammwählerschaft aufbauen. In dieser Altersgruppe ist auch die Wahlbeteilung sehr groß. Allerding war nur durch das Ansprechen der jüngeren Generation der entscheidende Durchbruch möglich.
+
+Was besonders im Bezirk auffällt, wenn man die konservativen Wähler betrachtet: Der Bezirk Murtal hat wenig FPÖ-Wähler im Vergleich zur gesamten Steiermark. Im Schnitt erhielt die Freiheitliche Partei in der Steiermark zwischen 33 und 34%. Im Bezirk Murtal sammelte die FPÖ im Schnitt knapp 30%. Die Gemeinde Zeltweg kann mit 36,73% den höchsten Wert aufweisen und liegt damit nicht weit über dem steirischen Durchschnitt. Obdach, das repräsentativ für den Durchschnitt in Murtal steht, liegt bei 29,37%. Am wenigsten FPÖ-Wähler sind in Seckau zu finden (21,07%). Die Gründe dafür sind allerdings nicht klar ersichtlich.
