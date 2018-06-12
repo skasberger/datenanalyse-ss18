@@ -1,0 +1,34 @@
+** Nationalratswahlen 2017: Korrelationen **
+
+Name: Samira Frauwallner
+
+Bezirk: Weiz
+
+| Merkmals-Kombination | Korrelations-Koeffizient | Stärke | Richtung |
+|----------------------|--------------------------|--------|----------|
+| 1-PH + Altersgruppe 45 - 59 | mäßig | - 0.42 | negativ |
+| Gültig + 1.Pers.H. | stark | 0.65 | positiv |
+| Altersgruppe + gültig | schwach | 0.33 | negativ |
+
+
+
+** Korrelation zwischen Altersgruppe 45-59 und 1-P-Haushalt **
+Da der erste Korrelationskoeffizient negativ war, heißt das, dass die Linie sinkt und somit nach unten. 
+Es hat einen negativen, mäßigen Zusammenhang. 
+
+Das bedeutet, dass bei mehr 1-P-Haushalten es weniger 45-59-Jährige gibt. 
+Die Aussage ist aber für eine Statistik zu ungenau, weil es sogar wahrscheinlicher ist, dass es nicht zusammenhängt. 
+
+
+** Korrelation zwischen 1-P-Haushalt und Gültig **
+Der Koeffizient war 0,65, das heißt starker positiver Zusammenhang, bedeutet, die Zahl ist näher an 1, das heißt, es ist wahrscheinlicher, 
+dass das eine Merkmal das andere beeinflusst. 				
+
+Das heißt, 1-P-Haushalte wählen mit höherer Wahrscheinlichkeit gültig. 
+
+
+** Korrelation zwischen Altersgruppe und Gültig **
+Der Koeff war -0,3. 											
+Minus bedeutet, dass die Linie nach unten geht. 0,33 bedeutet, dass der Zusammenhang ziemlich schwach ist und sich alles weniger prognostizieren lässt, quasi gar nicht. 											
+Theoretisch gibt es keinen wirklich klaren Zusammenhang. 		
+
